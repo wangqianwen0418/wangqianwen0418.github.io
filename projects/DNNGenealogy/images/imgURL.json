@@ -1,0 +1,110 @@
+{
+    "leNet": [
+        "https://cdn-images-1.medium.com/max/1600/1*BqkU9O6T8lwNbJJN-bS0yw.png"
+    ],
+    "alexNet": [
+        "https://cdn-images-1.medium.com/max/1200/1*qyc21qM0oxWEuRaj-XJKcw.png",
+        "https://software.intel.com/sites/default/files/managed/63/20/mkl-dnn-part-2-fig-05-alexnet.png",
+        "https://arxiv.org/pdf/1312.4400.pdf"
+    ],
+    "NIN":[
+        "https://arxiv.org/pdf/1312.4400.pdf"
+    ],
+    "VGG": [
+        "https://static.wixstatic.com/media/3c6d20_d485f152a74b4df8b3d4b0bf4484196e~mv2.png"
+    ],
+    "inception": [
+        "https://arxiv.org/pdf/1409.4842.pdf",
+        "https://arxiv.org/pdf/1512.00567.pdf"
+    ],
+    "inception_rethink":[
+        "https://arxiv.org/pdf/1512.00567.pdf"   
+    ],
+    "inception_resNet":[
+        "https://arxiv.org/pdf/1602.07261.pdf"
+    ],
+    "DSN":[
+        "https://arxiv.org/pdf/1409.5185.pdf"
+    ],
+    "highwayNets":[
+        "http://tonywangx.github.io/PIC/Highway.png"
+    ],
+    "fractalNet":[
+        "https://arxiv.org/pdf/1605.07648.pdf"
+    ],
+    "resNeXt":[
+        "https://arxiv.org/pdf/1611.05431.pdf"
+    ],
+    "denseNet":[
+        // "https://arxiv.org/pdf/1608.06993.pdf"
+        "https://arxiv.org/pdf/1802.01808.pdf"
+    ],
+    "squeezeNet":[
+        "http://songhan.github.io/SqueezeNet-Residual/figure/type2.jpg"
+    ],
+    "WRN":[
+        "https://arxiv.org/pdf/1605.07146.pdf"
+    ],
+    "RIR":[
+        "https://arxiv.org/pdf/1603.08029.pdf"
+    ],
+    "mixNet":[
+        "https://arxiv.org/pdf/1802.01808.pdf"
+    ],
+    "SPP_net":[
+        "https://images2015.cnblogs.com/blog/587139/201606/587139-20160617111414667-885404339.jpg"
+    ],
+    "uNet":[
+        "from original paper"
+    ],
+    "":[
+
+    ],
+    "r-cnn":[
+        "https://lilianweng.github.io/lil-log/assets/images/rcnn-family-summary.png"
+    ],
+    "fast r-cnn":[
+        "https://lilianweng.github.io/lil-log/assets/images/rcnn-family-summary.png"
+    ],
+    "faster r-cnn":[
+        "https://lilianweng.github.io/lil-log/assets/images/rcnn-family-summary.png"
+    ],
+    "mask r-cnn":[
+        "https://lilianweng.github.io/lil-log/assets/images/rcnn-family-summary.png"
+    ],
+    "RNN":[
+        "https://i.stack.imgur.com/hzZ4m.png"
+    ],
+    "BRNN":[
+        "https://cdn-images-1.medium.com/max/1600/0*PNdnDJ2N-aodfSqa.BRNN"
+    ],
+    "LSTM":[
+        "https://acheremskoy.files.wordpress.com/2017/01/lstm.png"
+    ],
+    "GRU":[
+        "https://cdnpythonmachinelearning.azureedge.net/wp-content/uploads/2017/11/GRU.png?x64257"
+    ],
+    "seq2seq":[
+        // "www.deeplearningbook.org/contents/rnn.html"
+        "DIY"
+    ],
+    "recursive":[
+        "https://www.deeplearningbook.org/contents/rnn.html Figure10.14"
+    ],
+    "ESE":[
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0925231213006206-gr1.jpgESN"
+    ],
+    "stacked RNN":[
+        "https://qph.fs.quoracdn.net/main-qimg-b522e948f5d273af253a8a102d716680S"
+    ],
+    "attention":[
+        "original paper"
+    ],
+    "MTRNN":[
+        "DIY"
+    ],
+    "MLP_RNN":[
+        "DIY"
+    ]
+}
+
