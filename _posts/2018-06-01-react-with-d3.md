@@ -247,4 +247,6 @@ Apart from D3, there are other fantastic data visualization libraries.
 Among these libraries, I personally like [Echarts](https://ecomfe.github.io/echarts-doc/public/en/index.html) and [Vega](https://vega.github.io/vega/examples/) since they have more clear and modern structure designs.
 Moerover, since ECharts and Vega are JSON-specified, they are more easy to be used with React.
 
-**Reference**
+**Reference**  
+[Building interactive visualizations with React, D3, and TypeScript](https://blog.lucify.com/building-interactive-visualizations-with-react-d3-and-typescript-206c7172b0d2)  
+[React + D3.js: Balancing Performance & Developer Experience](https://medium.com/@tibotiber/react-d3-js-balancing-performance-developer-experience-4da35f912484)
