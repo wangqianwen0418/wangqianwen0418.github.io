@@ -6,10 +6,10 @@ url: "http://wangqianwen0418.github.io"
 nav:
   main:
     experiences: "/experiences"
-    writing: "/writing"
     projects: "/projects"
+    blogs: "/writing"
     photos: "/photos"
-  writing:
+  blogs:
     all: "/writing"
     popular: "/writing/popular"
     tags: "/writing/tags"
