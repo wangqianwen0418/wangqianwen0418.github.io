@@ -12,8 +12,8 @@
   description:
     A semi-auto slideshow authoring tool that assists people in explaining visual designs to the non-experts.
   image: "narvis.png"
-  video: ""
-  pdf: ""
+  video: "https://youtu.be/bbRBzumBrX4"
+  pdf: "/assets/pdf/Narvis.pdf"
   url: "/projects/Narvis"
 
 - name: "Hello, Manager!"
