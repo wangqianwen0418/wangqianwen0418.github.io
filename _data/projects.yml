@@ -11,23 +11,28 @@
   date: "2017"
   description:
     A semi-auto slideshow authoring tool that assists people in explaining visual designs to the non-experts.
+    <br/>
+    <b> Published at IEEE InfoVis 2018</b>
   image: "narvis.png"
   video: "https://youtu.be/bbRBzumBrX4"
   pdf: "/assets/pdf/Narvis.pdf"
   url: "/projects/Narvis"
+
+- name: "Draw Your DNN"
+  date: "2017"
+  description:
+    A IDE where you can build a DNN model  simply through dragging and dropping the layers we supply.
+    <br/>
+    <b>The Award of Most Feasibility, Microsoft One week Hackthon, 2017, Beijing.</b>
+  image: "draw.png"
+  video: "https://hkustconnect-my.sharepoint.com/personal/qwangbb_connect_ust_hk/_layouts/15/guestaccess.aspx?docid=04b034f6ac9ca4cb59440c9b6357b2a38&authkey=AZySWLgTnKmZ74XSoHck-N0"
 
 - name: "Hello, Manager!"
   date: "2017"
   description:
     A web-based GPU cluster manager.
   image: "manager.PNG"
-- name: "Draw Your DNN"
-  data: "2017"
-  description:
-    A IDE where you can build a DNN model  simply through dragging and dropping the layers we supply.
-    The Award of Most Feasibility, Microsoft One week Hackthon, 2017, Beijing.
-  image: "draw.png"
-  video: "https://hkustconnect-my.sharepoint.com/personal/qwangbb_connect_ust_hk/_layouts/15/guestaccess.aspx?docid=04b034f6ac9ca4cb59440c9b6357b2a38&authkey=AZySWLgTnKmZ74XSoHck-N0"
+
 - name: "Pulse of HKUST"
   date: "2016"
   description: 
