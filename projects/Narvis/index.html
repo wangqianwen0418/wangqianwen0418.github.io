@@ -1,0 +1,230 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Narvis</title>
+    <meta name="description" content="A home page">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="" />
+    <meta name="twitter:title" content="Narvis" />
+    <meta name="twitter:url" content="http://localhost:4000/writing/2018/06/01/react-with-d3/" />
+    <meta name="twitter:description" content="D3.js is one of the best available options for data visualization. Since its creation in 2011, it has become the de facto for bulding data visualziations on the web.React, in my opionion, is obviously the best library. It’s simple, declarative, and composable."
+    />
+    <meta name="twitter:image" content="http://localhost:4000/assets/img/blog/react-with-d3/react-d3.png" />
+
+    <meta property="og:title" content="Narvis" />
+    <meta property="og:url" content="http://localhost:4000/writing/2018/06/01/react-with-d3/" />
+    <meta property="og:site_name" content="Wang Qianwen" />
+    <meta property="article:author" content="" />
+    <meta property="og:description" content="D3.js is one of the best available options for data visualization. Since its creation in 2011, it has become the de facto for bulding data visualziations on the web.React, in my opionion, is obviously the best library. It’s simple, declarative, and composable."
+    />
+    <meta property="og:image" content="http://localhost:4000/assets/img/blog/react-with-d3/react-d3.png" />
+
+
+    <link rel="canonical" href="http://localhost:4000/writing/2018/06/01/react-with-d3/">
+    <link rel="alternate" type="application/rss+xml" title="Wang Qianwen" href="http://localhost:4000">
+
+
+    <!-- <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/icons/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/icons/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/icons/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/icons/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/icons/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/icons/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/icons/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/icons/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icons/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/img/icons/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icons/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/img/icons/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/icons/favicon/favicon-16x16.png">
+<link rel="manifest" href="/assets/img/icons/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/assets/img/icons/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff"> -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/icons/favicon/favicon.jpg">
+    <link rel="manifest" href="/assets/img/icons/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/img/icons/favicon/favicon.jpg">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Montserrat:400,700">
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+
+
+</head>
+
+<body>
+    <nav class="clearfix border-bottom border-light-gray">
+        <div class="left">
+            <a href="/" class="button py2 button-transparent nav-button caps">Wang Qianwen</a>
+        </div>
+        <ul class="right list-reset m0 nav-collapse">
+
+            <li class="inline-block m0">
+                <a href="/experiences" class="button button-transparent py2 h6 nav-button caps">experiences</a>
+            </li>
+
+            <li class="inline-block m0">
+                <a href="/projects" class="button button-transparent py2 h6 nav-button caps">projects</a>
+            </li>
+
+            <li class="inline-block m0">
+                <a href="/writing" class="button button-transparent py2 h6 nav-button caps">blogs</a>
+            </li>
+
+            <li class="inline-block m0">
+                <a href="/photos" class="button button-transparent py2 h6 nav-button caps">photos</a>
+            </li>
+
+        </ul>
+    </nav>
+
+    <header class="bg-splash-gray px3 py3 border-bottom border-light-gray">
+        <div class="container">
+            <div class="clearfix">
+                    <h1 class="mt0 mb1">
+
+                        Narvis: Authoring Narrative Slideshows for Introducing Data Visualization Designs
+
+                    </h1>
+            </div>
+            <div>
+
+                <div class="gray h5">
+                    <!-- <span class="mr1 nowrap">
+    <i class="fa fa-calendar"></i>
+    <time datetime="2018-06-01">Jun 01, 2018</time>
+  </span> -->
+
+                    <span class="mr1 nowrap">
+                        <i class="fa fa-tags"></i>
+                        IEEE InfoVIS 2018
+                    </span>
+                    <span class="mr1 nowrap">
+                            <i class="fa fa-users"></i>
+                            Qianwen Wang, Zhen Li, Siwei Fu, Weiwei Cui, Huamin Qu
+                    </span>
+    <!-- <span class="mr1 nowrap">
+      <i class="fa fa-comments"></i>
+      <a href="#comments" class="disqus-comment-count" data-disqus-identifier="/writing/2018/06/01/react-with-d3">Comments</a>
+    </span> -->
+     <!-- <span class="nowrap">
+      <i class="fa fa-clock-o"></i>
+      <span>5 min read</span>
+    </span> -->
+
+                </div>
+            </div>
+        </div>
+
+
+
+    </header>
+
+
+    <main class="container block p3">
+
+        <div class="video">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/JdYiqEUm_0g?rel=0&amp;start=60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+
+
+
+        <div class="post">
+            <div class="post-content">  
+                <h3>Why Narvis</h3>
+                <p>
+                    The idea of Narvis starts with the fact that my team mates and I suffers a lot 
+                    when explaining a complex visualization design to non-experts in visualization. 
+                    These non-experts, 
+                    such as students in a data visualization course, 
+                    a committee member from other field at our thesis presentation, 
+                    and visitors from the industry, 
+                    sometimes feel confused about the complicated visual encodings 
+                    and have no idea how to read a visualization. 
+                </p>
+                <p>
+                    Thus, we wonder whether there are some simple yet effective rules to follow for the introduction of visualization designs.
+                    Moreover, we want to build a tool to help people use these rules and explain a visualization design more effectively.
+                </p> 
+                
+                <h3>How to introduce a visualization design</h3>
+                <p>
+                    Here are the three steps that we believe are effective for the introduction of a visualization design:
+                    <br/>
+                    <b>1.</b> introduce progressively:
+                    <br/>
+                       Decompose the visual components in a visual design and introduce them one by one to avoid information overload.
+                    <br/>
+                    <b>2. </b>keep a clear logic: 
+                    <br/>   
+                        Identify the dependent relationship between different visual components so that it is clear which component should be introduced first.
+                    <br/>
+                    <b>3. </b>avoid unconscious overlooking:
+                    <br/>   
+                       With prior experience in visualization, we might treat certain visual encodings as self-evident and requires no additional explanation,
+                       However, the incompleteness of information confuses the non-expert audience.
+                </p>
+                <!-- <p>
+                    At the same time, we should pay attention to the introductiong of following information:
+                    the motivation, context, and tasks of the design
+                    the redanduancy
+                    the examples and insights
+                </p> -->
+                     
+
+                <p>
+                    <h3>The offical abstract</h3>
+                        Visual designs can be complex in modern data visualization systems, 
+                        which poses special challenges for explaining them to the non-experts.  
+                        However, few if any presentation tools are tailored for this purpose.  
+                        In this study, we present Narvis, a slideshow authoring tool designed for introducing data visualizations to non-experts. 
+                        We define two types of end users for Narvis: teachers, experts in data visualization who produce tutorials for explaining a data visualization, 
+                        and students, non-experts who try to understandvisualization designs through tutorials. 
+                        We present an analysis of requirements through close discussions with the two types of endusers. 
+                        The resulting considerations guide the design and implementation of Narvis. 
+                        Additionally, to help teachers better organize their introduction slideshows, 
+                        we specify a data visualization as a hierarchical combination of components, 
+                        which are automatically detected and extracted by Narvis. 
+                        The teachers craft an introduction slideshow through first organizing these components, 
+                        and then explaining them sequentially. 
+                        A series of templates are provided for adding annotations and animations to improve efficiency during the authoringprocess. 
+                        We evaluate Narvis through a qualitative analysis of the authoring experience, and a preliminary evaluation of the generated slideshows.
+                </p>
+
+                <p>For more details about Narvis, please refer to the <a href="/assets/pdf/">paper</a></p>
+
+
+            </div>
+        </div>
+    </main>
+
+
+</body>
+
+</html>
