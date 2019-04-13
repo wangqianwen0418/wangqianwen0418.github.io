@@ -10,23 +10,23 @@
     <a href="{{ include.project.url }}" target="_blank" name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}"><{{ project_title_element }} class="mt0 mb0">{{ include.project.name }}</{{ project_title_element }}></a>
     <!-- <a href="{{ include.project.url }}" target="_blank" class="block h6 mb2">{{ include.project.url }}</a> -->
     <p class="left-align">{{ include.project.description }}</p>
-    <p>
+    <p style="color:#555">
         {%if include.project.video %}
         <span>
-            <i class="fa fa-tags"></i>
+            <i class="fa fa-video-camera"></i>
             <a href="{{include.project.video}}">Video</a>
         </span>
         
         {% endif %}
         {%if include.project.pdf %}
         <span>
-            <i class="fa fa-tags"></i>
+            <i class="fa fa-file-text"></i>
             <a href="{{include.project.pdf}}">PDF</a>
         </span>
         {% endif %}
         {%if include.project.url %}
         <span>
-            <i class="fa fa-tags"></i>
+            <i class="fa fa-arrows-alt"></i>
             <a href="{{include.project.url}}">Details</a>
         </span>
         {% endif %}

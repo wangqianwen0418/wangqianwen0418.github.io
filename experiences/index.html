@@ -2,28 +2,11 @@
 layout: default
 title: "Wang Qianwen: experiences"
 redirect_from: "/experiences"
-header_title: experiences
+header_title: Experiences
 include_header: experiences_header.html
 nav_item: experiences
 ---
 
 {% for exp in site.data.experiences %}
-  <div class="border-bottom border-light-gray mt4 mb4 pb3 circle-line">
-      <h2>{{ exp.title }}</h2>
-    <p class="h4 mt0"> 
-        {{ exp.date }}
-    </p> 
-    <!-- <p>
-      {{ exp.description }}
-    </p> -->
-    <p class="h6 mb0 tight-line-height">
-    {% if exp.awards %}
-      <h3>Awards:</h3>
-      {% for award in exp.awards %}
-        <li>{{ award.title }}</li>
-      {% endfor %}
-      {% endif %}     
-    </p>
-       
-  </div>
+  {% include experiences-outline.html exp=exp %}
 {% endfor %}

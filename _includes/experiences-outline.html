@@ -1,0 +1,15 @@
+<div class="clearfix border-bottom border-light-gray mt1 mb1  " >
+    <div class="mt2" style="float: left; width: 130px;">
+        <!-- <a href="{{ include.project.url }}" target="_blank"> -->
+            {% capture image_path %}experiences/{{ include.exp.name }}.png{% endcapture %}
+            {% include image.html path=image_path alt=include.exp.name style="height:80px; " %}
+        <!-- </a> -->
+    </div>
+
+    <div  style="float: left;">
+        <p class="h4 mt2">{{ exp.title }}</p>
+        <p class="h5 mt0"> 
+            {{ exp.date }}
+        </p> 
+    </div>
+</div>

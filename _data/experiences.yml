@@ -1,15 +1,19 @@
-- title: "Intern, Microsoft Research Asia"
-  date: "Jun, 2017 -"
   # awards: 
   #   - title: |
   #       The Award of Most Feasibility,
   #       Microsoft One week Hackthon, 2017, Beijing
 - title: "PhD candidate, HKUST"
   date: "Aug, 2015 - "
+  name: 'hkust'
+- title: "Intern, Microsoft Research Asia"
+  date: "Jun, 2017 - Jan, 2018"
+  name: 'ms'
 - title: "Intern, AIESEC of Russian"
   date: "Jun, 2015 - Aug, 2015"
+  name: 'aiesec'
 - title: "Bachelor, Xi'an Jiaotong University"
-  date: "2011 - 2015"
+  date: "Aug, 2011 - Jul, 2015"
+  name: 'xjtu'
   # awards: 
   #  - title: "Excellent Graduate"
   #  - title: "Huaneng Scholoarship"

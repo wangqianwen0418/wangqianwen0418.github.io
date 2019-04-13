@@ -1,1 +1,3 @@
-<img data-src="{% include image-url.html path=include.path external=include.external %}" alt="{{ include.alt }}" class="lazyload{% if include.class %} {{ include.class }}{% endif %}"{% if include.style %} style="{{ include.style }}"{% endif %}>
+<img data-src="{% include image-url.html path=include.path external=include.external %}" alt="{{ include.alt }}" class="lazyload{% if include.class %} {{ include.class }}{% endif %}"{% if include.style %} style="{{ include.style }} display: block;
+margin-left: auto;
+margin-right: auto;" {% endif %}>
