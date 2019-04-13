@@ -5,8 +5,8 @@ url: "http://wangqianwen0418.github.io"
 # Internal nav
 nav:
   main:
-    experiences: "/experiences"
     projects: "/projects"
+    experiences: "/experiences"
     blogs: "/writing"
     photos: "/photos"
   blogs:

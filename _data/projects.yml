@@ -13,6 +13,8 @@
   description:
     An interactive visualization tool that helps users analyze the searched models and refine the search space when using Automated machine learning.
     <br/>
+    Collaborated with <a href=https://hdi-dai.lids.mit.edu/>MIT - The Human Data Interaction Project</a>. 
+    <br/>
     <b> Published at ACM CHI 2019</b>
   image: "atmseer.png"
   video: "https://youtu.be/7QwN3mmiCzY"
