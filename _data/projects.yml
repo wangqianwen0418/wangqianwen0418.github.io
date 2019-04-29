@@ -1,23 +1,14 @@
-# - name: "Gruntwork"
-#   date: "2016"
-#   description: |
-#     I'm the co-founder of Gruntwork, a company that helps startups get up and running on AWS with DevOps best practices
-#     and world-class infrastructure. Our mission is to make it an order of magnitude easier to understand, develop, and
-#     deploy software. We take care of all the "undifferentiated heavy lifting"—the grunt work—so that your team can
-#     focus on the products and services unique to your company.
-#   url: "http://www.gruntwork.io"
-#   image: "gruntwork-logo.png" 
-
 - name: "ATMSeer"
   date: "2019"
   description:
     An interactive visualization tool that helps users analyze the searched models and refine the search space when using Automated machine learning.
     <br/>
-    Collaborated with <a href=https://hdi-dai.lids.mit.edu/>MIT - The Human Data Interaction Project</a>. 
+    Collaborated with <a href=https://hdi-dai.lids.mit.edu/> MIT - The Human Data Interaction Project</a>. 
     <br/>
-    <b> Published at ACM CHI 2019</b>
+  publish: ACM CHI 2019
   image: "atmseer.png"
   video: "https://youtu.be/7QwN3mmiCzY"
+  authors: <b>Qianwen Wang</b>, Yao Ming, Zhihua Jin, Qiaomu Shen, Dongyu Liu, Micah J. Smith, Kalyan Veeramachaneni, Huamin Qu
   pdf: "/assets/pdf/atmseer.pdf"
   url: "https://github.com/HDI-Project/ATMSeer"
 
@@ -25,11 +16,12 @@
 - name: "Narvis"
   date: "2018"
   description:
-    A semi-auto slideshow authoring tool that assists people in explaining visual designs to the non-experts.
+    A semi-auto slideshow authoring tool that assists people in explaining visual designs to the non-experts. 
     <br/>
-    <b> Published at IEEE TVCG25(1): 779-788, 2019</b>
+  publish: IEEE InfoVis 2018, IEEE TVCG 25(1) 779-788, 2019
   image: "narvis.png"
   video: "https://youtu.be/bbRBzumBrX4"
+  authors: <b>Qianwen Wang</b>, Zhen Li, Siwei Fu, Weiwei Cui, Huamin Qu
   pdf: "/assets/pdf/Narvis.pdf"
   url: "/projects/Narvis"
 
