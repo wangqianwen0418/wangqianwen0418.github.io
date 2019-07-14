@@ -10,7 +10,7 @@
     <a href="{{ include.project.url }}" target="_blank" name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}"><{{ project_title_element }} class="mt0 mb0">{{ include.project.name }}</{{ project_title_element }}></a>
     <!-- <a href="{{ include.project.url }}" target="_blank" class="block h6 mb2">{{ include.project.url }}</a> -->
     <p class="left-align">{{ include.project.description }}</p>
-    {%if include.project.video %}
+    {%if include.project.authors %}
       <p class="left-align">{{ include.project.authors }}</p>
     {% endif %}
     {%if include.project.publish %}

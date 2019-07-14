@@ -1,13 +1,9 @@
 - name: "DNN Genealogy"
   date: "2019"
   description:
-    An interactive visualization tool that helps users analyze the searched models and refine the search space when using Automated machine learning.
-    <br/>
-    Collaborated with <a href=https://hdi-dai.lids.mit.edu/> MIT - The Human Data Interaction Project</a>. 
-    <br/>
+    A visual summary of representative DNNs and their evolutionary relationships.
   publish: IEEE TVCG 2019
   image: "dnn.png"
-  # video: "https://youtu.be/7QwN3mmiCzY"
   authors: <b>Qianwen Wang</b>, Jun Yuan, Shuxin Chen, Su Hang, Huamin Qu, Shixia Liu
   pdf: "/assets/pdf/dnn.pdf"
   url: "dnn.hkustvis.org"
