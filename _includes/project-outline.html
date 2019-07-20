@@ -1,4 +1,4 @@
-{% capture project_title_element %}{% if include.project_title_element %}{{ include.project_title_element }}{% else %}h2{% endif %}{% endcapture %}
+{% capture project_title_element %}{% if include.project_title_element %}{{ include.project_title_element }}{% else %}h4{% endif %}{% endcapture %}
 <div class="mxn2 clearfix mb2 py3{% unless include.exclude_divider %} border-bottom border-light-gray circle-line {% endunless %}">
   <div class="col sm-col-4 px2 mb2">
     <a href="{{ include.project.url }}" target="_blank">
@@ -20,14 +20,14 @@
         {%if include.project.video %}
         <span>
             <i class="fa fa-video-camera"></i>
-            <a href="{{include.project.video}}">Video</a>
+            <a href="{{include.project.video}}" target="_blank">Video</a>
         </span>
         
         {% endif %}
         {%if include.project.pdf %}
         <span>
             <i class="fa fa-file-text"></i>
-            <a href="{{include.project.pdf}}">PDF</a>
+            <a href="{{include.project.pdf}}" target="_blank">PDF</a>
         </span>
         {% endif %}
         {%if include.project.url %}

@@ -1,4 +1,4 @@
-- name: "DNN Genealogy"
+- name: "Visual Genealogy of Deep Neural Networks"
   date: "2019"
   description:
     A visual summary of representative DNNs and their evolutionary relationships.
@@ -8,7 +8,27 @@
   pdf: "/assets/pdf/dnn.pdf"
   url: "dnn.hkustvis.org"
 
-- name: "ATMSeer"
+- name: "Towards Automated Infographic Design: <br/>Deep Learning-based Auto-Generation of Extensible Timeline"
+  date: "2019"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  publish: IEEE InfoVis 2019
+  image: "timeline.png"
+  authors: Zhutian Chen, Yun Wang, <b>Qianwen Wang</b>, Yong Wang, Huamin Qu
+  pdf: "https://chenzhutian.org/projects/2019_autotimeline/paper.pdf"
+  url: https://auto-infog-timeline.github.io/
+
+- name: "DeepDrawing: A Deep Learning Approach to Graph Drawing"
+  date: "2019"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  publish: IEEE InfoVis 2019
+  image: "deepDrawing.png"
+  authors: Yong Wang, Zhihua Jin, <b>Qianwen Wang</b>, Weiwei Cui, Tengfei Ma, Huamin Qu
+  # pdf: "https://chenzhutian.org/projects/2019_autotimeline/paper.pdf"
+  # url: https://auto-infog-timeline.github.io/
+
+- name: "ATMSeer: Increasing Transparency and Controllability <br/> in Automated Machine Learning"
   date: "2019"
   description:
     An interactive visualization tool that helps users analyze the searched models and refine the search space when using Automated machine learning.
@@ -18,12 +38,12 @@
   publish: ACM CHI 2019
   image: "atmseer.png"
   video: "https://youtu.be/7QwN3mmiCzY"
-  authors: <b>Qianwen Wang</b>, Yao Ming, Zhihua Jin, Qiaomu Shen, Dongyu Liu, Micah J. Smith, Kalyan Veeramachaneni, Huamin Qu
+  authors: <b>Qianwen Wang</b>, Yao Ming, Zhihua Jin, Qiaomu Shen, <br/>Dongyu Liu, Micah J. Smith, Kalyan Veeramachaneni, Huamin Qu
   pdf: "/assets/pdf/atmseer.pdf"
   url: "https://github.com/HDI-Project/ATMSeer"
 
 
-- name: "Narvis"
+- name: "Narvis: Authoring Narrative Slideshows <br/> for Introducing Data Visualization Designs"
   date: "2018"
   description:
     A semi-auto slideshow authoring tool that assists people in explaining visual designs to the non-experts. 
