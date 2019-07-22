@@ -38,6 +38,10 @@ contact_urls:
     label: "Email"
     value: "qwangbb@connect.ust.hk"
     icon: "envelope-square"
+  homepage:
+    url: "https://wangqianwen0418.github.io"
+    label: "Homepage"
+    icon: "home"
 
 # Jekyll build settings
 paginate: 10
