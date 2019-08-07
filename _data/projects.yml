@@ -6,7 +6,7 @@
   image: "dnn.png"
   authors: <b>Qianwen Wang</b>, Jun Yuan, Shuxin Chen, Su Hang, Huamin Qu, Shixia Liu
   pdf: "/assets/pdf/dnn.pdf"
-  url: "dnn.hkustvis.org"
+  url: "https://dnn.hkustvis.org"
 
 - name: "Towards Automated Infographic Design: <br/>Deep Learning-based Auto-Generation of Extensible Timeline"
   date: "2019"
