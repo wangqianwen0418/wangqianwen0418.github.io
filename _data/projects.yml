@@ -25,8 +25,8 @@
   publish: IEEE InfoVis 2019
   image: "deepDrawing.png"
   authors: Yong Wang, Zhihua Jin, <b>Qianwen Wang</b>, Weiwei Cui, Tengfei Ma, Huamin Qu
-  # pdf: "https://chenzhutian.org/projects/2019_autotimeline/paper.pdf"
-  # url: https://auto-infog-timeline.github.io/
+  pdf: https://arxiv.org/pdf/1907.11040.pdf
+  url: https://github.com/jiayouwyhit/deepdrawing
 
 - name: "ATMSeer: Increasing Transparency and Controllability <br/> in Automated Machine Learning"
   date: "2019"
