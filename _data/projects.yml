@@ -42,6 +42,17 @@
   pdf: "/assets/pdf/atmseer.pdf"
   url: "https://github.com/HDI-Project/ATMSeer"
 
+- name: "MARVisT: Authoring Glyph-based Visualization in Mobile Augmented Reality"
+  date: "2018"
+  description:
+    An AR glyph-based visualization authoring tool that leverages information from reality to assist non-experts in creating personal data visualization.
+    <br/>
+  publish: IEEE TVCG 2019
+  image: "marvist.png"
+  video: "https://chenzhutian.org/projects/2018_marvist/video.mp4"
+  authors: Zhutian Chen, Yijia Su, Yifang Wang, <b>Qianwen Wang</b>, Huamin Qu, <br/> Yingcai Wu
+  pdf: "https://chenzhutian.org/projects/2018_marvist/paper.pdf"
+  url: "https://chenzhutian.org/marvist"
 
 - name: "Narvis: Authoring Narrative Slideshows <br/> for Introducing Data Visualization Designs"
   date: "2018"
