@@ -7,6 +7,7 @@
   authors: <b>Qianwen Wang</b>, Jun Yuan, Shuxin Chen, Su Hang, Huamin Qu, Shixia Liu
   pdf: "/assets/pdf/dnn.pdf"
   url: "http://dnn.hkustvis.org"
+  cate: "vis4ai"
 
 - name: "Towards Automated Infographic Design: <br/>Deep Learning-based Auto-Generation of Extensible Timeline"
   date: "2019"
@@ -17,6 +18,7 @@
   authors: Zhutian Chen, Yun Wang, <b>Qianwen Wang</b>, Yong Wang, Huamin Qu
   pdf: "https://chenzhutian.org/projects/2019_autotimeline/paper.pdf"
   url: https://auto-infog-timeline.github.io/
+  cate: "ai4vis"
 
 - name: "DeepDrawing: A Deep Learning Approach to Graph Drawing"
   date: "2019"
@@ -27,6 +29,7 @@
   authors: Yong Wang, Zhihua Jin, <b>Qianwen Wang</b>, Weiwei Cui, Tengfei Ma, Huamin Qu
   pdf: https://arxiv.org/pdf/1907.11040.pdf
   url: https://github.com/jiayouwyhit/deepdrawing
+  cate: "ai4vis"
 
 - name: "ATMSeer: Increasing Transparency and Controllability <br/> in Automated Machine Learning"
   date: "2019"
@@ -41,6 +44,7 @@
   authors: <b>Qianwen Wang</b>, Yao Ming, Zhihua Jin, Qiaomu Shen, <br/>Dongyu Liu, Micah J. Smith, Kalyan Veeramachaneni, Huamin Qu
   pdf: "/assets/pdf/atmseer.pdf"
   url: "https://github.com/HDI-Project/ATMSeer"
+  cate: "vis4ai"
 
 - name: "MARVisT: Authoring Glyph-based Visualization in Mobile Augmented Reality"
   date: "2018"
@@ -53,6 +57,7 @@
   authors: Zhutian Chen, Yijia Su, Yifang Wang, <b>Qianwen Wang</b>, Huamin Qu, <br/> Yingcai Wu
   pdf: "https://chenzhutian.org/projects/2018_marvist/paper.pdf"
   url: "https://chenzhutian.org/marvist"
+  cate: "ai4vis"
 
 - name: "Narvis: Authoring Narrative Slideshows <br/> for Introducing Data Visualization Designs"
   date: "2018"
@@ -65,6 +70,7 @@
   authors: <b>Qianwen Wang</b>, Zhen Li, Siwei Fu, Weiwei Cui, Huamin Qu
   pdf: "/assets/pdf/Narvis.pdf"
   url: "/projects/Narvis"
+  cate: "ai4vis"
 
 - name: "Draw Your DNN"
   date: "2017"
@@ -74,17 +80,21 @@
     <b>The Award of Most Feasibility, Microsoft One week Hackthon, 2017, Beijing.</b>
   image: "draw.png"
   video: "https://hkustconnect-my.sharepoint.com/personal/qwangbb_connect_ust_hk/_layouts/15/guestaccess.aspx?docid=04b034f6ac9ca4cb59440c9b6357b2a38&authkey=AZySWLgTnKmZ74XSoHck-N0"
+  cate: "other"
 
 - name: "Hello, Manager!"
   date: "2017"
   description:
     A web-based GPU cluster manager, developed during my internship at MSRA.
   image: "manager.PNG"
+  cate: "other"
 
 - name: "Pulse of HKUST"
   date: "2016"
   description: 
     A platform where you can explore the data about our university
   image: "pulse.jpg"
+  cate: "other"
+  
 
 
