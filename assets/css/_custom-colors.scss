@@ -5,3 +5,27 @@
 .bg-splash-gray {
   background-color: #f5f8fa;
 }
+
+span.keyword{
+  font-weight: bold;
+}
+span.vis, span.hci{
+  color: cornflowerblue;
+}
+span.ml{
+  color: orange;
+}
+
+a.link.about{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:black;
+  text-decoration: underline;
+}
+
+a.link.cv::after{
+    font-family: FontAwesome;
+    content: "\f0c1";
+  }
+a.link{
+  font-size: 0.8em;
+}

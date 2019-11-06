@@ -78,7 +78,7 @@
 - name: "Hello, Manager!"
   date: "2017"
   description:
-    A web-based GPU cluster manager.
+    A web-based GPU cluster manager, developed during my internship at MSRA.
   image: "manager.PNG"
 
 - name: "Pulse of HKUST"
