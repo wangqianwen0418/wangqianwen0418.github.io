@@ -5,7 +5,46 @@ header_title: Research
 include_header: projects_header.html
 nav_item: projects
 ---
+<div class="project overview">
+  <ul>
+  <li>
+    <a href="#vis4ai">Facilitating the Application of Machine Learning via Data Visualization</a>
+  </li>
+  <li>
+      <a href="#ai4vis">Towards More Accessible Visualization</a>
+  </li>
+  <li>
+      <a href="#others">Other Applications</a>
+  </li>
+  </ul>
+</div>
 
+<div id = 'vis4ai'>
+<h2 class="project cate">Facilitating the Application of Machine Learning <br/> via Data Visualization</h2>
 {% for project in site.data.projects %}
-  {% include project-outline.html project=project %}
+  {% if project.cate=="vis4ai" %}
+    {% include project-outline.html project=project %}
+  {% endif %}
 {% endfor %}
+<div>
+
+<div id = 'ai4vis'>
+  <h2 class="project cate">Towards More Accessible Visualization</h2>
+    {% for project in site.data.projects %}
+      {% if project.cate=="ai4vis"  %}
+        {% include project-outline.html project=project %}
+      {% endif %}
+    {% endfor %}
+<div>
+
+<div id = 'others'>
+    <h2 class="project cate">Other Applications</h2>
+      {% for project in site.data.projects %}
+        {% if project.cate=="other"  %}
+          {% include project-outline.html project=project %}
+        {% endif %}
+      {% endfor %}
+  <div>
+
+
+
