@@ -75,7 +75,7 @@
 - name: "Draw Your DNN"
   date: "2017"
   description:
-    A IDE where you can build a DNN model  simply through dragging and dropping the layers we supply.
+    A graphical user interface where you can build a keras-based model simply through dragging and dropping.
     <br/>
     <b>The Award of Most Feasibility, Microsoft One week Hackthon, 2017, Beijing.</b>
   image: "draw.png"
