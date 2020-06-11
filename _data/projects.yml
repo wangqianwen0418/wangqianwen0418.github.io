@@ -3,7 +3,7 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   publish: ACM CHI 2020
-  image: "https://chenzhutian.org/projects/2020_arposter/tn.jpg"
+  image: "paparvis.gif"
   authors: Zhutian Chen, Wai Tong, <b>Qianwen Wang</b>, Benjamin Bach, and Huamin Qu.
   pdf: "https://chenzhutian.org/projects/2020_arposter/paper.pdf"
   video: "https://vimeo.com/396008882"
