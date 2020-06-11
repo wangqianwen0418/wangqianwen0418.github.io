@@ -7,26 +7,17 @@ nav_item: projects
 ---
 <div class="project overview">
   <ul>
-  <li>
-    <a href="#vis4ai">Democratize Complicated Algorithms via Interactive Data Visualization</a>
+    <li>
+      <a href="#ai4vis">Towards More Accessible Visualization</a>
   </li>
   <li>
-      <a href="#ai4vis">Towards More Accessible Visualization</a>
+    <a href="#vis4ai">Democratize Complicated Algorithms via Interactive Data Visualization</a>
   </li>
   <li>
       <a href="#others">Other Applications</a>
   </li>
   </ul>
 </div>
-
-<div id = 'vis4ai'>
-<h2 class="project cate">Democratize Complicated Algorithms <br/> via Interactive Data Visualization</h2>
-{% for project in site.data.projects %}
-  {% if project.cate=="vis4ai" %}
-    {% include project-outline.html project=project %}
-  {% endif %}
-{% endfor %}
-<div>
 
 <div id = 'ai4vis'>
   <h2 class="project cate">Towards More Accessible Visualization</h2>
@@ -35,6 +26,15 @@ nav_item: projects
         {% include project-outline.html project=project %}
       {% endif %}
     {% endfor %}
+<div>
+
+<div id = 'vis4ai'>
+  <h2 class="project cate">Democratize Complicated Algorithms <br/> via Interactive Data Visualization</h2>
+  {% for project in site.data.projects %}
+    {% if project.cate=="vis4ai" %}
+      {% include project-outline.html project=project %}
+    {% endif %}
+  {% endfor %}
 <div>
 
 <div id = 'others'>
