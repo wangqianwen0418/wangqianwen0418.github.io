@@ -1,30 +1,73 @@
+
+- name: "Visual Analysis of Discrimination in Machine Learning"
+  date: "2020"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: IEEE InfoVis 2020
+  image: "discriLens.png"
+  authors: <b>Qianwen Wang</b>, Zhenhua Xu, Zhutian Chen, Yong Wang, <br/> Shixia Liu, and Huamin Qu
+  pdf: "https://arxiv.org/abs/2007.15182"
+  url: "./"
+  cate: "vis4ai"
+
+
+- name: "HypoML: Visual Analysis for Hypothesis-based Evaluation ofMachine Learning Models"
+  date: "2020"
+  # description:
+  publish: IEEE VAST 2020
+  image: "hypoml.png"
+  authors: <b>Qianwen Wang</b>, William Alexander, Jack Pegg, Huamin Qu, and Min Chen
+  pdf: "https://arxiv.org/abs/2002.05271"
+  url: "./"
+  cate: "vis4ai"
+
+- name: "SineStream: Improving the Readability of Streamgraphs by Minimizing Sine Illusion Effects"
+  date: "2020"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  publish: IEEE InfoVIS 2020
+  image: "sinestream.png"
+  authors: Chuan Bu, Quanjie Zhang, <b>Qianwen Wang</b>, Jian Zhang, Michael Sedlmair, Oliver Deussen, Yunhai Wang.
+  pdf: "https://chenzhutian.org/projects/2020_arposter/paper.pdf"
+  video: "https://vimeo.com/396008882"
+  url: "https://github.com/PapARVis"
+  cate: "ai4vis"
+
 - name: "Augmenting Static Visualizations with PapARVis Designer"
   date: "2020"
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   publish: ACM CHI 2020
-  image: "paparvis.gif"
+  image: "paparvis.jpg"
   authors: Zhutian Chen, Wai Tong, <b>Qianwen Wang</b>, Benjamin Bach, and Huamin Qu.
   pdf: "https://chenzhutian.org/projects/2020_arposter/paper.pdf"
   video: "https://vimeo.com/396008882"
   url: "https://github.com/PapARVis"
   cate: "ai4vis"
 
+
+
+   
+
 - name: "Towards Automated Infographic Design: <br/>Deep Learning-based Auto-Generation of Extensible Timeline"
   date: "2019"
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   publish: IEEE InfoVis 2019
-  image: "timeline.png"
+  image: "timeline.gif"
   authors: Zhutian Chen, Yun Wang, <b>Qianwen Wang</b>, Yong Wang, Huamin Qu
   pdf: "https://chenzhutian.org/projects/2019_autotimeline/paper.pdf"
   url: https://auto-infog-timeline.github.io/
   cate: "ai4vis"
 
+
+
 - name: "Visual Genealogy of Deep Neural Networks"
   date: "2019"
   description:
     A visual summary of representative DNNs and their evolutionary relationships.
+    <br/>
   publish: IEEE TVCG 2019
   image: "dnn.png"
   authors: <b>Qianwen Wang</b>, Jun Yuan, Shuxin Chen, Su Hang, Huamin Qu, Shixia Liu
@@ -47,8 +90,6 @@
   date: "2019"
   description:
     An interactive visualization tool that helps users analyze the searched models and refine the search space when using Automated machine learning.
-    <br/>
-    Collaborated with <a href=https://hdi-dai.lids.mit.edu/> MIT - The Human Data Interaction Project</a>. 
     <br/>
   publish: ACM CHI 2019
   image: "atmseer.png"
