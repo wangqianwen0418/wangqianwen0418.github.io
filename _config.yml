@@ -17,8 +17,8 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "Wang Qianwen"
-description: "A home page"
+name: "Qianwen Wang"
+description: "This is the home page of Qianwen Wang, a researcher in Data Visualization and Human-Machine Collaboration."
 thumbnail_path: "qianwen.jpg"
 # bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
 # hello_startup_url: "http://www.hello-startup.net/"
@@ -34,10 +34,15 @@ contact_urls:
     url: "https://github.com/wangqianwen0418/"
     label: "GitHub"
     icon: "github-square"
+  # email:
+  #   url: "mailto:qwangbb@connect.ust.hk"
+  #   label: "Email"
+  #   value: "qwangbb@connect.ust.hk"
+  #   icon: "envelope-square"
   email:
-    url: "mailto:qwangbb@connect.ust.hk"
+    url: "mailto: qianwen_wang@hms.harvard.edu"
     label: "Email"
-    value: "qwangbb@connect.ust.hk"
+    value: "qianwen_wang@hms.harvard.edu"
     icon: "envelope-square"
   homepage:
     url: "https://wangqianwen0418.github.io"
