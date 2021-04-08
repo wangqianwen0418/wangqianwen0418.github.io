@@ -1,4 +1,16 @@
 
+- name: "Applying Machine Learning Advances to Data Visualization: A Survey on ML4VIS"
+  date: "2020"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: arxiv preprint
+  image: "ai4vis_survey.png"
+  authors: <b>Qianwen Wang</b>, Zhutian Chen, Yong Wang, and Huamin Qu
+  pdf: "https://arxiv.org/abs/2012.00467"
+  url: "https://ml4vis.github.io"
+  cate: "ai4vis"
+
 - name: "Visual Analysis of Discrimination in Machine Learning"
   date: "2020"
   # description:
