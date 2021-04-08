@@ -1,24 +1,41 @@
+- title: "Got my cat at 2020!"
+  url: "euler.jpg"
+
+
+
 - title: "Swans at Oxford, 2019"
   url: "swan.jpg"
-- title: "Elephant Sanctuary, 2019"
-  url: "elephant.jpg"
+
 - title: "Etosha National Park, 2018"
   url: "etosha.jpg"
+
 - title: "Skydiving, 2018"
   url: "sky.jpg"
+
+- title: "Elephant Sanctuary, 2019"
+  url: "elephant.jpg"
+
+
 - title: "Dead Vlei, 2018"
   url: "vlei.jpg"
+
 - title: "Iceland, 2017"
   url: "iceland.jpg"
-# - title: "The deers at Nara, 2017"
-#   url: "nara.jpg"
+
+- title: "The deers at Nara, 2017"
+  url: "nara.jpg"
+
 - title: "Universal Studios Japan, 2017"
   url: "universal.jpg"
+
 - title: "Snorkelling at Taiwan, 2016"
   url: "taiwan.jpg"
+
 - title: "Friends at Russian 2015"
   url: "friends_russian.jpg"
+
 - title: "First Dinner at HKUST, 2015"
   url: "first_dinner.jpg"
+  
 - title: "Graduate from XJTU! 2015"
   url: "graduate.jpg"
