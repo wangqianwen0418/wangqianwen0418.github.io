@@ -1,6 +1,7 @@
 # Website settings
 baseurl: "/"
 url: "http://wangqianwen0418.github.io"
+icon: "/assets/img/icons/cat.ico"
 
 # Internal nav
 nav:
@@ -48,6 +49,10 @@ contact_urls:
     url: "https://wangqianwen0418.github.io"
     label: "Homepage"
     icon: "home"
+  scholar:
+    url: "https://scholar.google.com/citations?&user=jtSR4hoAAAAJ"
+    label: "Google Scholar"
+    icon: "graduation-cap"
 
 # Jekyll build settings
 paginate: 10
