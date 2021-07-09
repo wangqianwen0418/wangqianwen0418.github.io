@@ -53,6 +53,10 @@ contact_urls:
     url: "https://scholar.google.com/citations?&user=jtSR4hoAAAAJ"
     label: "Google Scholar"
     icon: "graduation-cap"
+  LinkedIn:
+    url: "https://www.linkedin.com/in/qianwen-wang-44072bb5/"
+    label: "LinkedIn"
+    icon: "linkedin-square"
 
 # Jekyll build settings
 paginate: 10
