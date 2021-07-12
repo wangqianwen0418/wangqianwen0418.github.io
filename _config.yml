@@ -6,7 +6,7 @@ icon: "/assets/img/icons/cat.ico"
 # Internal nav
 nav:
   main:
-    home: "/"
+    # home: "/"
     research: "/projects"
     experiences: "/experiences"
     # blogs: "/writing"
