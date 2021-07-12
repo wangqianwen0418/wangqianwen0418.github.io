@@ -1,4 +1,4 @@
-# Wang Qianwen Home Page
+# Qianwen's Home Page
 fork from [Yevgeniy Brikman](https://github.com/brikis98/yevgeniy-brikman-homepage)
 
 ## Quick start

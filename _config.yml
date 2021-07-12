@@ -46,7 +46,7 @@ contact_urls:
     value: "qianwen_wang@hms.harvard.edu"
     icon: "envelope-square"
   homepage:
-    url: "https://wangqianwen0418.github.io"
+    url: "https://qianwen.info"
     label: "Homepage"
     icon: "home"
   scholar:
@@ -57,6 +57,42 @@ contact_urls:
     url: "https://www.linkedin.com/in/qianwen-wang-44072bb5/"
     label: "LinkedIn"
     icon: "linkedin-square"
+  CV:
+    url: assets/pdf/qianwen_cv.pdf
+    label: CV
+    icon: file
+
+# news
+news:
+  - label: paper
+    title: One paper accepted as oral spotlight presentation by Interpretable Machine Learning in Healthcare workshop, ICML 2021
+    date: Jul, 2021
+  - label: paper
+    title: Two papers accepted by IEEE VIS 2021
+    data: Jul, 2021
+  - label: talk
+    title: Gave two long talks at ISMB 2021
+    date: Jul, 2021
+  - label: paper
+    title: One paper aceepted by ISMB 2021
+    date: Mar, 2021
+  - label: talk 
+    title: Invited talk at PacificVis 2021 Visualization meets AI
+    url: http://vis.tju.edu.cn/pvis2021/Invited_talks.html
+    date: Apr, 2021
+  - label: paper
+    title: Three papers accepted by IEEE VIS 2020
+    date: Jul, 2020
+  - label: job
+    title: Started my PostDoc position at Harvard University
+    date: May, 2020
+  - label: other
+    title: Passed my PhD thesis defense!
+    date: Dec, 2019
+  - label: travel
+    title: Visited the University of Oxford, hosted by Prof. Min Chen
+    date: Aug-Dec, 2019
+  
 
 # Jekyll build settings
 paginate: 10
