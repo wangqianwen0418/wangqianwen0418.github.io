@@ -1,53 +1,25 @@
 ---
 layout: default
-title: "Wang Qianwen: Research"
+title: "Qianwen Wang: Research"
 header_title: Research
 include_header: projects_header.html
 nav_item: projects
+extra_scripts:
+  - /assets/js/papers.js
 ---
+
+
 <div class="project overview">
-  <ul>
-    <li>
-      <a href="#vis4ai">Democratize Complicated Algorithms via Interactive Data Visualization</a>
-    </li>
-    <li>
-      <a href="#ai4vis">Towards More Accessible Visualization</a>
-  </li>
+  <div id="myBtnContainer">
+    <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+    <button class="btn" onclick="filterSelection('ai4vis')"> ML4VIS</button>
+    <button class="btn" onclick="filterSelection('vis4ai')"> VIS4ML</button>
+    <button class="btn" onclick="filterSelection('fruits')"> Visualization for Medical Health </button>
+    <button class="btn" onclick="filterSelection('colors')"> More Accessible Visualization</button>
+  </div>
   
-  <li>
-      <a href="#others">Other Applications</a>
-  </li>
-  </ul>
 </div>
 
-
-
-<div id = 'vis4ai'>
-  <h2 class="project cate">Democratize Complicated Algorithms <br/> via Interactive Data Visualization</h2>
-  {% for project in site.data.projects %}
-    {% if project.cate=="vis4ai" %}
+{% for project in site.data.projects %}
       {% include project-outline.html project=project %}
-    {% endif %}
-  {% endfor %}
-<div>
-
-<div id = 'ai4vis'>
-  <h2 class="project cate">Towards More Accessible Visualization</h2>
-      {% for project in site.data.projects %}
-        {% if project.cate=="ai4vis"  %}
-          {% include project-outline.html project=project %}
-        {% endif %}
-      {% endfor %}
-<div>
-
-<div id = 'others'>
-    <h2 class="project cate">Other Applications</h2>
-      {% for project in site.data.projects %}
-        {% if project.cate=="other"  %}
-          {% include project-outline.html project=project %}
-        {% endif %}
-      {% endfor %}
-  <div>
-
-
-
+{% endfor %}

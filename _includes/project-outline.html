@@ -1,5 +1,5 @@
 {% capture project_title_element %}{% if include.project_title_element %}{{ include.project_title_element }}{% else %}h4{% endif %}{% endcapture %}
-<div class="mxn2 clearfix mb2 py3{% unless include.exclude_divider %} border-bottom border-light-gray circle-line {% endunless %}">
+<div class="mxn2 clearfix mb2 py3{% unless include.exclude_divider %} border-bottom border-light-gray circle-line {% endunless %}  filterDiv {{include.project.cate | join: ' ' }}">
   <div class="col sm-col-4 px2 mb2">
     <a href="{{ include.project.url }}" target="_blank">
       {% capture image_path %}projects/{{ include.project.image }}{% endcapture %}
