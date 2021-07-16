@@ -1,3 +1,42 @@
+- name: "Interactive Visual Explanations for Deep Drug Repurposing"
+  date: "2021"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: workshop on Interpretable Machin Learning in Healthcare, ICML 2021, oral presentation
+  image: "x.png"
+  authors: <b>Qianwen Wang</b>, Kexin Huang, Payal Chandak, Nils Gehlenborg, Marinka Zitnik
+  pdf: "/assets/pdf/imlh2021_drug.pdf"
+  url: "http://drugexplorer.gehlenborglab.org"
+  cate: 
+    - "healthcare"
+    - "vis4ai"
+
+- name: "ThreadStates: State-based Visual Analysis of Disease Progression"
+  date: "2021"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: IEEE VIS 2021
+  image: "x.png"
+  authors: <b>Qianwen Wang</b>, Tali Mazor, Theresa A Harbig, Ethan Cerami, Nils Gehlenborg
+  pdf: "https://osf.io/vcskm/"
+  url: "http://threadstates.gehlenborglab.org"
+  cate: 
+    - ""
+
+- name: "Gosling: A Grammar-based Toolkit for Scalable and Interactive Genomics Data Visualization"
+  date: "2021"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: IEEE VIS 2021
+  image: "x.png"
+  authors: Sehi L'Yi, <b>Qianwen Wang</b>, Fritz Lekschas, Nils Gehlenborg
+  pdf: "https://osf.io/6evmb/"
+  url: "http://gosling-lang.org"
+  cate: 
+    - ""
 
 - name: "Applying Machine Learning Advances to Data Visualization: A Survey on ML4VIS"
   date: "2020"
@@ -9,7 +48,8 @@
   authors: <b>Qianwen Wang</b>, Zhutian Chen, Yong Wang, and Huamin Qu
   pdf: "https://arxiv.org/abs/2012.00467"
   url: "https://ml4vis.github.io"
-  cate: "ai4vis"
+  cate: 
+    - "ai4vis"
 
 - name: "Visual Analysis of Discrimination in Machine Learning"
   date: "2020"
@@ -21,7 +61,8 @@
   authors: <b>Qianwen Wang</b>, Zhenhua Xu, Zhutian Chen, Yong Wang, <br/> Shixia Liu, and Huamin Qu
   pdf: "https://arxiv.org/abs/2007.15182"
   url: "./"
-  cate: "vis4ai"
+  cate: 
+    - "vis4ai"
 
 
 - name: "HypoML: Visual Analysis for Hypothesis-based Evaluation ofMachine Learning Models"
@@ -32,7 +73,8 @@
   authors: <b>Qianwen Wang</b>, William Alexander, Jack Pegg, Huamin Qu, and Min Chen
   pdf: "https://arxiv.org/abs/2002.05271"
   url: "./"
-  cate: "vis4ai"
+  cate: 
+    - "vis4ai"
 
 - name: "SineStream: Improving the Readability of Streamgraphs by Minimizing Sine Illusion Effects"
   date: "2020"
@@ -44,7 +86,8 @@
   pdf: "https://chenzhutian.org/projects/2020_arposter/paper.pdf"
   video: "https://vimeo.com/396008882"
   url: "https://github.com/PapARVis"
-  cate: "ai4vis"
+  cate: 
+    - "ai4vis"
 
 - name: "Augmenting Static Visualizations with PapARVis Designer"
   date: "2020"
@@ -56,7 +99,8 @@
   pdf: "https://chenzhutian.org/projects/2020_arposter/paper.pdf"
   video: "https://vimeo.com/396008882"
   url: "https://github.com/PapARVis"
-  cate: "ai4vis"
+  cate: 
+    - "ai4vis"
 
 
 
@@ -71,7 +115,8 @@
   authors: Zhutian Chen, Yun Wang, <b>Qianwen Wang</b>, Yong Wang, Huamin Qu
   pdf: "https://chenzhutian.org/projects/2019_autotimeline/paper.pdf"
   url: https://auto-infog-timeline.github.io/
-  cate: "ai4vis"
+  cate: 
+    - "ai4vis"
 
 
 
@@ -85,7 +130,8 @@
   authors: <b>Qianwen Wang</b>, Jun Yuan, Shuxin Chen, Su Hang, Huamin Qu, Shixia Liu
   pdf: "/assets/pdf/dnn.pdf"
   url: "http://dnn.hkustvis.org"
-  cate: "vis4ai"
+  cate: 
+    - "vis4ai"
 
 - name: "DeepDrawing: A Deep Learning Approach to Graph Drawing"
   date: "2019"
@@ -96,7 +142,8 @@
   authors: Yong Wang, Zhihua Jin, <b>Qianwen Wang</b>, Weiwei Cui, Tengfei Ma, Huamin Qu
   pdf: https://arxiv.org/pdf/1907.11040.pdf
   url: https://github.com/jiayouwyhit/deepdrawing
-  cate: "ai4vis"
+  cate: 
+    - "ai4vis"
 
 - name: "ATMSeer: Increasing Transparency and Controllability <br/> in Automated Machine Learning"
   date: "2019"
@@ -109,7 +156,8 @@
   authors: <b>Qianwen Wang</b>, Yao Ming, Zhihua Jin, Qiaomu Shen, <br/>Dongyu Liu, Micah J. Smith, Kalyan Veeramachaneni, Huamin Qu
   pdf: "/assets/pdf/atmseer.pdf"
   url: "https://github.com/HDI-Project/ATMSeer"
-  cate: "vis4ai"
+  cate: 
+    - "vis4ai"
 
 - name: "MARVisT: Authoring Glyph-based Visualization in Mobile Augmented Reality"
   date: "2018"
@@ -122,7 +170,8 @@
   authors: Zhutian Chen, Yijia Su, Yifang Wang, <b>Qianwen Wang</b>, Huamin Qu, <br/> Yingcai Wu
   pdf: "https://chenzhutian.org/projects/2018_marvist/paper.pdf"
   url: "https://chenzhutian.org/marvist"
-  cate: "ai4vis"
+  cate: 
+    - "ai4vis"
 
 - name: "Narvis: Authoring Narrative Slideshows <br/> for Introducing Data Visualization Designs"
   date: "2018"
@@ -135,7 +184,8 @@
   authors: <b>Qianwen Wang</b>, Zhen Li, Siwei Fu, Weiwei Cui, Huamin Qu
   pdf: "/assets/pdf/Narvis.pdf"
   url: "/projects/Narvis"
-  cate: "ai4vis"
+  cate: 
+    - ai4vis"
 
 - name: "Draw Your DNN"
   date: "2017"
@@ -145,21 +195,24 @@
     <b>The Award of Most Feasibility, Microsoft One week Hackthon, 2017, Beijing.</b>
   image: "draw.png"
   video: "https://hkustconnect-my.sharepoint.com/personal/qwangbb_connect_ust_hk/_layouts/15/guestaccess.aspx?docid=04b034f6ac9ca4cb59440c9b6357b2a38&authkey=AZySWLgTnKmZ74XSoHck-N0"
-  cate: "other"
+  cate: 
+    - "other"
 
 - name: "Hello, Manager!"
   date: "2017"
   description:
     A web-based GPU cluster manager, developed during my internship at MSRA.
   image: "manager.PNG"
-  cate: "other"
+  cate: 
+    - "other"
 
 - name: "Pulse of HKUST"
   date: "2016"
   description: 
     A platform where you can explore the data about our university
   image: "pulse.jpg"
-  cate: "other"
+  cate: 
+    - "other"
   
 
 
