@@ -4,7 +4,7 @@
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
   publish: workshop on Interpretable Machin Learning in Healthcare, ICML 2021, oral presentation
-  image: "x.png"
+  image: "drugVis.png"
   authors: <b>Qianwen Wang</b>, Kexin Huang, Payal Chandak, Nils Gehlenborg, Marinka Zitnik
   pdf: "/assets/pdf/imlh2021_drug.pdf"
   url: "http://drugexplorer.gehlenborglab.org"
@@ -18,7 +18,7 @@
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
   publish: IEEE VIS 2021
-  image: "x.png"
+  image: "threadstates.png"
   authors: <b>Qianwen Wang</b>, Tali Mazor, Theresa A Harbig, Ethan Cerami, Nils Gehlenborg
   pdf: "https://osf.io/vcskm/"
   url: "http://threadstates.gehlenborglab.org"
@@ -31,7 +31,7 @@
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
   publish: IEEE VIS 2021
-  image: "x.png"
+  image: "gosling.png"
   authors: Sehi L'Yi, <b>Qianwen Wang</b>, Fritz Lekschas, Nils Gehlenborg
   pdf: "https://osf.io/6evmb/"
   url: "http://gosling-lang.org"
