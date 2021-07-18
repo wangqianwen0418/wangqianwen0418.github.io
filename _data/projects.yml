@@ -6,8 +6,13 @@
   publish: ICML workshop on Interpretable Machin Learning in Healthcare,</br> oral presentation
   image: "drugVis.png"
   authors: <b>Qianwen Wang</b>, Kexin Huang, Payal Chandak, Nils Gehlenborg, Marinka Zitnik
-  pdf: "/assets/pdf/imlh2021_drug.pdf"
-  details: "http://drugexplorer.gehlenborglab.org"
+  attach:
+    - url: "/assets/pdf/imlh2021_drug.pdf"
+      icon: file
+      label: PDF
+    - url: "http://drugexplorer.gehlenborglab.org"
+      icon: home
+      label: webpage
   cate: 
     - "vis4ml"
     - "healthcare"  
@@ -20,8 +25,16 @@
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)
   image: "threadstates.png"
   authors: <b>Qianwen Wang</b>, Tali Mazor, Theresa A Harbig, Ethan Cerami, Nils Gehlenborg
-  pdf: "https://osf.io/vcskm/"
-  details: "http://threadstates.gehlenborglab.org"
+  attach:
+    - url: "https://osf.io/vcskm/"
+      icon: "file"
+      label: PDF
+    - url: "http://threadstates.gehlenborglab.org"
+      icon: home
+      label: webpage
+    - url: https://github.com/hms-dbmi/OncoThreads/tree/ThreadStates
+      icon: github
+      label: webpage
   cate: 
     - "healthcare"
 
@@ -33,8 +46,16 @@
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)
   image: "gosling.png"
   authors: Sehi L'Yi, <b>Qianwen Wang</b>, Fritz Lekschas, Nils Gehlenborg
-  pdf: "https://osf.io/6evmb/"
-  details: "http://gosling-lang.org"
+  attach:
+    - url: "https://osf.io/6evmb/"
+      icon: "file"
+      label: PDF
+    - url: "http://gosling-lang.org"
+      icon: home
+      label: webpage
+    - url: https://github.com/gosling-lang/gosling.js
+      icon: github
+      label: code
   cate: 
     - "healthcare"
     - "accessible"
@@ -45,7 +66,13 @@
   doi: https://doi.org/10.1093/bioinformatics/btab289
   image: "oncothreads.png"
   authors: Theresa A Harbig, Sabrina Nusrat, Tali Mazor, <b>Qianwen Wang</b>, Alexander Thomson, Hans Bitter, Ethan Cerami, Nils Gehlenborg
-  pdf: "https://osf.io/b3n4u/"
+  attach:
+    - url: "https://osf.io/b3n4u/"
+      icon: "file"
+      label: PDF
+    - url: https://github.com/hms-dbmi/OncoThreads
+      icon: github
+      label: code
   cate: 
     - "healthcare"
 
@@ -55,11 +82,15 @@
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
   publish: arxiv preprint
-  doi: 
   image: "ml4vis_survey.png"
   authors: <b>Qianwen Wang</b>, Zhutian Chen, Yong Wang, and Huamin Qu
-  pdf: "https://arxiv.org/abs/2012.00467"
-  details: "https://ml4vis.github.io"
+  attach:
+    - url: "https://arxiv.org/abs/2012.00467"
+      icon: "file"
+      label: PDF
+    - url: "https://ml4vis.github.io"
+      icon: home
+      label: webpage
   cate: 
     - "ml4vis"
 
@@ -71,8 +102,13 @@
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2020)
   image: "discriLens.png"
   authors: <b>Qianwen Wang</b>, Zhenhua Xu, Zhutian Chen, Yong Wang, <br/> Shixia Liu, and Huamin Qu
-  pdf: "https://arxiv.org/abs/2007.15182"
-  details: "./"
+  attach:
+    - url: "https://arxiv.org/abs/2007.15182"
+      icon: "file"
+      label: PDF
+    - url: https://github.com/wangqianwen0418/DiscriLens
+      icon: github
+      label: code
   cate: 
     - "vis4ml"
 
@@ -83,8 +119,13 @@
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VAST 2020)
   image: "hypoml.png"
   authors: <b>Qianwen Wang</b>, William Alexander, Jack Pegg, Huamin Qu, and Min Chen
-  pdf: "https://arxiv.org/abs/2002.05271"
-  details: "./"
+  attach:
+    - url: "https://arxiv.org/abs/2002.05271"
+      icon: "file"
+      label: PDF
+    - url: https://hypoml.bitbucket.io
+      icon: github
+      label: code
   cate: 
     - "vis4ml"
 
@@ -96,7 +137,10 @@
   image: "sinestream.png"
   authors: Chuan Bu, Quanjie Zhang, <b>Qianwen Wang</b>, Jian Zhang, Michael Sedlmair, Oliver Deussen, Yunhai Wang.
   doi: https://doi.org/10.1109/TVCG.2020.3030404
-  pdf: "/assets/pdf/sinestream.pdf"
+  attach:
+    - url: "/assets/pdf/sinestream.pdf"
+      icon: "file"
+      label: PDF
   cate: 
     - "ml4vis"
 
@@ -107,9 +151,16 @@
   publish: ACM CHI 2020
   image: "paparvis.jpg"
   authors: Zhutian Chen, Wai Tong, <b>Qianwen Wang</b>, Benjamin Bach, and Huamin Qu.
-  pdf: "https://chenzhutian.org/projects/2020_arposter/paper.pdf"
-  video: "https://vimeo.com/396008882"
-  details: "https://github.com/PapARVis"
+  attach:
+    - url: "https://chenzhutian.org/projects/2020_arposter/paper.pdf"
+      icon: "file"
+      label: PDF
+    - url: "https://vimeo.com/396008882"
+      icon: film
+      label: video
+    - url: https://github.com/PapARVis
+      icon: github
+      label: code
   cate: 
     - "accessible"
 
@@ -121,8 +172,13 @@
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2019)
   image: "timeline.gif"
   authors: Zhutian Chen, Yun Wang, <b>Qianwen Wang</b>, Yong Wang, Huamin Qu
-  pdf: "https://chenzhutian.org/projects/2019_autotimeline/paper.pdf"
-  details: https://auto-infog-timeline.github.io/
+  attach:
+    - url: https://chenzhutian.org/projects/2019_autotimeline/paper.pdf
+      icon: "file"
+      label: PDF
+    - url: https://auto-infog-timeline.github.io/
+      icon: home
+      label: webpage
   cate: 
     - "ml4vis"
     - "accessible"
@@ -137,8 +193,10 @@
   publish: IEEE TVCG 2019
   image: "dnn.png"
   authors: <b>Qianwen Wang</b>, Jun Yuan, Shuxin Chen, Su Hang, Huamin Qu, Shixia Liu
-  pdf: "/assets/pdf/dnn.pdf"
-  details: "http://dnn.hkustvis.org"
+  attach:
+    - url: "/assets/pdf/dnn.pdf"
+      icon: "file"
+      label: PDF
   cate: 
     - "vis4ml"
 
@@ -149,8 +207,13 @@
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2019)
   image: "deepDrawing.png"
   authors: Yong Wang, Zhihua Jin, <b>Qianwen Wang</b>, Weiwei Cui, Tengfei Ma, Huamin Qu
-  pdf: https://arxiv.org/pdf/1907.11040.pdf
-  details: https://github.com/jiayouwyhit/deepdrawing
+  attach:
+    - url: https://arxiv.org/pdf/1907.11040.pdf
+      icon: "file"
+      label: PDF
+    - url: https://github.com/jiayouwyhit/deepdrawing
+      icon: github
+      label: code
   cate: 
     - "ml4vis"
 
@@ -161,10 +224,17 @@
     <br/>
   publish: ACM CHI 2019
   image: "atmseer.png"
-  video: "https://youtu.be/7QwN3mmiCzY"
   authors: <b>Qianwen Wang</b>, Yao Ming, Zhihua Jin, Qiaomu Shen, <br/>Dongyu Liu, Micah J. Smith, Kalyan Veeramachaneni, Huamin Qu
-  pdf: "/assets/pdf/atmseer.pdf"
-  details: "https://github.com/HDI-Project/ATMSeer"
+  attach:
+    - url: "/assets/pdf/atmseer.pdf"
+      icon: "file"
+      label: PDF
+    - url: "https://youtu.be/7QwN3mmiCzY"
+      icon: film
+      label: video
+    - url: https://github.com/HDI-Project/ATMSeer
+      icon: github
+      label: code
   cate: 
     - "vis4ml"
 
@@ -175,10 +245,17 @@
     <br/>
   publish: IEEE TVCG 2019
   image: "marvist.png"
-  video: "https://chenzhutian.org/projects/2018_marvist/video.mp4"
   authors: Zhutian Chen, Yijia Su, Yifang Wang, <b>Qianwen Wang</b>, Huamin Qu, <br/> Yingcai Wu
-  pdf: "https://chenzhutian.org/projects/2018_marvist/paper.pdf"
-  details: "https://chenzhutian.org/marvist"
+  attach:
+    - url: "https://chenzhutian.org/projects/2018_marvist/paper.pdf"
+      icon: "file"
+      label: PDF
+    - url: "https://chenzhutian.org/projects/2018_marvist/video.mp4"
+      icon: film
+      lable: video
+    - url: https://chenzhutian.org/marvist
+      icon: home
+      label: webpage
   cate: 
     - "accessible"
 
@@ -189,10 +266,17 @@
     <br/>
   publish: IEEE InfoVis 2018, IEEE TVCG 25(1) 779-788, 2019
   image: "narvis.png"
-  video: "https://youtu.be/bbRBzumBrX4"
   authors: <b>Qianwen Wang</b>, Zhen Li, Siwei Fu, Weiwei Cui, Huamin Qu
-  pdf: "/assets/pdf/Narvis.pdf"
-  details: "/projects/Narvis"
+  attach:
+    - url: "/assets/pdf/Narvis.pdf"
+      icon: "file"
+      label: PDF
+    - url: "https://youtu.be/bbRBzumBrX4"
+      label: video
+      icon: film
+    - url: /projects/Narvis
+      icon: home
+      label: webpage
   cate: 
     - "accessible"
 
