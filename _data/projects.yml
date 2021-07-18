@@ -9,7 +9,7 @@
   pdf: "/assets/pdf/imlh2021_drug.pdf"
   details: "http://drugexplorer.gehlenborglab.org"
   cate: 
-    - "vis4ai"
+    - "vis4ml"
     - "healthcare"  
 
 - name: "ThreadStates: State-based Visual Analysis of Disease Progression"
@@ -56,12 +56,12 @@
   #   <br/>
   publish: arxiv preprint
   doi: 
-  image: "ai4vis_survey.png"
+  image: "ml4vis_survey.png"
   authors: <b>Qianwen Wang</b>, Zhutian Chen, Yong Wang, and Huamin Qu
   pdf: "https://arxiv.org/abs/2012.00467"
   details: "https://ml4vis.github.io"
   cate: 
-    - "ai4vis"
+    - "ml4vis"
 
 - name: "Visual Analysis of Discrimination in Machine Learning"
   date: "2020"
@@ -74,7 +74,7 @@
   pdf: "https://arxiv.org/abs/2007.15182"
   details: "./"
   cate: 
-    - "vis4ai"
+    - "vis4ml"
 
 
 - name: "HypoML: Visual Analysis for Hypothesis-based Evaluation ofMachine Learning Models"
@@ -86,7 +86,7 @@
   pdf: "https://arxiv.org/abs/2002.05271"
   details: "./"
   cate: 
-    - "vis4ai"
+    - "vis4ml"
 
 - name: "SineStream: Improving the Readability of Streamgraphs by Minimizing Sine Illusion Effects"
   date: "2020"
@@ -98,7 +98,7 @@
   doi: https://doi.org/10.1109/TVCG.2020.3030404
   pdf: "/assets/pdf/sinestream.pdf"
   cate: 
-    - "ai4vis"
+    - "ml4vis"
 
 - name: "Augmenting Static Visualizations with PapARVis Designer"
   date: "2020"
@@ -124,7 +124,7 @@
   pdf: "https://chenzhutian.org/projects/2019_autotimeline/paper.pdf"
   details: https://auto-infog-timeline.github.io/
   cate: 
-    - "ai4vis"
+    - "ml4vis"
     - "accessible"
 
 
@@ -140,7 +140,7 @@
   pdf: "/assets/pdf/dnn.pdf"
   details: "http://dnn.hkustvis.org"
   cate: 
-    - "vis4ai"
+    - "vis4ml"
 
 - name: "DeepDrawing: A Deep Learning Approach to Graph Drawing"
   date: "2019"
@@ -152,7 +152,7 @@
   pdf: https://arxiv.org/pdf/1907.11040.pdf
   details: https://github.com/jiayouwyhit/deepdrawing
   cate: 
-    - "ai4vis"
+    - "ml4vis"
 
 - name: "ATMSeer: Increasing Transparency and Controllability <br/> in Automated Machine Learning"
   date: "2019"
@@ -166,7 +166,7 @@
   pdf: "/assets/pdf/atmseer.pdf"
   details: "https://github.com/HDI-Project/ATMSeer"
   cate: 
-    - "vis4ai"
+    - "vis4ml"
 
 - name: "MARVisT: Authoring Glyph-based Visualization in Mobile Augmented Reality"
   date: "2018"

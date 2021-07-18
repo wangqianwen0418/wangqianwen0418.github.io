@@ -1,12 +1,18 @@
-filterSelection("all")
+var tags = ['ml4vis', 'vis4ml', "healthcare", "accessible"];
+function modifyTag(c) {
+  const idx = tags.indexOf(c)
+  if(idx===-1) tags.push(c);
+  else tags.splice(idx, 1);
+}
 function filterSelection(c) {
   var x, i;
+  modifyTag(c)
   x = document.getElementsByClassName("filterDiv");
-  if (c == "all") c = "";
-  // Add the "show" class (display:block) to the filtered elements, and remove the "show" class from the elements that are not selected
   for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "show");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+    var isRemain = tags.some(tag=>x[i].className.indexOf(tag)>-1)
+    if (isRemain){
+        w3AddClass(x[i], "show")
+    } else w3RemoveClass(x[i], "show");
   }
 }
 
@@ -38,10 +44,12 @@ function w3RemoveClass(element, name) {
 // Add active class to the current control button (highlight it)
 var btnContainer = document.getElementById("myBtnContainer");
 var btns = btnContainer.getElementsByClassName("btn");
+
 for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function() {
-    var current = document.getElementsByClassName("active");
-    current[0].className = current[0].className.replace(" active", "");
-    this.className += " active";
+  var btn = btns[i];
+  btn.addEventListener("click", function() {
+    if (this.className.indexOf('active') > -1) {
+      this.className = this.className.replace(" active", "");
+    }else this.className += " active";
   });
 }
