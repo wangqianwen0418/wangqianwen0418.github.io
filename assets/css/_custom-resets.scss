@@ -197,8 +197,15 @@ a .circle:hover {
 }
 
 
+
 // research page
 
+.paper-tag {
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding: 0px 5px;
+  color: gray;
+}
 .filterDiv {
   display: none; /* Hidden by default */
 }

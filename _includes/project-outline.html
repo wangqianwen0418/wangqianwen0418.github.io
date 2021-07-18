@@ -9,27 +9,33 @@
   <div class="col sm-col-8 px2">
     <a href="{{ include.project.details }}" target="_blank" name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}"><{{ project_title_element }} class="mt0 mb0">{{ include.project.name }}</{{ project_title_element }}></a>
     <!-- <a href="{{ include.project.details }}" target="_blank" class="block h6 mb2">{{ include.project.details }}</a> -->
-    <p class="left-align">{{ include.project.description }}</p>
+    <!-- <p class="left-align  mb0">{{ include.project.description }}</p> -->
     {%if include.project.authors %}
       <p class="left-align">{{ include.project.authors }}</p>
     {% endif %}
     {%if include.project.publish %}
-    <p class="left-align"><b>{{ include.project.publish }}</b></p>
+    <p class="left-align  mb0"><b>{{ include.project.publish }}</b></p>
     {% endif %}
+    <p class="left-align mb0">
+      {% for tag in include.project.cate %}
+      <span class="paper-tag ">{{tag}}</span>
+    {% endfor %}
+    </p>
     <p style="color:#555">
         {%if include.project.video %}
         <span>
             <i class="fa fa-video-camera"></i>
             <a href="{{include.project.video}}" target="_blank">Video</a>
         </span>
-        
         {% endif %}
+
         {%if include.project.pdf %}
         <span>
             <i class="fa fa-file-text"></i>
             <a href="{{include.project.pdf}}" target="_blank">PDF</a>
         </span>
         {% endif %}
+
         {%if include.project.details %}
         <span>
             <i class="fa fa-info-circle"></i>

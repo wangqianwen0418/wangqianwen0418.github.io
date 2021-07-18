@@ -1,9 +1,23 @@
+- name: "Interactive Visual Explanations for Deep Drug Repurposing"
+  date: "2021"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: ICML workshop on Interpretable Machin Learning in Healthcare,</br> oral presentation
+  image: "drugVis.png"
+  authors: <b>Qianwen Wang</b>, Kexin Huang, Payal Chandak, Nils Gehlenborg, Marinka Zitnik
+  pdf: "/assets/pdf/imlh2021_drug.pdf"
+  details: "http://drugexplorer.gehlenborglab.org"
+  cate: 
+    - "vis4ai"
+    - "healthcare"  
+
 - name: "ThreadStates: State-based Visual Analysis of Disease Progression"
   date: "2021"
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021), 2021
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)
   image: "threadstates.png"
   authors: <b>Qianwen Wang</b>, Tali Mazor, Theresa A Harbig, Ethan Cerami, Nils Gehlenborg
   pdf: "https://osf.io/vcskm/"
@@ -16,7 +30,7 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021), 2021
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)
   image: "gosling.png"
   authors: Sehi L'Yi, <b>Qianwen Wang</b>, Fritz Lekschas, Nils Gehlenborg
   pdf: "https://osf.io/6evmb/"
@@ -24,20 +38,6 @@
   cate: 
     - "healthcare"
     - "accessible"
-  
-- name: "Interactive Visual Explanations for Deep Drug Repurposing"
-  date: "2021"
-  # description:
-  #   A visual summary of representative DNNs and their evolutionary relationships.
-  #   <br/>
-  publish: ICML workshop on Interpretable Machin Learning in Healthcare,</br> oral presentation
-  image: "drugVis.png"
-  authors: <b>Qianwen Wang</b>, Kexin Huang, Payal Chandak, Nils Gehlenborg, Marinka Zitnik
-  pdf: "/assets/pdf/imlh2021_drug.pdf"
-  details: "http://drugexplorer.gehlenborglab.org"
-  cate: 
-    - "healthcare"
-    - "vis4ai"
 
 - name: "OncoThreads: Visualization of Large Scale Longitudinal Cancer Molecular Data"
   date: "2021"
@@ -68,7 +68,7 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE InfoVis 2020), 2021
+  publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2020)
   image: "discriLens.png"
   authors: <b>Qianwen Wang</b>, Zhenhua Xu, Zhutian Chen, Yong Wang, <br/> Shixia Liu, and Huamin Qu
   pdf: "https://arxiv.org/abs/2007.15182"
@@ -80,7 +80,7 @@
 - name: "HypoML: Visual Analysis for Hypothesis-based Evaluation ofMachine Learning Models"
   date: "2020"
   # description:
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VAST 2020), 2021
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VAST 2020)
   image: "hypoml.png"
   authors: <b>Qianwen Wang</b>, William Alexander, Jack Pegg, Huamin Qu, and Min Chen
   pdf: "https://arxiv.org/abs/2002.05271"
@@ -92,7 +92,7 @@
   date: "2020"
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE InfoVis 2020), 2021
+  publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2020)
   image: "sinestream.png"
   authors: Chuan Bu, Quanjie Zhang, <b>Qianwen Wang</b>, Jian Zhang, Michael Sedlmair, Oliver Deussen, Yunhai Wang.
   doi: https://doi.org/10.1109/TVCG.2020.3030404
@@ -118,7 +118,7 @@
   date: "2019"
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE InfoVis 2019)
+  publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2019)
   image: "timeline.gif"
   authors: Zhutian Chen, Yun Wang, <b>Qianwen Wang</b>, Yong Wang, Huamin Qu
   pdf: "https://chenzhutian.org/projects/2019_autotimeline/paper.pdf"
@@ -146,7 +146,7 @@
   date: "2019"
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE InfoVis 2019)
+  publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2019)
   image: "deepDrawing.png"
   authors: Yong Wang, Zhihua Jin, <b>Qianwen Wang</b>, Weiwei Cui, Tengfei Ma, Huamin Qu
   pdf: https://arxiv.org/pdf/1907.11040.pdf
