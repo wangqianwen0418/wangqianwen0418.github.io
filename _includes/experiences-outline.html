@@ -1,33 +1,28 @@
-<div class="clearfix border-bottom border-light-gray mt1 mb1  " >
-    <div class="mt2" style="float: left; width: 180px; margin-top: 0em; display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100px;">
+<div class="clearfix border-bottom border-light-gray mt1 mb1 " >
+    <div class="px2 col sm-col-3" >
     <div>
-        <p class="h5 " style="text-align: left; margin-bottom: 0em; "> 
+        <p class="h5 center mt0 mb0"> 
                 {{ exp.date }}
         </p> 
          <!-- <a href="{{ include.project.url }}" target="_blank"> -->
+        <div style="width: 65px; margin: auto;">
             {% capture image_path %}experiences/{{ include.exp.name }}.png{% endcapture %}
-            {% include image.html path=image_path alt=include.exp.name style="height:65px; " %}
+            {% include image.html path=image_path alt=include.exp.name style="width:65px; margin: auto " %}
+        </div>
         <!-- </a> -->
     </div>
     </div>
 
-    <div style="float: left; height: 100px;">
+    <!-- <div style="float: left; height: 100px;">
     
-    </div>
+    </div> -->
 
-    <div  style="float: left; display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 2em;
-    height: 100px;">
+    <div class="px2 col sm-col-9 "  >
         <div style="margin: auto;">
         <p class="h4 mt2" style="margin: auto;">{{ exp.title }}</p>
         {%if exp.awards%}
             {% for award in exp.awards %}
-                <p class="h5 header-font">🏆<b> {{ award.title }}</b></p>
+                <p class="h5 header-font mb0">🏆<b> {{ award.title }}</b></p>
             {% endfor %}
         {%endif %}
         </div>
