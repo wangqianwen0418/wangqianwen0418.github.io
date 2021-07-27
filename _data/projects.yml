@@ -3,7 +3,7 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: ICML workshop on Interpretable Machin Learning in Healthcare,</br> oral presentation
+  publish: ICML workshop on Interpretable Machin Learning in Healthcare,</br> 🏆 Best Paper Award
   image: "drugVis.png"
   authors: <b>Qianwen Wang</b>, Kexin Huang, Payal Chandak, Nils Gehlenborg, Marinka Zitnik
   attach:
