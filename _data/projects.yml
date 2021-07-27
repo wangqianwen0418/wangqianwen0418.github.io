@@ -190,7 +190,7 @@
   description:
     A visual summary of representative DNNs and their evolutionary relationships.
     <br/>
-  publish: IEEE TVCG 2019
+  publish: IEEE Transactions on Visualization and Computer Graphics 2019
   image: "dnn.png"
   authors: <b>Qianwen Wang</b>, Jun Yuan, Shuxin Chen, Su Hang, Huamin Qu, Shixia Liu
   attach:
@@ -243,7 +243,7 @@
   description:
     An AR glyph-based visualization authoring tool that leverages information from reality to assist non-experts in creating personal data visualization.
     <br/>
-  publish: IEEE TVCG 2019
+  publish: IEEE Transactions on Visualization and Computer Graphics 2019
   image: "marvist.png"
   authors: Zhutian Chen, Yijia Su, Yifang Wang, <b>Qianwen Wang</b>, Huamin Qu, <br/> Yingcai Wu
   attach:
