@@ -57,6 +57,10 @@ contact_urls:
     url: "https://www.linkedin.com/in/qianwen-wang-44072bb5/"
     label: "LinkedIn"
     icon: "linkedin-square"
+  Twitter:
+    url: https://twitter.com/WangQianwenToo
+    label: Twitter
+    icon: twitter
   CV:
     url: assets/pdf/qianwen_cv.pdf
     label: CV

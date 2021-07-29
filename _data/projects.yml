@@ -43,7 +43,7 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)<br/> 🏆 Best Abstract Award at ISMB 2021
   image: "gosling.png"
   authors: Sehi L'Yi, <b>Qianwen Wang</b>, Fritz Lekschas, Nils Gehlenborg
   attach:

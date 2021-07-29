@@ -1,9 +1,13 @@
   - label: paper
+    title: <a class='news-link' href='http://gosling-lang.org'>Gosling</a> won the 🏆  Best Abstract Award at ISMB 2021
+    date: Jul, 2021
+
+  - label: paper
     title: Two papers accepted by IEEE VIS 
     date: Jul, 2021
 
   - label: paper
-    title: "One paper accepted by <a class='news-link' href='https://sites.google.com/view/imlh2021/program'>ICML workshop on Interpretable Machine Learning in Healthcare</a> (best paper award) "
+    title: "One paper accepted by <a class='news-link' href='https://sites.google.com/view/imlh2021/program'>ICML workshop on Interpretable Machine Learning in Healthcare</a> (🏆  Best Paper Award) "
     date: Jul, 2021
 
   - label: talk
