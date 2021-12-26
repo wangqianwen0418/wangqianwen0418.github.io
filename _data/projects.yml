@@ -81,7 +81,7 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: arxiv preprint
+  publish: IEEE Transactions on Visualization and Computer Graphics 
   image: "ml4vis_survey.png"
   authors: <b>Qianwen Wang</b>, Zhutian Chen, Yong Wang, and Huamin Qu
   attach:
