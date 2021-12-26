@@ -76,7 +76,7 @@
   cate: 
     - "healthcare"
 
-- name: "Applying Machine Learning Advances to Data Visualization: A Survey on ML4VIS"
+- name: "A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization"
   date: "2020"
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
