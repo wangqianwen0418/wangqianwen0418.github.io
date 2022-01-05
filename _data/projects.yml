@@ -11,8 +11,8 @@
       icon: file
       label: PDF
     - url: "http://drugexplorer.gehlenborglab.org"
-      icon: home
-      label: webpage
+      icon: desktop
+      label: Demo
   cate: 
     - "vis4ml"
     - "healthcare"  
@@ -34,7 +34,7 @@
       label: webpage
     - url: https://github.com/hms-dbmi/OncoThreads/tree/ThreadStates
       icon: github
-      label: webpage
+      label: code
   cate: 
     - "healthcare"
 
@@ -56,6 +56,9 @@
     - url: https://github.com/gosling-lang/gosling.js
       icon: github
       label: code
+    - url: https://gosling.js.org
+      icon: desktop
+      label: demo
   cate: 
     - "healthcare"
     - "accessible"
@@ -109,6 +112,9 @@
     - url: https://github.com/wangqianwen0418/DiscriLens
       icon: github
       label: code
+    - url: "/demos/discrilens"
+      icon: desktop
+      label: demo
   cate: 
     - "vis4ml"
 
@@ -124,8 +130,8 @@
       icon: "file"
       label: PDF
     - url: https://hypoml.bitbucket.io
-      icon: github
-      label: code
+      icon: desktop
+      label: demo
   cate: 
     - "vis4ml"
 
@@ -197,6 +203,9 @@
     - url: "/assets/pdf/dnn.pdf"
       icon: "file"
       label: PDF
+    - url: "/demos/dnngenealogy"
+      icon: desktop
+      label: demo
   cate: 
     - "vis4ml"
 
