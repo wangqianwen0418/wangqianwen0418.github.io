@@ -1,3 +1,11 @@
+  - label: other
+    title: "We will host a <a class='news-link' href='http://gosling-lang.org/tutorials/ismb'>Gosling/Gos tutorial</a> @ISMB2022"
+    date: Feb, 2022
+
+  - label: service
+    title: I am honored to serve as <a class='news-link' href='http://biovis.net/2022/committee.html'> Abstract Chair for BioVis COSI@ISMB2022</a>
+    date: Jan, 2022
+
   - label: paper
     title: <a class='news-link' href='http://gosling-lang.org'>Gosling</a> won the 🏆  Best Abstract Award at ISMB 2021
     date: Jul, 2021
