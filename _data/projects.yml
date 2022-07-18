@@ -1,3 +1,79 @@
+- name: "Extending the Nested Model for User-Centric XAI: A Design Study on GNN-based Drug Repurposing"
+  date: "2022"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/>
+  image: "nest_xai.png"
+  authors: <b>Qianwen Wang</b>, Kexin Huang, Payal Chandak, Marinka Zitnik, Nils Gehlenborg
+  attach:
+    - url: "https://osf.io/yhdpv/"
+      icon: file
+      label: PDF
+    - url: https://github.com/hms-dbmi/drug_explorer
+      icon: github
+      label: code
+  cate: 
+    - "vis4ml"
+    - "biomed"  
+
+
+- name: "Polyphony: an Interactive Transfer Learning Framework for Single-Cell Data Analysis"
+  date: "2022"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/> 🏆 Best Abstract Award at ISMB 2022
+  image: "polyphony.png"
+  authors: Furui Cheng, Mark S Keller, Huamin Qu, Nils Gehlenborg, <b>Qianwen Wang</b>
+  attach:
+    - url: "https://osf.io/b76nt"
+      icon: file
+      label: PDF
+    - url: https://github.com/scpolyphony
+      icon: github
+      label: code
+  cate: 
+    - "vis4ml"
+    - "biomed"  
+
+- name: "GenoREC: A Recommendation System for Interactive Genomics Data Visualization"
+  date: "2022"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)
+  image: "GenoREC.jpeg"
+  authors: Aditeya Pandey, Sehi L'Yi, <b>Qianwen Wang</b>, Michelle Borkin, Nils Gehlenborg
+  attach:
+    - url: "https://osf.io/rscb4/"
+      icon: file
+      label: PDF
+    - url: https://aditeyapandey.github.io/Genorec-Client/
+      icon: desktop
+      label: Demo
+    - url: https://youtu.be/njVXRH4h6DM
+      icon: film
+      label: video
+  cate: 
+    - "ml4vis"
+    - "biomed"  
+
+- name: "GNNLens: A Visual Analytics Approach for Prediction Error Diagnosis of Graph Neural Networks"
+  date: "2022"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: IEEE Transactions on Visualization and Computer Graphics 2022
+  image: "gnnlens.png"
+  authors: Zhihua Jin, Yong Wang, <b>Qianwen Wang</b>, Yao Ming, Tengfei Ma, Huamin Qu
+  attach:
+    - url: "https://ieeexplore.ieee.org/document/9705076"
+      icon: file
+      label: PDF
+  cate: 
+    - "vis4ml"
+
 - name: "Interactive Visual Explanations for Deep Drug Repurposing"
   date: "2021"
   # description:
@@ -15,7 +91,7 @@
       label: Demo
   cate: 
     - "vis4ml"
-    - "healthcare"  
+    - "biomed"  
 
 - name: "ThreadStates: State-based Visual Analysis of Disease Progression"
   date: "2021"
@@ -36,7 +112,7 @@
       icon: github
       label: code
   cate: 
-    - "healthcare"
+    - "biomed"
 
 - name: "Gosling: A Grammar-based Toolkit for Scalable and Interactive Genomics Data Visualization"
   date: "2021"
@@ -60,7 +136,7 @@
       icon: desktop
       label: demo
   cate: 
-    - "healthcare"
+    - "biomed"
     - "accessible"
 
 - name: "OncoThreads: Visualization of Large Scale Longitudinal Cancer Molecular Data"
@@ -77,7 +153,7 @@
       icon: github
       label: code
   cate: 
-    - "healthcare"
+    - "biomed"
 
 - name: "A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization"
   date: "2020"

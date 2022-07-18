@@ -1,4 +1,4 @@
-var tags = ['ml4vis', 'vis4ml', "healthcare", "accessible"];
+var tags = ['ml4vis', 'vis4ml', "biomed", "accessible"];
 function modifyTag(c) {
   const idx = tags.indexOf(c)
   if(idx===-1) tags.push(c);

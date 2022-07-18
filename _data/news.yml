@@ -1,25 +1,29 @@
-  - label: service
-    title: I am honored to serve as a poster chair for PacificVis 2023
+  - label: award
+    title: <a class='news-link' href='https://osf.io/b76nt'>Polyphony</a> won the Best Abstract Award 🏆 at ISMB 2022
     date: Jul, 2022
 
   - label: service
-    title: We will host a <a class='news-link' href="https://vis-biomed-ai.github.io/">Visualization in Biomedical AI workshop</a> at IEEE VIS 2022
+    title: I am honored to serve as a poster chair for PacificVis 2023 🎉
     date: Jul, 2022
 
   - label: paper
-    title: three papers (PolyPhony, GenoRec, and a design study on XAI) are accepted by IEEE VIS 2022
+    title: Three papers (<a class='news-link' href='https://osf.io/b76nt'>PolyPhony</a>, <a class='news-link' href='https://osf.io/rscb4' >GenoRec</a>, and <a class='news-link' href='https://osf.io/yhdpv'> a design study on XAI </a>) are accepted by IEEE VIS 2022 🎉
     date: Jul, 2022
 
   - label: award
-    title: "I am hornored to receive the Postdoctoral Fellows Research Fund Award from Harvard Data Science Initiative"
+    title: I am hornored to receive the Postdoctoral Fellows Research Fund Award 🏆 from Harvard Data Science Initiative
     date: Jun, 2022
 
+  - label: service
+    title: We will host a <a class='news-link' href="https://vis-biomed-ai.github.io/">Visualization in Biomedical AI workshop</a> at IEEE VIS 2022 🎉
+    date: Apr, 2022
+
   - label: paper
-    title: "GNNLens is accepted by IEEE TVCG"
+    title: <a class='news-link' href='https://arxiv.org/abs/2011.11048'> GNNLens</a> is accepted by IEEE TVCG
     date: Feb, 2022
 
   - label: other
-    title: "We will host a <a class='news-link' href='http://gosling-lang.org/tutorials/ismb'>Gosling/Gos tutorial</a> BioVis@ISMB2022  🎉'"
+    title: We will host a <a class='news-link' href='http://gosling-lang.org/tutorials/ismb'>Gosling/Gos tutorial</a> BioVis@ISMB2022 🎉
     date: Feb, 2022
 
   - label: service
@@ -27,7 +31,7 @@
     date: Jan, 2022
 
   - label: paper
-    title: <a class='news-link' href='http://gosling-lang.org'>Gosling</a> won the 🏆  Best Abstract Award at ISMB 2021
+    title: <a class='news-link' href='http://gosling-lang.org'>Gosling</a> won the Best Abstract Award 🏆 at ISMB 2021
     date: Jul, 2021
 
   - label: paper
