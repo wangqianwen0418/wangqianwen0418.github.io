@@ -8,7 +8,8 @@ nav:
   main:
     # home: "/"
     publication: "/projects"
-    experiences: "/experiences"
+    # experiences: "/experiences"
+    CV: "/assets/pdf/qianwen_cv.pdf"
     # blogs: "/writing"
     Life: "/photos"
   blogs:
