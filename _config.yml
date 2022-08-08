@@ -7,7 +7,7 @@ icon: "/assets/img/icons/cat.ico"
 nav:
   main:
     # home: "/"
-    publication: "/projects"
+    Research: "/projects"
     # experiences: "/experiences"
     CV: "/assets/pdf/qianwen_cv.pdf"
     # blogs: "/writing"
