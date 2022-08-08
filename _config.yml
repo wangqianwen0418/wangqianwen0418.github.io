@@ -7,11 +7,14 @@ icon: "/assets/img/icons/cat.ico"
 nav:
   main:
     # home: "/"
-    Research: "/projects"
+    Research: "/research"
+    Awards and Services: '/awards'
+    Talks: '/talks'
     # experiences: "/experiences"
     CV: "/assets/pdf/qianwen_cv.pdf"
     # blogs: "/writing"
     Life: "/photos"
+
   blogs:
     all: "/writing"
     popular: "/writing/popular"
@@ -77,7 +80,6 @@ sass:
   style: :compressed
 highlighter: rouge
 timezone: 'America/Los_Angeles'
-repository: brikis98/yevgeniy-brikman-homepage
 
 # Plugins (GitHub Pages only support a few)
 gems:
