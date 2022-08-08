@@ -1,23 +1,30 @@
-<div class="center">
-  <!-- <a href="{{ site.base_url }}"> -->
-  {% include image.html path=site.thumbnail_path alt=site.name class="border bg-white p1 border-light-gray circle
-  square-100" %}
-  <!-- </a> -->
-  {% include header-h1.html %}
-  <h4 class="page-description body-font gray mt0 h3 regular">
-    Data Visualization<br />
-    Explainable Machine Learning <br />
-    Human-Machine Collaboration <br />
-    Visualization in Biomedical AI
-    <!-- Narrative Visualization  -->
-  </h4>
-  <div class="page-description">
-    Find me at 
-    {% for external_url_hash in site.contact_urls %}
-    {% assign external_url = external_url_hash[1] %}
-    <a href="{{ external_url.url }}" target="_blank" class="dark-gray hint--top" data-hint="{{ external_url.label }}">
-      <i class="fa fa-fw fa-lg fa-{{ external_url.icon }}"></i>
-    </a>
-    {% endfor %}
+<div class="center clearfix">
+  <div class="flex flex-justify-center flex-wrap flex-center">
+    <div class="px2">
+      <!-- <a href="{{ site.base_url }}"> -->
+      {% include image.html path=site.thumbnail_path alt=site.name class="border bg-white p1 border-light-gray circle
+      square-100" %}
+      <!-- </a> -->
+    </div>
+
+    <div class="px2">
+      {% include header-h1.html %}
+      <h4 class="page-description body-font gray mt0 h4 regular">
+        Data Visualization<br />
+        Explainable Machine Learning <br />
+        Human-Machine Collaboration <br />
+        Visualization in Biomedical AI
+        <!-- Narrative Visualization  -->
+      </h4>
+      <div class="page-description">
+        Find me at 
+        {% for external_url_hash in site.contact_urls %}
+        {% assign external_url = external_url_hash[1] %}
+        <a href="{{ external_url.url }}" target="_blank" class="dark-gray hint--top" data-hint="{{ external_url.label }}">
+          <i class="fa fa-fw fa-lg fa-{{ external_url.icon }}"></i>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
   </div>
 </div>
