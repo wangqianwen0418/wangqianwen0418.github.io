@@ -20,7 +20,7 @@
     {% endif %}
     <p class="left-align mb0">
       {% for tag in include.project.cate %}
-      <span class="paper-tag ">{{tag}}</span>
+      <span class="paper-tag {{tag}} active"> <i class="fa fa-fw fa-tag"></i>{{tag}}</span>
       {% endfor %}
     </p>
 

@@ -14,6 +14,14 @@ function filterSelection(c) {
         w3AddClass(x[i], "show")
     } else w3RemoveClass(x[i], "show");
   }
+
+  tag_icons = document.getElementsByClassName('paper-tag')
+  for (j = 0; j<tag_icons.length; j++){
+    var isActive = tags.some(tag=>tag_icons[j].className.indexOf(tag)>-1)
+    if (isActive){
+      w3AddClass(tag_icons[j], "active")
+    } else w3RemoveClass(tag_icons[j], "active");
+  }
 }
 
 // Show filtered elements

@@ -213,8 +213,13 @@ a.paper-attach{
   border-radius: 5px;
   border: 1px solid gray;
   padding: 0px 5px;
-  color: gray;
+  color: lightgray;
 }
+
+.paper-tag.active {
+  color: #333;
+}
+
 .filterDiv {
   display: none; /* Hidden by default */
 }
