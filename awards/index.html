@@ -7,5 +7,28 @@ nav_item: Awards and Services
 
 ---
 
-<div class="col sm-col-6 px2 mt2 mb2" style="min-height: 300px">
+<div class="mxn2 clearfix mt1 py1  ">
+    <h3 class="border-bottom border-light-gray">Professional Service</h3>
+    {% for service in site.data.services %}
+        <!-- <div class="col sm-col-2 px1"> &nbsp </div> -->
+        <div class="col sm-col-12 px1 h4 bold"> {{service.cate}} </div>
+        {% for conference in service.conferences %}
+            <div class="col sm-col-2 px1 right-align">
+                {{conference.date}}
+            </div>
+            <div class="col sm-col-10 px1">
+                {% if conference.position %}
+                <span class="bold">{{conference.position}} </span> at {{conference.conference}}
+                {% else %}
+                {{conference.conference}}
+                {% endif %}
+            </div>
+        {% endfor %}
+    {% endfor %}
+
+    
+    <h3 class="border-bottom border-light-gray">Awards</h3>
+
+
+    <h3 class="border-bottom border-light-gray">Invited Talks</h3>
 </div>
