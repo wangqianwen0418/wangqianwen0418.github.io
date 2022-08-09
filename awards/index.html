@@ -7,28 +7,46 @@ nav_item: Awards and Services
 
 ---
 
-<div class="mxn2 clearfix mt1 py1  ">
-    <h3 class="border-bottom border-light-gray">Professional Service</h3>
-    {% for service in site.data.services %}
-        <!-- <div class="col sm-col-2 px1"> &nbsp </div> -->
-        <div class="col sm-col-12 px1 h4 bold"> {{service.cate}} </div>
-        {% for conference in service.conferences %}
-            <div class="col sm-col-2 px1 right-align">
-                {{conference.date}}
+
+    <div>
+        <h3 class="border-bottom border-light-gray">Professional Service</h3>
+        <div class="px4">
+        {% for service in site.data.services %}
+            <!-- <div class="col sm-col-2 px1"> &nbsp </div> -->
+            <div class="col clearfix sm-col-12 px1 bold"> {{service.cate}} </div>
+            {% for conference in service.conferences %}
+            <div class="clearfix">
+                <div class="col sm-col-2 px1 right-align">
+                    {{conference.date}}
+                </div>
+                <div class="col sm-col-10 px1">
+                    {% if conference.position %}
+                    <span class="bold">{{conference.position}} </span> <br/> {{conference.conference}}
+                    {% else %}
+                    {{conference.conference}}
+                    {% endif %}
+                </div>
             </div>
-            <div class="col sm-col-10 px1">
-                {% if conference.position %}
-                <span class="bold">{{conference.position}} </span> at {{conference.conference}}
-                {% else %}
-                {{conference.conference}}
-                {% endif %}
-            </div>
+            {% endfor %}
         {% endfor %}
-    {% endfor %}
-
-    
-    <h3 class="border-bottom border-light-gray">Awards</h3>
+        </div>
+    </div>
 
 
-    <h3 class="border-bottom border-light-gray">Invited Talks</h3>
-</div>
+    <div class="mt3">
+        <h3 class="border-bottom border-light-gray ">Awards</h3>
+        <div class="px4">
+            {% for award in site.data.awards %}
+            <div class="clearfix">
+            
+                <div class="col sm-col-2 px1 right-align">
+                    {{award.date}}
+                </div>
+                <div class="col sm-col-10 px1">
+                    <span class="bold">{{award.title}} </span> <br/> 
+                    {{award.institute}}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
