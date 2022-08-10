@@ -72,14 +72,14 @@ paper_previews:
     #       url: ../research/#gosling
 
     - name: DiscriLens
-      embed_url:
+      embed_url: https://www.youtube.com/embed/-K5ZXfMNLVY
       description: Presented at IEEE VIS 2020
       links:
         - label: Read More...
           url: ../research/#discrilens
 
     - name: HypoML
-      embed_url: 
+      embed_url: https://www.youtube.com/embed/rf-amrd2Goc
       description: Presented at IEEE VIS 2020
       links:
         - label: Read More...
@@ -92,8 +92,8 @@ paper_previews:
         - label: Read More...
           url: ../research/#atmseer
 
-    - name: GNN Genealogy
-      embed_url: ''
+    - name: DNN Genealogy
+      embed_url: https://www.youtube.com/embed/OcyM14mdxe0
       description: Presented at IEEE VIS 2019
       links:
         - label: Read More...
