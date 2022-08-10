@@ -43,9 +43,8 @@ nav_item: talks
       <p class="h5 bold mb0">{{ talk.name }}</p> 
       <span class="h5">{{ talk.description }}</span>
     <p class="h6 mb0 tight-line-height">
-      Formats:
       {% for link in talk.links %}
-        <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>{% unless forloop.last %},{% endunless %}
+        <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>{% unless forloop.last %}|{% endunless %}
       {% endfor %}      
     </p>
   </div>

@@ -42,44 +42,68 @@ invited_talks:
 paper_previews:
   subtitle: Find more about my research through these short ~30s videos
   talks:
-    - name: ThreadStates
-      embed_url: ""
-      description: Presented at IEEE VIS 2021
-      links:
-        - label: PDF
-          url: https://osf.io/vcskm
-        - label:  Long Presentation Video
-          url: https://youtu.be/7NSsG2J6UPE
-    - name: ATMSeer
-      embed_url: ''
-      description: Presented at ACM CHI 2019
-      links:
-        - label: PDF
-          url:
-        - label:  Long Presentation Video
-          url:
-    - name: DiscriLens
-      embed_url:
-      description: 
-      links:
-        - label: PDF
-          url:
-        - label: Long Presentation Video
-          url:
-    - name: HypoML
-      embed_url: 
-      description: 
-      links:
-        - label: PDF
-          url:
-        - label:  Long Presentation Video
-          url:
     - name: Nested Model for User-Centric XAI
       embed_url: ''
       description: Presented at IEEE VIS 2022
       links:
-        - label: PDF
-          url:
-        - label:  Long Presentation Video
-          url:
+        - label: Read More...
+          url: ../research/#nest_xai
+
+    - name: Survey on ML4VIS
+      embed_url: ''
+      description: Presented at IEEE VIS 2022
+      links:
+        - label: Read More..
+          url: ../research/#ml4vis_survey
+
+    - name: ThreadStates
+      embed_url: "https://www.youtube.com/embed/BuripTHkSKk"
+      description: Presented at IEEE VIS 2021
+      links:
+        - label: Read More...
+          url: ../research/#threadstates
+
+
+    # - name: Gosling Grammar
+    #   embed_url: ''
+    #   description: Presented at IEEE VIS 2021
+    #   links:
+    #     - label: Read More...
+    #       url: ../research/#gosling
+
+    - name: DiscriLens
+      embed_url:
+      description: Presented at IEEE VIS 2020
+      links:
+        - label: Read More...
+          url: ../research/#discrilens
+
+    - name: HypoML
+      embed_url: 
+      description: Presented at IEEE VIS 2020
+      links:
+        - label: Read More...
+          url: ../research/#hypoml
+
+    - name: ATMSeer
+      embed_url: https://www.youtube.com/embed/7QwN3mmiCzY
+      description: Presented at ACM CHI 2019
+      links:
+        - label: Read More...
+          url: ../research/#atmseer
+
+    - name: GNN Genealogy
+      embed_url: ''
+      description: Presented at IEEE VIS 2019
+      links:
+        - label: Read More...
+          url: ../research/#dnn
+
+    - name: Narvis
+      embed_url: https://www.youtube.com/embed/bbRBzumBrX4
+      description: Presented at IEEE VIS 2018
+      links:
+        - label: Read More...
+          url: ../research/#narvis
+   
 

@@ -36,6 +36,27 @@
   </div>
   <div class="col md-col-4 sm-col-12 px2 ">
     <h3 class="mt0 mb0">News</h3>
-    {% include news.html %}
+    <div class="clearfix max-height-400 overflow-scroll">
+      <ul class="dark-gray">
+        {% for new in site.data.news %}
+          <li class="h5 header-font">[<b>{{new.date}}</b>] {{ new.title }}</li>
+        {% endfor %}
+      </ul>
+    </div>    
+  </div>
+</div>
+
+
+<!-- Research Themes -->
+<h3>Research Themes</h3>
+<div class="clearfix mxn2">
+  <div class="col md-col-4 sm-col-12 px2">
+    Open the black box
+  </div>
+  <div class="col md-col-4 sm-col-12 px2">
+    What is the right way to present 
+  </div>
+  <div class="col md-col-4 sm-col-12 px2">
+    Seamless explanation and feedback
   </div>
 </div>
