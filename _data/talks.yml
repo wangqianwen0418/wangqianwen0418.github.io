@@ -1,0 +1,85 @@
+invited_talks:
+  subtitle: ""
+  talks:
+  - name: 'Interactive Visualizations for Usable AI: Bridge the Capabilities of AI with the Needs of Human Users'
+    locations: 
+    - '<b>Panel Presentation</b> at ChinaVis2022 AI+VIS'
+    - '<b>Guest Lecture</b> Visualization Summer School, Zhejiang University'
+    date: 'Jul 2022'
+    embed_url: "//www.slideshare.net/slideshow/embed_code/key/2QQ9zLUIWz3Uow?hostedIn=slideshare&page=upload" 
+    image_url: ""
+    description: 
+    links:
+    # - label: "Video"
+    #   url: "https://www.youtube.com/watch?v=z_D9oXCK2lM"
+    - label: "Slides"
+      url: https://www.slideshare.net/ssuserbe923f/bridge-the-capabilities-of-ai-with-the-needs-of-human-users
+
+  - name: 'Applying Machine Learning to Data Visualization: <br/> What, Why, When, and How'
+    locations: 
+    - '<b>Guest Lecture</b> AI+VIS Seminar, University of California, Davis'
+    date: 'Feb, 2022'
+    embed_url: "https://www.slideshare.net/slideshow/embed_code/key/pposTz9PZxIhzS?hostedIn=slideshare&page=upload"
+    image_url: ""
+    links:
+    - label: "Slides"
+      url: https://www.slideshare.net/ssuserbe923f/applying-machine-learning-to-data-visaulization-what-why-where-and-how
+
+  - name: 'From Data to Decisions, a Mixed Path of Data Visualization and Machine Learning'
+    locations: 
+    - '<b>Keynote Presentation</b> PacificVIS22 VIS Meets AI Workshop'
+    embed_url: "https://www.slideshare.net/slideshow/embed_code/key/CAfBJvyxJHWXmM?hostedIn=slideshare&page=upload"
+    links:
+    - label: "Video"
+      url: "https://youtu.be/JHHbsZScFhs"
+    - label: "Slides"
+      url: "https://www.slideshare.net/ssuserbe923f/from-data-to-decisions-a-mixed-path-of-data-visualization-and-machine-learning"
+    - label: "Website Link"
+      url: "http://vis.tju.edu.cn/pvis2021/Invited_talks.html"
+
+
+
+paper_previews:
+  subtitle: Find more about my research through these short ~30s videos
+  talks:
+    - name: ThreadStates
+      embed_url: ""
+      description: Presented at IEEE VIS 2021
+      links:
+        - label: PDF
+          url: https://osf.io/vcskm
+        - label:  Long Presentation Video
+          url: https://youtu.be/7NSsG2J6UPE
+    - name: ATMSeer
+      embed_url: ''
+      description: Presented at ACM CHI 2019
+      links:
+        - label: PDF
+          url:
+        - label:  Long Presentation Video
+          url:
+    - name: DiscriLens
+      embed_url:
+      description: 
+      links:
+        - label: PDF
+          url:
+        - label: Long Presentation Video
+          url:
+    - name: HypoML
+      embed_url: 
+      description: 
+      links:
+        - label: PDF
+          url:
+        - label:  Long Presentation Video
+          url:
+    - name: Nested Model for User-Centric XAI
+      embed_url: ''
+      description: Presented at IEEE VIS 2022
+      links:
+        - label: PDF
+          url:
+        - label:  Long Presentation Video
+          url:
+
