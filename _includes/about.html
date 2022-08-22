@@ -3,7 +3,7 @@
     <!-- <h5>I am on the job market&#128521 ~ </h5>  -->
     <!-- <h5>Feel free to contact through qianwen_wang@hms.harvard.edu</h5> -->
     <h3 class="mt0 mb1">About me</h3>
-    <p>
+    <p class="justify">
       I am Qianwen Wang (汪倩雯), a PostDoc at <a class="link about" href="http://gehlenborglab.org"
         target="_blank">Gehlenborgy Lab</a>, <a class="link about">Harvard University</a>.
       I am studying <span class="vis keyword">Interactive Data Visualization</span> within the broad context of <span
@@ -16,17 +16,17 @@
       <!-- My work strives to facilitate the communication between general users and complicated algorithms through 
       creating interactive visual analysis systems. -->
     </p>
-    <p>
+    <p class="justify">
       I obtained my PhD degree in the Department of Electronic and Computer Engineering,
       Hong Kong University of Science and Technology in 2020.
-      <br />
+
       I got my B.Eng Degree from Xi'an Jiaotong University in 2015.
       During my PhD study, I worked at the <a class="link about" href="http://vis.cse.ust.hk/groups/xai-vis/"
         target="_blank">XAI Group</a>，
       <a class="link about" href="http://vis.cse.ust.hk/" target="_blank">HKUST VisLab</a>,
       under the supervision of
       <a class="link about" href="http://www.huamin.org/" target="_blank">Prof. Huamin Qu</a>.
-      <br />
+
       I have interned at Microsoft Research Asia
       and collaborate with researchers from MIT, University of Oxford, Tsinghua Univeristy, Microsoft Research.
     </p>
@@ -39,10 +39,10 @@
     <div class="clearfix max-height-400 overflow-scroll">
       <ul class="dark-gray">
         {% for new in site.data.news %}
-          <li class="h5 header-font">[<b>{{new.date}}</b>] {{ new.title }}</li>
+        <li class="h5 header-font">[<b>{{new.date}}</b>] {{ new.title }}</li>
         {% endfor %}
       </ul>
-    </div>    
+    </div>
   </div>
 </div>
 
@@ -51,12 +51,29 @@
 <h3>Research Themes</h3>
 <div class="clearfix mxn2">
   <div class="col md-col-4 sm-col-12 px2">
-    Open the black box
+    <span class="bold">Human-AI Collaboration</span>
+    <p class="h5 dark-gray justify">
+      I design and develop tools to facilitate Human-AI collaboration,
+      which also drives my investigation on visualization techniques, algorithms, and design frameworks.
+    </p>
   </div>
+
   <div class="col md-col-4 sm-col-12 px2">
-    What is the right way to present 
+    <span class="bold">Accessible and Intelligent Visualization</span>
+    <p class="h5 dark-gray justify">
+      I propose techniques, authoring tools, and machine learning algorithms in pursuit of making visualizations that
+      can be accurately
+      interpreted and easily used by everyone.
+    </p>
   </div>
+
   <div class="col md-col-4 sm-col-12 px2">
-    Seamless explanation and feedback
+    <span class="bold">VIS+(X)AI in Biomedicine/Healthcare</span>
+    <p class="h5 dark-gray justify">
+      Through wide collaboration, I am learning how VIS + (X)AI can promote scientific discoveries, especially
+      in the field of biomedicine and
+      healthcare
+      (e.g., genomics, single-cell, and cohort analysis).
+    </p>
   </div>
 </div>

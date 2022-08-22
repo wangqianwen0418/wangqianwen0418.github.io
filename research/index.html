@@ -5,34 +5,26 @@ header_title: Research Publication
 include_header: page_header.html
 nav_item: Research
 extra_scripts:
-  - /assets/js/papers.js
+- /assets/js/papers.js
 ---
-<!-- Research Themes -->
-<h3>Research Themes</h3>
-<div class="clearfix mxn2">
-  <div class="col md-col-4 sm-col-12 px2">
-    Open the black box
-  </div>
-  <div class="col md-col-4 sm-col-12 px2">
-    What is the right way to present 
-  </div>
-  <div class="col md-col-4 sm-col-12 px2">
-    Seamless explanation and feedback
-  </div>
-</div>
 
 <div class="project overview">
   <div id="myBtnContainer" class="flex flex-center">
     <!-- <button class="btn active" onclick="filterSelection('all')"> Show all {{site.data.projects.size}}</button> -->
-    
+
     <button class="btn active" onclick="filterSelection('vis4ml')"> <i class="fa fa-fw fa-tag"></i> VIS4ML</button>
     <button class="btn active" onclick="filterSelection('ml4vis')"> <i class="fa fa-fw fa-tag"></i> ML4VIS</button>
-    <button class="btn active" onclick="filterSelection('biomed')"> <i class="fa fa-fw fa-tag"></i> Visualization for BioMed </button>
-    <button class="btn active" onclick="filterSelection('accessible')"> <i class="fa fa-fw fa-tag"></i> Accessible Visualization</button>
+    <button class="btn active" onclick="filterSelection('biomed')"> <i class="fa fa-fw fa-tag"></i> Visualization for
+      BioMed </button>
+    <button class="btn active" onclick="filterSelection('accessible')"> <i class="fa fa-fw fa-tag"></i> Accessible
+      Visualization</button>
   </div>
-  
+
 </div>
 
+<!-- {% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}
+<a> {{url_path}} </a> -->
+
 {% for project in site.data.projects %}
-      {% include project-outline.html project=project %}
+{% include project-outline.html project=project %}
 {% endfor %}

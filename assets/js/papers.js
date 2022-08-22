@@ -1,7 +1,8 @@
 var tags = ['ml4vis', 'vis4ml', "biomed", "accessible"];
+
 function modifyTag(c) {
   const idx = tags.indexOf(c)
-  if(idx===-1) tags.push(c);
+  if (idx === -1) tags.push(c);
   else tags.splice(idx, 1);
 }
 function filterSelection(c) {
@@ -9,16 +10,16 @@ function filterSelection(c) {
   modifyTag(c)
   x = document.getElementsByClassName("filterDiv");
   for (i = 0; i < x.length; i++) {
-    var isRemain = tags.some(tag=>x[i].className.indexOf(tag)>-1)
-    if (isRemain){
-        w3AddClass(x[i], "show")
+    var isRemain = tags.some(tag => x[i].className.indexOf(tag) > -1)
+    if (isRemain) {
+      w3AddClass(x[i], "show")
     } else w3RemoveClass(x[i], "show");
   }
 
   tag_icons = document.getElementsByClassName('paper-tag')
-  for (j = 0; j<tag_icons.length; j++){
-    var isActive = tags.some(tag=>tag_icons[j].className.indexOf(tag)>-1)
-    if (isActive){
+  for (j = 0; j < tag_icons.length; j++) {
+    var isActive = tags.some(tag => tag_icons[j].className.indexOf(tag) > -1)
+    if (isActive) {
       w3AddClass(tag_icons[j], "active")
     } else w3RemoveClass(tag_icons[j], "active");
   }
@@ -43,7 +44,7 @@ function w3RemoveClass(element, name) {
   arr2 = name.split(" ");
   for (i = 0; i < arr2.length; i++) {
     while (arr1.indexOf(arr2[i]) > -1) {
-      arr1.splice(arr1.indexOf(arr2[i]), 1); 
+      arr1.splice(arr1.indexOf(arr2[i]), 1);
     }
   }
   element.className = arr1.join(" ");
@@ -55,9 +56,12 @@ var btns = btnContainer.getElementsByClassName("btn");
 
 for (var i = 0; i < btns.length; i++) {
   var btn = btns[i];
-  btn.addEventListener("click", function() {
+  btn.addEventListener("click", function () {
     if (this.className.indexOf('active') > -1) {
       this.className = this.className.replace(" active", "");
-    }else this.className += " active";
+    } else this.className += " active";
   });
 }
+
+// // filter based on url
+// var tag = window.location.href.split('#')[1]
