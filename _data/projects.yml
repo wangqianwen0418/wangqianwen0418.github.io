@@ -3,7 +3,7 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/>
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/> 🏆 Best Paper Honorable Mention
   image: "nest_xai.png"
   authors: <b>Qianwen Wang</b>, Kexin Huang, Payal Chandak, Marinka Zitnik, Nils Gehlenborg
   attach:

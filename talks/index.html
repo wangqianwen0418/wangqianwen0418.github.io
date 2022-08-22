@@ -37,8 +37,13 @@ nav_item: talks
 <div class="flex flex-wrap flex-start">
 {% for talk in site.data.talks.paper_previews.talks %}
   <div class="border-bottom border-light-gray px3 md-col-6 sm-col-12">
+    
     <div class="iframe-wrapper">
+      {% if talk.embed_url %}
       <iframe data-src="{{ talk.embed_url }}" frameborder="0" allowfullscreen class="lazyload"></iframe>
+      {% else %}
+      <video controls poster="{{talk.video_poster}}"> <source src='{{talk.local_video}}' type="video/mp4"/> </video>
+      {% endif %}
     </div>
       <p class="h5 bold mb0">{{ talk.name }}</p> 
       <span class="h5">{{ talk.description }}</span>

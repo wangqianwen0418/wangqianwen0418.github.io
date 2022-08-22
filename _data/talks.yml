@@ -40,36 +40,47 @@ invited_talks:
 
 
 paper_previews:
-  subtitle: Find more about my research through these short ~30s videos
+  subtitle: A quick overview about my research through these short ~30s videos
   talks:
     - name: Nested Model for User-Centric XAI
-      embed_url: ''
-      description: Presented at IEEE VIS 2022
+      # embed_url: 'https://www.youtube.com/embed/jmtnmikxJC4'
+      local_video: '/assets/videos/nest_preview.mp4'
+      video_poster: '/assets/img/projects/nest_xai.png'
+      description: Presented at IEEE VIS 2022 (<b>Best Paper Honorable Mention</b>) <br/> Presented at IMLH@ICML 2021 (<b>Best Paper</b>)
       links:
         - label: Read More...
           url: ../research/#nest_xai
 
     - name: Survey on ML4VIS
-      embed_url: ''
+      # embed_url: 'https://www.youtube.com/embed/oMteYoVBRrs'
+      local_video: '/assets/videos/ml4vis_preview.mp4'
       description: Presented at IEEE VIS 2022
       links:
         - label: Read More..
           url: ../research/#ml4vis_survey
 
-    - name: ThreadStates
+    
+    - name: Polyphony
+      # embed_url: 'TODO:'
+      local_video: '/assets/videos/polyphony_preview.mp4'
+      description: Presented at IEEE VIS 2022  <br/> Presented at ISMB 2022 (<b>Best Long Abstract Award</b>)
+      links:
+        - label: Read More..
+          url: ../research/#polyphony
+
+    - name: Gosling Grammar for Genomic Visualization
+      embed_url: 'https://www.youtube.com/embed/Wvyb9dus9eU?start=5'
+      description: Presented at IEEE VIS 2021 <br/> Presented at ISMB 2021 (<b>Best Abstract Award</b>)
+      links:
+        - label: Read More..
+          url: ../research/#gosling
+
+    - name: 'ThreadStates: State-based Visual Analysis for Disease Progression'
       embed_url: "https://www.youtube.com/embed/BuripTHkSKk"
       description: Presented at IEEE VIS 2021
       links:
         - label: Read More...
           url: ../research/#threadstates
-
-
-    # - name: Gosling Grammar
-    #   embed_url: ''
-    #   description: Presented at IEEE VIS 2021
-    #   links:
-    #     - label: Read More...
-    #       url: ../research/#gosling
 
     - name: DiscriLens
       embed_url: https://www.youtube.com/embed/-K5ZXfMNLVY
