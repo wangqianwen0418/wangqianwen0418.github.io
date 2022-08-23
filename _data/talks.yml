@@ -63,6 +63,7 @@ paper_previews:
     - name: Polyphony
       # embed_url: 'TODO:'
       local_video: '/assets/videos/polyphony_preview.mp4'
+      video_poster: '/assets/img/projects/polyphony.png'
       description: Presented at IEEE VIS 2022  <br/> Presented at ISMB 2022 (<b>Best Long Abstract Award</b>)
       links:
         - label: Read More..
