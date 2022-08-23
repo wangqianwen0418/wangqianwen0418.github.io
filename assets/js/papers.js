@@ -70,7 +70,9 @@ for (var i = 0; i < btns.length; i++) {
 }
 
 // filter based on url
-var url_tags = window.location.href.split('#')[1].split('+')
+const urlParams = new URLSearchParams(window.location.search);
+const url_tags = urlParams.get('tags').split(' ')
+// var url_tags = window.location.href.split('#')[1].split('+')
 filterSelection(url_tags)
 
 for (var i = 0; i < btns.length; i++) {
