@@ -238,6 +238,10 @@ h6, .h6 { font-size: .75rem; line-height: .9rem; }
 
 .nowrap { white-space: nowrap }
 
+.m-auto  { margin:        auto }
+.mt-auto { margin-top:    auto }
+.mb-auto { margin-bottom: auto; }
+
 .m0  { margin:        0 }
 .mt0 { margin-top:    0 }
 .mr0 { margin-right:  0 }
@@ -473,7 +477,7 @@ h6, .h6 { font-size: .75rem; line-height: .9rem; }
 .col-12 {
   width: 100%;
 }
-@media (min-width: 20em) {
+@media (min-width: 18em) {
 
   .xs-col {
     float: left;
@@ -1217,6 +1221,7 @@ input[type=range] {
 .bg-black, .bg-dark-gray   { background-color: #111 }
 .bg-gray, .bg-mid-gray     { background-color: #aaa }
 .bg-silver, .bg-light-gray { background-color: #ddd }
+.bg-light-silver { background-color: #eee }
 .bg-white  { background-color: #fff }
 
 .bg-aqua  { background-color: #7fdbff }
@@ -1265,3 +1270,6 @@ input[type=range] {
 .border-darken-4 { border-color: rgba(0,0,0,.5) }
 .muted { opacity: .5 }
 
+.opacity-3  {opacity: 0.3;}
+.opacity-5  {opacity: 0.5;}
+.opacity-8  {opacity: 0.8;}

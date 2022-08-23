@@ -42,3 +42,15 @@ h2.project.cate{
   background: #333;
   padding: 10px 20px;
 }
+
+.show-on-hover-container .show-on-hover {
+  max-height: 0px;
+  height: 0px;
+  transition: 0.4s ease-in;
+  overflow: hidden;
+}
+
+.show-on-hover-container:hover .show-on-hover {
+  max-height: 400px; // a big enough number to enable 0 -> 100% height transition
+  height: 100% ;
+}
