@@ -1,7 +1,9 @@
 {% capture project_title_element %}{% if include.project_title_element %}{{ include.project_title_element }}{% else
 %}h4{% endif %}{% endcapture %}
 <div
-  class="mxn2 clearfix mt1 py1{% unless include.exclude_divider %} border-bottom border-light-gray {% endunless %}  filterDiv show {{include.project.cate | join: ' ' }}">
+  class="mxn2 clearfix mt1 py1{% unless include.exclude_divider %} border-bottom border-light-gray {% endunless %}  filterDiv show {{include.project.cate | join: ' ' }}"
+  id = "{{include.project.image | split: '.' | slice: 0 }}"
+  >
   <div class="col sm-col-4 px2">
     <a href="{{ include.project.details }}" target="_blank">
       {% capture image_path %}projects/{{ include.project.image }}{% endcapture %}
@@ -20,7 +22,7 @@
     {% endif %}
     <p class="left-align mb0">
       {% for tag in include.project.cate %}
-      <span class="paper-tag ">{{tag}}</span>
+      <span class="paper-tag {{tag}} active"> <i class="fa fa-fw fa-tag"></i>{{tag}}</span>
       {% endfor %}
     </p>
 
@@ -33,7 +35,7 @@
       {% endfor %} -->
 
       {% for item in include.project.attach %}
-      <a href="{{item.url}}" target="_blank" class="gray hint--top" data-hint="{{ item.label }}">
+      <a href="{{item.url}}" target="_blank" class="black hint--top h6" data-hint="{{ item.label }}">
         <i class="fa fa-fw fa-lg fa-{{ item.icon }}"></i>
         {{item.label | upcase }}
       </a>

@@ -1,0 +1,53 @@
+- cate: Organizing Committee
+- conferences:
+  - position: "Poster Chair"
+    conference: "IEEE PacificVis"
+    date: "2023"
+
+  - position: "Abstract Chair"
+    conference: "Conference on Intelligent Systems for Molecular Biology (ISMB), BioVis COSI"
+    date: "2022"
+
+  - position: "Workshop Organizer"
+    conference: "Visualization in Biomedical AI workshop @ IEEE VIS"
+    date: "2022"
+
+  - position: "Tutorial Organizer"
+    conference: "Building Interactive Visualizations of Genomics Data with Gosling @ ISMB 2022"
+    date: "2022"
+    
+- cate: Program Committee
+- conferences:
+  - conference: "ACM Conference on Intelligent User Interfaces"
+    date: "2023"
+
+  - conference: "IEEE Pacific Vis 2022 Visualization Meets AI Workshop"
+    date: "2022"
+
+  - conference: "ChinaVis Conference"
+    date: "2022"
+
+- cate: Conference Paper Review
+- conferences:
+  - conference: "IEEE VIS Conference"
+    date: "2018-2022"
+
+  - conference: "ACM CHI Conference on Human Factors in Computing Systems"
+    date: "2019-2022"
+
+  - conference: "ChinaVis Conference"
+    date: "2019-2021"
+
+  - conference: "EuroVis Conference"
+    date: "2019-2020"
+
+- cate: Invited Journal Review
+- conferences:
+  - conference: IEEE Transactions on Visualization and Computer Graphics
+    date: 2019-2022
+  - conference: Journal of Visualization 
+    date: 2021-2022
+  - conference: IEEE Computer Graphics and Applications 
+    date: 2021-2022
+  - conference: Oxford Bioinformatics
+    date: 2022

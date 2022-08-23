@@ -1,0 +1,121 @@
+invited_talks:
+  subtitle: ""
+  talks:
+  - name: 'Interactive Visualizations for Usable AI: Bridge the Capabilities of AI with the Needs of Human Users'
+    locations: 
+    - '<b>Panel Presentation</b> at ChinaVis2022 AI+VIS'
+    - '<b>Guest Lecture</b> Visualization Summer School, Zhejiang University'
+    date: 'Jul 2022'
+    embed_url: "//www.slideshare.net/slideshow/embed_code/key/2QQ9zLUIWz3Uow?hostedIn=slideshare&page=upload" 
+    image_url: ""
+    description: 
+    links:
+    # - label: "Video"
+    #   url: "https://www.youtube.com/watch?v=z_D9oXCK2lM"
+    - label: "Slides"
+      url: https://www.slideshare.net/ssuserbe923f/bridge-the-capabilities-of-ai-with-the-needs-of-human-users
+
+  - name: 'Applying Machine Learning to Data Visualization: <br/> What, Why, When, and How'
+    locations: 
+    - '<b>Guest Lecture</b> AI+VIS Seminar, University of California, Davis'
+    date: 'Feb, 2022'
+    embed_url: "https://www.slideshare.net/slideshow/embed_code/key/pposTz9PZxIhzS?hostedIn=slideshare&page=upload"
+    image_url: ""
+    links:
+    - label: "Slides"
+      url: https://www.slideshare.net/ssuserbe923f/applying-machine-learning-to-data-visaulization-what-why-where-and-how
+
+  - name: 'From Data to Decisions, a Mixed Path of Data Visualization and Machine Learning'
+    locations: 
+    - '<b>Keynote Presentation</b> PacificVIS22 VIS Meets AI Workshop'
+    embed_url: "https://www.slideshare.net/slideshow/embed_code/key/CAfBJvyxJHWXmM?hostedIn=slideshare&page=upload"
+    links:
+    - label: "Video"
+      url: "https://youtu.be/JHHbsZScFhs"
+    - label: "Slides"
+      url: "https://www.slideshare.net/ssuserbe923f/from-data-to-decisions-a-mixed-path-of-data-visualization-and-machine-learning"
+    - label: "Website Link"
+      url: "http://vis.tju.edu.cn/pvis2021/Invited_talks.html"
+
+
+
+paper_previews:
+  subtitle: A quick overview about my research through these short ~30s videos
+  talks:
+    - name: Nested Model for User-Centric XAI
+      # embed_url: 'https://www.youtube.com/embed/jmtnmikxJC4'
+      local_video: '/assets/videos/nest_preview.mp4'
+      video_poster: '/assets/img/projects/nest_xai.png'
+      description: Presented at IEEE VIS 2022 (<b>Best Paper Honorable Mention</b>) <br/> Presented at IMLH@ICML 2021 (<b>Best Paper</b>)
+      links:
+        - label: Read More...
+          url: ../research/#nest_xai
+
+    - name: Survey on ML4VIS
+      # embed_url: 'https://www.youtube.com/embed/oMteYoVBRrs'
+      local_video: '/assets/videos/ml4vis_preview.mp4'
+      description: Presented at IEEE VIS 2022
+      links:
+        - label: Read More..
+          url: ../research/#ml4vis_survey
+
+    
+    - name: Polyphony
+      # embed_url: 'TODO:'
+      local_video: '/assets/videos/polyphony_preview.mp4'
+      video_poster: '/assets/img/projects/polyphony.png'
+      description: Presented at IEEE VIS 2022  <br/> Presented at ISMB 2022 (<b>Best Long Abstract Award</b>)
+      links:
+        - label: Read More..
+          url: ../research/#polyphony
+
+    - name: Gosling Grammar for Genomic Visualization
+      embed_url: 'https://www.youtube.com/embed/Wvyb9dus9eU?start=5'
+      description: Presented at IEEE VIS 2021 <br/> Presented at ISMB 2021 (<b>Best Abstract Award</b>)
+      links:
+        - label: Read More..
+          url: ../research/#gosling
+
+    - name: 'ThreadStates: State-based Visual Analysis for Disease Progression'
+      embed_url: "https://www.youtube.com/embed/BuripTHkSKk"
+      description: Presented at IEEE VIS 2021
+      links:
+        - label: Read More...
+          url: ../research/#threadstates
+
+    - name: DiscriLens
+      embed_url: https://www.youtube.com/embed/-K5ZXfMNLVY
+      description: Presented at IEEE VIS 2020
+      links:
+        - label: Read More...
+          url: ../research/#discrilens
+
+    - name: HypoML
+      embed_url: https://www.youtube.com/embed/rf-amrd2Goc
+      description: Presented at IEEE VIS 2020
+      links:
+        - label: Read More...
+          url: ../research/#hypoml
+
+    - name: ATMSeer
+      embed_url: https://www.youtube.com/embed/7QwN3mmiCzY
+      description: Presented at ACM CHI 2019
+      links:
+        - label: Read More...
+          url: ../research/#atmseer
+
+    - name: DNN Genealogy
+      embed_url: https://www.youtube.com/embed/OcyM14mdxe0
+      description: Presented at IEEE VIS 2019
+      links:
+        - label: Read More...
+          url: ../research/#dnn
+
+    - name: Narvis
+      embed_url: https://www.youtube.com/embed/bbRBzumBrX4
+      description: Presented at IEEE VIS 2018
+      links:
+        - label: Read More...
+          url: ../research/#narvis
+   
+

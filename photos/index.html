@@ -1,17 +1,15 @@
 ---
 layout: default
-title: "Qianwen's Photos"
+title: "Photos"
 redirect_from: "/photos"
 header_title: A Glance of My Life
-include_header: photos_header.html
+include_header: page_header.html
 nav_item: Life
-extra_scripts:
-  - /assets/js/photos.js
 ---
 
 
 {% for photo in site.data.photos %}
-<div class="col sm-col-6 px2 mt2 mb2" style="min-height: 300px">
+<div class="col sm-col-6 px2 mt2 mb2 {% if forloop.last %}mb4{% endif %}" style="min-height: 300px">
     <a href="/assets/img/photos/{{photo.url}}" target="_blank" class="block button button-transparent button-narrow border border-light-gray px1 py1">
       <img 
       style= "image-orientation: from-image;"

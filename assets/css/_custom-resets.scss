@@ -92,7 +92,8 @@ h6, .h6 { font-size: .75rem }
 }
 
 .page-title {
-  font-size: 2.5rem;
+  font-size: 2rem;
+  @include body-font;
 }
 
 .container {
@@ -212,8 +213,13 @@ a.paper-attach{
   border-radius: 5px;
   border: 1px solid gray;
   padding: 0px 5px;
-  color: gray;
+  color: lightgray;
 }
+
+.paper-tag.active {
+  color: #333;
+}
+
 .filterDiv {
   display: none; /* Hidden by default */
 }
@@ -227,20 +233,17 @@ a.paper-attach{
 .btn {
   border: none;
   outline: none;
-  padding: 12px 16px;
+  padding: 6px 8px;
   background-color: #f1f1f1;
+  color: #aaa;
   cursor: pointer;
-  margin-bottom: 5px;
-  border-radius: 20px;
-}
-
-/* Add a light grey background on mouse-over */
-.btn:hover {
-  background-color: #ddd;
+  margin: 2px 2px;
+  border-radius: 2px;
 }
 
 /* Add a dark background to the active button */
 .btn.active {
-  background-color: #666;
-  color: white;
+  border: #333 solid 2px;
+  background-color: white;
+  color: #333;
 }

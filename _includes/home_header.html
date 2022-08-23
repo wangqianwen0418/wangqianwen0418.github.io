@@ -8,7 +8,17 @@
     </div>
 
     <div class="px2">
-      {% include header-h1.html %}
+      <div class="clearfix">
+        <a href="{% include canonical-url.html %}">
+          <h2 class="page-title mt0 mb1">
+            {% if page.header_title %}
+              {{ page.header_title }}
+            {% else %}
+              {{ page.title }}
+            {% endif %}
+          </h2>
+        </a>
+      </div>
       <h4 class="page-description body-font gray mt0 h4 regular">
         Data Visualization<br />
         Explainable Machine Learning <br />

@@ -1,0 +1,48 @@
+---
+layout: default
+title: "Qianwen's Photos"
+header_title: Awards & Professional Service
+include_header: page_header.html
+nav_item: Awards and Services
+
+---
+
+
+<div>
+    <h3 class="border-bottom border-light-gray">Professional Service</h3>
+    
+    {% for service in site.data.services %}
+        <div class="xs-px1 md-px4 bold">{{service.cate}}</div>
+        {% for conference in service.conferences %}
+        <div class="clearfix xs-px1 md-px4">
+            <div class="col xs-col-2 px1 right-align">
+                {{conference.date}}
+            </div>
+            <div class="col xs-col-10  px1">
+                {% if conference.position %}
+                <span class="bold">{{conference.position}} </span> <br/> {{conference.conference}}
+                {% else %}
+                {{conference.conference}}
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    {% endfor %}
+</div>
+
+
+<div class="mt3">
+    <h3 class="border-bottom border-light-gray ">Awards</h3>
+    {% for award in site.data.awards %}
+    <div class="clearfix xs-px1 md-px4">
+    
+        <div class="col xs-col-2 px1 right-align">
+            {{award.date}}
+        </div>
+        <div class="col xs-col-10 px1">
+            <span class="bold">{{award.title}} </span> <br/> 
+            {{award.institute}}
+        </div>
+    </div>
+    {% endfor %}
+</div>

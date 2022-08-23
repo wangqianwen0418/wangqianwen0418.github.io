@@ -1,0 +1,20 @@
+<div class="container">
+  <div class="clearfix">
+    <a href="{% include canonical-url.html %}">
+      <h2 class="page-title mt0 mb1">
+        {% if page.header_title %}
+          {{ page.header_title }}
+        {% else %}
+          {{ page.title }}
+        {% endif %}
+      </h2>
+    </a>
+  </div>
+ 
+    <h4 class="page-description body-font gray mt1 regular">
+      {% if page.subtitle %}
+        {{ page.subtitle }}
+      {% endif %}
+      <!-- The world is a book and those who do not travel read only one page - Augustine of Hippo -->
+    </h4>
+</div>

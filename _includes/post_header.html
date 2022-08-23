@@ -1,5 +1,15 @@
 <div class="container">
-  {% include header-h1.html h1_class="mt0 mb1" %}
+  <div class="clearfix">
+    <a href="{% include canonical-url.html %}">
+      <h2 class="{% if include.h1_class %}{{ include.h1_class }}{% else %}page-title mt0 mb1{% endif %}">
+        {% if page.header_title %}
+          {{ page.header_title }}
+        {% else %}
+          {{ page.title }}
+        {% endif %}
+      </h2>
+    </a>
+  </div>
   <div>{% include post-metadata.html post=page time_estimate=true time_estimate_minutes=page.time_estimate_minutes %}</div>
 </div>
 
