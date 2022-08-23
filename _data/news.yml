@@ -1,5 +1,9 @@
   - label: award
-    title: <a class='news-link' href='https://osf.io/b76nt'>Polyphony</a> won the Best Abstract Award 🏆 at ISMB 2022
+    title: <a class='news-link' href='/research/#nest_xai'>Our XAI design study</a> won a Hornorable Mention Award 🏆 at IEEE VIS 2022
+    date: Jul, 2022
+
+  - label: award
+    title: <a class='news-link' href='/research/#polyphony'>Polyphony</a> won the Best Abstract Award 🏆 at ISMB 2022
     date: Jul, 2022
 
   - label: service
@@ -7,7 +11,7 @@
     date: Jul, 2022
 
   - label: paper
-    title: Three papers (<a class='news-link' href='https://osf.io/b76nt'>PolyPhony</a>, <a class='news-link' href='https://osf.io/rscb4' >GenoRec</a>, and <a class='news-link' href='https://osf.io/yhdpv'> a design study on XAI </a>) are accepted by IEEE VIS 2022 🎉
+    title: Three papers (<a class='news-link' href='/research/#polyphony'>PolyPhony</a>, <a class='news-link' href='/research/#GenoREC' >GenoRec</a>, and <a class='news-link' href='/research/#nest_xai'> a design study on XAI </a>) are accepted by IEEE VIS 2022 🎉
     date: Jul, 2022
 
   - label: award
@@ -15,23 +19,23 @@
     date: Jun, 2022
 
   - label: service
-    title: We will host a <a class='news-link' href="https://vis-biomed-ai.github.io/">Visualization in Biomedical AI workshop</a> at IEEE VIS 2022 🎉
+    title: We will host a <a class='news-link' href="https://vis-biomed-ai.github.io/" target='_blank'>Visualization in Biomedical AI workshop</a> at IEEE VIS 2022 🎉
     date: Apr, 2022
 
   - label: paper
-    title: <a class='news-link' href='https://arxiv.org/abs/2011.11048'> GNNLens</a> is accepted by IEEE TVCG
+    title: <a class='news-link' href='https://arxiv.org/abs/2011.11048' target='_blank'> GNNLens</a> is accepted by IEEE TVCG
     date: Feb, 2022
 
   - label: other
-    title: We will host a <a class='news-link' href='http://gosling-lang.org/tutorials/ismb'>Gosling/Gos tutorial</a> BioVis@ISMB2022 🎉
+    title: We will host a <a class='news-link' href='http://gosling-lang.org/tutorials/ismb' target='_blank'>Gosling/Gos tutorial</a> BioVis@ISMB2022 🎉
     date: Feb, 2022
 
   - label: service
-    title: I am honored to serve as <a class='news-link' href='http://biovis.net/2022/committee.html'> Abstract Chair for BioVis@ISMB2022</a>
+    title: I am honored to serve as <a class='news-link' href='http://biovis.net/2022/committee.html' target='_blank'> Abstract Chair for BioVis@ISMB2022</a>
     date: Jan, 2022
 
   - label: paper
-    title: <a class='news-link' href='http://gosling-lang.org'>Gosling</a> won the Best Abstract Award 🏆 at ISMB 2021
+    title: <a class='news-link' href='http://gosling-lang.org' target='_blank'>Gosling</a> won the Best Abstract Award 🏆 at ISMB 2021
     date: Jul, 2021
 
   - label: paper
@@ -39,7 +43,7 @@
     date: Jul, 2021
 
   - label: paper
-    title: "One paper accepted by <a class='news-link' href='https://sites.google.com/view/imlh2021/program'>ICML workshop on Interpretable Machine Learning in Healthcare</a> (🏆  Best Paper Award) "
+    title: "One paper accepted by <a class='news-link' href='https://sites.google.com/view/imlh2021/program' target='_blank'>ICML workshop on Interpretable Machine Learning in Healthcare</a> (🏆  Best Paper Award) "
     date: Jul, 2021
 
   - label: talk
@@ -51,7 +55,7 @@
     date: Mar, 2021
 
   - label: talk 
-    title: Invited talk at PacificVis 2021 <a class="news-link" href="http://vis.tju.edu.cn/pvis2021/Invited_talks.html">Visualization meets AI</a>
+    title: Invited talk at PacificVis 2021 <a class="news-link" href="http://vis.tju.edu.cn/pvis2021/Invited_talks.html" target='_blank'>Visualization meets AI</a>
     date: Apr, 2021
 
   - label: paper
