@@ -7,7 +7,7 @@ icon: "/assets/img/icons/cat.ico"
 nav:
   main:
     # home: "/"
-    Research: "/research"
+    Publication: "/research"
     Awards and Services: '/awards'
     Talks: '/talks'
     # experiences: "/experiences"
