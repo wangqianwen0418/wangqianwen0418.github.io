@@ -279,7 +279,7 @@
     - url: "/assets/pdf/dnn.pdf"
       icon: "file"
       label: PDF
-    - url: "/demos/dnngenealogy"
+    - url: "/demos/DNNGenealogy"
       icon: desktop
       label: demo
   cate: 
