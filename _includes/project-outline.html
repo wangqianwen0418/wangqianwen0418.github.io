@@ -35,7 +35,7 @@
       {% endfor %} -->
 
       {% for item in include.project.attach %}
-      <a href="{{item.url}}" target="_blank" class="gray hint--top" data-hint="{{ item.label }}">
+      <a href="{{item.url}}" target="_blank" class="black hint--top h6" data-hint="{{ item.label }}">
         <i class="fa fa-fw fa-lg fa-{{ item.icon }}"></i>
         {{item.label | upcase }}
       </a>

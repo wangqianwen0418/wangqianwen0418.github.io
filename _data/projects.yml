@@ -3,9 +3,9 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/> 🏆 Best Paper Honorable Mention
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/> 🏆 <span class="orange">Best Paper Honorable Mention</span>
   image: "nest_xai.png"
-  authors: <b>Qianwen Wang</b>, Kexin Huang, Payal Chandak, Marinka Zitnik, Nils Gehlenborg
+  authors: <span class='black bold'>Qianwen Wang</span>, Kexin Huang, Payal Chandak, Marinka Zitnik, Nils Gehlenborg
   attach:
     - url: "https://osf.io/yhdpv/"
       icon: file
@@ -23,9 +23,9 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/> 🏆 Best Abstract Award at ISMB 2022
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/> 🏆 <span class="orange">Best Abstract Award at BioVis@ISMB 2022</span>
   image: "polyphony.png"
-  authors: Furui Cheng, Mark S Keller, Huamin Qu, Nils Gehlenborg, <b>Qianwen Wang</b>
+  authors: Furui Cheng, Mark S Keller, Huamin Qu, Nils Gehlenborg, <span class='black bold'>Qianwen Wang</span>
   attach:
     - url: "https://osf.io/b76nt"
       icon: file
@@ -44,7 +44,7 @@
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)
   image: "GenoREC.jpeg"
-  authors: Aditeya Pandey, Sehi L'Yi, <b>Qianwen Wang</b>, Michelle Borkin, Nils Gehlenborg
+  authors: Aditeya Pandey, Sehi L'Yi, <span class='black bold'>Qianwen Wang</span>, Michelle Borkin, Nils Gehlenborg
   attach:
     - url: "https://osf.io/rscb4/"
       icon: file
@@ -66,7 +66,7 @@
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics 2022
   image: "gnnlens.png"
-  authors: Zhihua Jin, Yong Wang, <b>Qianwen Wang</b>, Yao Ming, Tengfei Ma, Huamin Qu
+  authors: Zhihua Jin, Yong Wang, <span class='black bold'>Qianwen Wang</span>, Yao Ming, Tengfei Ma, Huamin Qu
   attach:
     - url: "https://ieeexplore.ieee.org/document/9705076"
       icon: file
@@ -79,9 +79,9 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: ICML workshop on Interpretable Machin Learning in Healthcare,</br> 🏆 Best Paper Award
+  publish: ICML workshop on Interpretable Machin Learning in Healthcare,</br> 🏆 <span class="orange">Best Paper Award</span>
   image: "drugVis.png"
-  authors: <b>Qianwen Wang</b>, Kexin Huang, Payal Chandak, Nils Gehlenborg, Marinka Zitnik
+  authors: <span class='black bold'>Qianwen Wang</span>, Kexin Huang, Payal Chandak, Nils Gehlenborg, Marinka Zitnik
   attach:
     - url: "/assets/pdf/imlh2021_drug.pdf"
       icon: file
@@ -100,7 +100,7 @@
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)
   image: "threadstates.png"
-  authors: <b>Qianwen Wang</b>, Tali Mazor, Theresa A Harbig, Ethan Cerami, Nils Gehlenborg
+  authors: <span class='black bold'>Qianwen Wang</span>, Tali Mazor, Theresa A Harbig, Ethan Cerami, Nils Gehlenborg
   attach:
     - url: "https://osf.io/vcskm/"
       icon: "file"
@@ -119,9 +119,9 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)<br/> 🏆 Best Abstract Award at ISMB 2021
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)<br/> 🏆 <span class="orange">Best Abstract Award at BioVis@ISMB 2021</span>
   image: "gosling.png"
-  authors: Sehi L'Yi, <b>Qianwen Wang</b>, Fritz Lekschas, Nils Gehlenborg
+  authors: Sehi L'Yi, <span class='black bold'>Qianwen Wang</span>, Fritz Lekschas, Nils Gehlenborg
   attach:
     - url: "https://osf.io/6evmb/"
       icon: "file"
@@ -144,7 +144,7 @@
   publish: Bioinformatics (Proc. ISMB 2021)
   doi: https://doi.org/10.1093/bioinformatics/btab289
   image: "oncothreads.png"
-  authors: Theresa A Harbig, Sabrina Nusrat, Tali Mazor, <b>Qianwen Wang</b>, Alexander Thomson, Hans Bitter, Ethan Cerami, Nils Gehlenborg
+  authors: Theresa A Harbig, Sabrina Nusrat, Tali Mazor, <span class='black bold'>Qianwen Wang</span>, Alexander Thomson, Hans Bitter, Ethan Cerami, Nils Gehlenborg
   attach:
     - url: "https://osf.io/b3n4u/"
       icon: "file"
@@ -162,7 +162,7 @@
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics 
   image: "ml4vis_survey.png"
-  authors: <b>Qianwen Wang</b>, Zhutian Chen, Yong Wang, and Huamin Qu
+  authors: <span class='black bold'>Qianwen Wang</span>, Zhutian Chen, Yong Wang, and Huamin Qu
   attach:
     - url: "https://arxiv.org/abs/2012.00467"
       icon: "file"
@@ -180,7 +180,7 @@
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2020)
   image: "discriLens.png"
-  authors: <b>Qianwen Wang</b>, Zhenhua Xu, Zhutian Chen, Yong Wang, <br/> Shixia Liu, and Huamin Qu
+  authors: <span class='black bold'>Qianwen Wang</span>, Zhenhua Xu, Zhutian Chen, Yong Wang, <br/> Shixia Liu, and Huamin Qu
   attach:
     - url: "https://arxiv.org/abs/2007.15182"
       icon: "file"
@@ -200,7 +200,7 @@
   # description:
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VAST 2020)
   image: "hypoml.png"
-  authors: <b>Qianwen Wang</b>, William Alexander, Jack Pegg, Huamin Qu, and Min Chen
+  authors: <span class='black bold'>Qianwen Wang</span>, William Alexander, Jack Pegg, Huamin Qu, and Min Chen
   attach:
     - url: "https://arxiv.org/abs/2002.05271"
       icon: "file"
@@ -217,7 +217,7 @@
   #   A visual summary of representative DNNs and their evolutionary relationships.
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2020)
   image: "sinestream.png"
-  authors: Chuan Bu, Quanjie Zhang, <b>Qianwen Wang</b>, Jian Zhang, Michael Sedlmair, Oliver Deussen, Yunhai Wang.
+  authors: Chuan Bu, Quanjie Zhang, <span class='black bold'>Qianwen Wang</span>, Jian Zhang, Michael Sedlmair, Oliver Deussen, Yunhai Wang.
   doi: https://doi.org/10.1109/TVCG.2020.3030404
   attach:
     - url: "/assets/pdf/sinestream.pdf"
@@ -232,7 +232,7 @@
   #   A visual summary of representative DNNs and their evolutionary relationships.
   publish: ACM CHI 2020
   image: "paparvis.jpg"
-  authors: Zhutian Chen, Wai Tong, <b>Qianwen Wang</b>, Benjamin Bach, and Huamin Qu.
+  authors: Zhutian Chen, Wai Tong, <span class='black bold'>Qianwen Wang</span>, Benjamin Bach, and Huamin Qu.
   attach:
     - url: "https://chenzhutian.org/projects/2020_arposter/paper.pdf"
       icon: "file"
@@ -253,7 +253,7 @@
   #   A visual summary of representative DNNs and their evolutionary relationships.
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2019)
   image: "timeline.gif"
-  authors: Zhutian Chen, Yun Wang, <b>Qianwen Wang</b>, Yong Wang, Huamin Qu
+  authors: Zhutian Chen, Yun Wang, <span class='black bold'>Qianwen Wang</span>, Yong Wang, Huamin Qu
   attach:
     - url: https://chenzhutian.org/projects/2019_autotimeline/paper.pdf
       icon: "file"
@@ -274,7 +274,7 @@
     <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics 2019
   image: "dnn.png"
-  authors: <b>Qianwen Wang</b>, Jun Yuan, Shuxin Chen, Su Hang, Huamin Qu, Shixia Liu
+  authors: <span class='black bold'>Qianwen Wang</span>, Jun Yuan, Shuxin Chen, Su Hang, Huamin Qu, Shixia Liu
   attach:
     - url: "/assets/pdf/dnn.pdf"
       icon: "file"
@@ -291,7 +291,7 @@
   #   A visual summary of representative DNNs and their evolutionary relationships.
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2019)
   image: "deepDrawing.png"
-  authors: Yong Wang, Zhihua Jin, <b>Qianwen Wang</b>, Weiwei Cui, Tengfei Ma, Huamin Qu
+  authors: Yong Wang, Zhihua Jin, <span class='black bold'>Qianwen Wang</span>, Weiwei Cui, Tengfei Ma, Huamin Qu
   attach:
     - url: https://arxiv.org/pdf/1907.11040.pdf
       icon: "file"
@@ -309,7 +309,7 @@
     <br/>
   publish: ACM CHI 2019
   image: "atmseer.png"
-  authors: <b>Qianwen Wang</b>, Yao Ming, Zhihua Jin, Qiaomu Shen, <br/>Dongyu Liu, Micah J. Smith, Kalyan Veeramachaneni, Huamin Qu
+  authors: <span class='black bold'>Qianwen Wang</span>, Yao Ming, Zhihua Jin, Qiaomu Shen, <br/>Dongyu Liu, Micah J. Smith, Kalyan Veeramachaneni, Huamin Qu
   attach:
     - url: "/assets/pdf/atmseer.pdf"
       icon: "file"
@@ -330,7 +330,7 @@
     <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics 2019
   image: "marvist.png"
-  authors: Zhutian Chen, Yijia Su, Yifang Wang, <b>Qianwen Wang</b>, Huamin Qu, <br/> Yingcai Wu
+  authors: Zhutian Chen, Yijia Su, Yifang Wang, <span class='black bold'>Qianwen Wang</span>, Huamin Qu, <br/> Yingcai Wu
   attach:
     - url: "https://chenzhutian.org/projects/2018_marvist/paper.pdf"
       icon: "file"
@@ -351,7 +351,7 @@
     <br/>
   publish: IEEE InfoVis 2018, IEEE TVCG 25(1) 779-788, 2019
   image: "narvis.png"
-  authors: <b>Qianwen Wang</b>, Zhen Li, Siwei Fu, Weiwei Cui, Huamin Qu
+  authors: <span class='black bold'>Qianwen Wang</span>, Zhen Li, Siwei Fu, Weiwei Cui, Huamin Qu
   attach:
     - url: "/assets/pdf/Narvis.pdf"
       icon: "file"
