@@ -1,3 +1,12 @@
+  - label: service
+    title: I am honored to continue serving as <a class='news-link' href='https://www.iscb.org/ismbeccb2023-committees/track-abstract' target='_blank'> Abstract Chair for BioVis@ISMB 2023</a>
+    date: Jan, 2023
+
+  - label: paper
+    title: <a class='news-link' href='https://qianwen.info/DRAVA/' target='_blank'>Drava</a> are accepted by ACM CHI 2023 🎉
+    date: Jul, 2022
+
+
   - label: award
     title: <a class='news-link' href='/research/#nest_xai'>Our XAI design study</a> won a Hornorable Mention Award 🏆 at IEEE VIS 2022
     date: Jul, 2022
