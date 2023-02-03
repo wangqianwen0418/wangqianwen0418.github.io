@@ -1,3 +1,23 @@
+- name: "DRAVA: Aligning Human Concepts with Machine Learning Latent Dimensions for the Visual Exploration of Small Multiples"
+  date: "2023"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: to appear on ACM CHI 2023
+  image: "drava.png"
+  authors: <span class='black bold'>Qianwen Wang</span>, Sehi L'Yi, Nils Gehlenborg
+  attach:
+    - url: "https://osf.io/gzu27/"
+      icon: file
+      label: PDF
+    - url: "https://qianwen.info/DRAVA"
+      icon: home
+      label: webpage
+  cate: 
+    - "vis4ml"
+    - "ml4vis"
+    - "biomed"  
+
 - name: "Extending the Nested Model for User-Centric XAI: A Design Study on GNN-based Drug Repurposing"
   date: "2022"
   # description:
@@ -137,7 +157,7 @@
       label: demo
   cate: 
     - "biomed"
-    - "accessible"
+    - "design"
 
 - name: "OncoThreads: Visualization of Large Scale Longitudinal Cancer Molecular Data"
   date: "2021"
@@ -244,7 +264,7 @@
       icon: github
       label: code
   cate: 
-    - "accessible"
+    - "design"
 
 
 - name: "Towards Automated Infographic Design: <br/>Deep Learning-based Auto-Generation of Extensible Timeline"
@@ -263,7 +283,7 @@
       label: webpage
   cate: 
     - "ml4vis"
-    - "accessible"
+    - "design"
 
 
 
@@ -342,7 +362,7 @@
       icon: home
       label: webpage
   cate: 
-    - "accessible"
+    - "design"
 
 - name: "Narvis: Authoring Narrative Slideshows <br/> for Introducing Data Visualization Designs"
   date: "2018"
@@ -363,7 +383,7 @@
       icon: home
       label: webpage
   cate: 
-    - "accessible"
+    - "design"
 
 # - name: "Draw Your DNN"
 #   date: "2017"
