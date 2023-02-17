@@ -6,7 +6,7 @@
 
   - position: "Abstract Chair"
     conference: "Conference on Intelligent Systems for Molecular Biology (ISMB), BioVis COSI"
-    date: "2022"
+    date: "2022-2023"
 
   - position: "Workshop Organizer"
     conference: "Visualization in Biomedical AI workshop @ IEEE VIS"
@@ -18,6 +18,9 @@
     
 - cate: Program Committee
 - conferences:
+  - conference: "IEEE VIS Conference"
+    date: "2023"
+  
   - conference: "ACM Conference on Intelligent User Interfaces"
     date: "2023"
 
@@ -33,18 +36,18 @@
     date: "2018-2022"
 
   - conference: "ACM CHI Conference on Human Factors in Computing Systems"
-    date: "2019-2022"
+    date: "2019-2023"
 
   - conference: "ChinaVis Conference"
     date: "2019-2021"
 
   - conference: "EuroVis Conference"
-    date: "2019-2020"
+    date: "2019-2023"
 
 - cate: Invited Journal Review
 - conferences:
   - conference: IEEE Transactions on Visualization and Computer Graphics
-    date: 2019-2022
+    date: 2019-2023
   - conference: Journal of Visualization 
     date: 2021-2022
   - conference: IEEE Computer Graphics and Applications 
