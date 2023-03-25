@@ -18,6 +18,25 @@
     - "ml4vis"
     - "biomed"  
 
+- name: "Zero-Shot Prediction of Therapeutic Use with Geometric Deep Learning and Clinician Centered Design"
+  date: "2023"
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: 
+  image: "txgnn.png"
+  authors: Kexin Huang, Payal Chandak, <span class='black bold'>Qianwen Wang</span>, Shreyas Havaldar, Akhil Vaid, Jure Leskovec, Girish Nadkarni, Benjamin S. Glicksberg, Nils Gehlenborg, Marinka Zitnik
+  attach:
+    - url: "https://www.medrxiv.org/content/10.1101/2023.03.19.23287458v1.full.pdf"
+      icon: file
+      label: PDF
+    - url: "http://txgnn.org"
+      icon: home
+      label: webpage
+  cate: 
+    - "vis4ml"
+    - "biomed"  
+
 - name: "Extending the Nested Model for User-Centric XAI: A Design Study on GNN-based Drug Repurposing"
   date: "2022"
   # description:
