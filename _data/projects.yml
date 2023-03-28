@@ -1,5 +1,6 @@
 - name: "DRAVA: Aligning Human Concepts with Machine Learning Latent Dimensions for the Visual Exploration of Small Multiples"
   date: "2023"
+  details: https://qianwen.info/DRAVA
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
@@ -20,6 +21,7 @@
 
 - name: "Zero-Shot Prediction of Therapeutic Use with Geometric Deep Learning and Clinician Centered Design"
   date: "2023"
+  details: http://txgnn.org
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
@@ -44,6 +46,7 @@
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/> 🏆 <span class="orange">Best Paper Honorable Mention</span>
   image: "nest_xai.png"
+  details: https://osf.io/yhdpv/
   authors: <span class='black bold'>Qianwen Wang</span>, Kexin Huang, Payal Chandak, Marinka Zitnik, Nils Gehlenborg
   attach:
     - url: "https://osf.io/yhdpv/"
@@ -65,6 +68,7 @@
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/> 🏆 <span class="orange">Best Abstract Award at BioVis@ISMB 2022</span>
   image: "polyphony.png"
   authors: Furui Cheng, Mark S Keller, Huamin Qu, Nils Gehlenborg, <span class='black bold'>Qianwen Wang</span>
+  details: https://osf.io/b76nt
   attach:
     - url: "https://osf.io/b76nt"
       icon: file
@@ -84,6 +88,7 @@
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)
   image: "GenoREC.jpeg"
   authors: Aditeya Pandey, Sehi L'Yi, <span class='black bold'>Qianwen Wang</span>, Michelle Borkin, Nils Gehlenborg
+  details: https://osf.io/rscb4/
   attach:
     - url: "https://osf.io/rscb4/"
       icon: file
@@ -104,6 +109,7 @@
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics 2022
+  details: https://ieeexplore.ieee.org/document/9705076
   image: "gnnlens.png"
   authors: Zhihua Jin, Yong Wang, <span class='black bold'>Qianwen Wang</span>, Yao Ming, Tengfei Ma, Huamin Qu
   attach:
@@ -118,6 +124,7 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
+  details: "http://drugexplorer.gehlenborglab.org"
   publish: ICML workshop on Interpretable Machin Learning in Healthcare,</br> 🏆 <span class="orange">Best Paper Award</span>
   image: "drugVis.png"
   authors: <span class='black bold'>Qianwen Wang</span>, Kexin Huang, Payal Chandak, Nils Gehlenborg, Marinka Zitnik
@@ -140,6 +147,7 @@
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)
   image: "threadstates.png"
   authors: <span class='black bold'>Qianwen Wang</span>, Tali Mazor, Theresa A Harbig, Ethan Cerami, Nils Gehlenborg
+  details: http://gehlenborglab.org/publications/wang-2021-threadstates/
   attach:
     - url: "https://osf.io/vcskm/"
       icon: "file"
@@ -161,6 +169,7 @@
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2021)<br/> 🏆 <span class="orange">Best Abstract Award at BioVis@ISMB 2021</span>
   image: "gosling.png"
   authors: Sehi L'Yi, <span class='black bold'>Qianwen Wang</span>, Fritz Lekschas, Nils Gehlenborg
+  details: http://gosling-lang.org
   attach:
     - url: "https://osf.io/6evmb/"
       icon: "file"
@@ -183,6 +192,7 @@
   publish: Bioinformatics (Proc. ISMB 2021)
   doi: https://doi.org/10.1093/bioinformatics/btab289
   image: "oncothreads.png"
+  details: http://gehlenborglab.org/publications/harbig-2021-osf/
   authors: Theresa A Harbig, Sabrina Nusrat, Tali Mazor, <span class='black bold'>Qianwen Wang</span>, Alexander Thomson, Hans Bitter, Ethan Cerami, Nils Gehlenborg
   attach:
     - url: "https://osf.io/b3n4u/"
@@ -202,6 +212,7 @@
   publish: IEEE Transactions on Visualization and Computer Graphics 
   image: "ml4vis_survey.png"
   authors: <span class='black bold'>Qianwen Wang</span>, Zhutian Chen, Yong Wang, and Huamin Qu
+  details: https://ml4vis.github.io
   attach:
     - url: "https://arxiv.org/abs/2012.00467"
       icon: "file"
@@ -220,6 +231,7 @@
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2020)
   image: "discriLens.png"
   authors: <span class='black bold'>Qianwen Wang</span>, Zhenhua Xu, Zhutian Chen, Yong Wang, <br/> Shixia Liu, and Huamin Qu
+  details:  /demos/discrilens
   attach:
     - url: "https://arxiv.org/abs/2007.15182"
       icon: "file"
@@ -389,6 +401,7 @@
     A semi-auto slideshow authoring tool that assists people in explaining visual designs to the non-experts. 
     <br/>
   publish: IEEE InfoVis 2018, IEEE TVCG 25(1) 779-788, 2019
+  details: /research/Narvis
   image: "narvis.png"
   authors: <span class='black bold'>Qianwen Wang</span>, Zhen Li, Siwei Fu, Weiwei Cui, Huamin Qu
   attach:

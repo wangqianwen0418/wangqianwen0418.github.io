@@ -2,8 +2,7 @@
 %}h4{% endif %}{% endcapture %}
 <div
   class="mxn2 clearfix mt1 py1{% unless include.exclude_divider %} border-bottom border-light-gray {% endunless %}  filterDiv show {{include.project.cate | join: ' ' }}"
-  id = "{{include.project.image | split: '.' | slice: 0 }}"
-  >
+  id="{{include.project.image | split: '.' | slice: 0 }}">
   <div class="col sm-col-4 px2">
     <a href="{{ include.project.details }}" target="_blank">
       {% capture image_path %}projects/{{ include.project.image }}{% endcapture %}
@@ -11,10 +10,16 @@
     </a>
   </div>
   <div class="col sm-col-8 px2">
+    {% if include.project.details %}
     <a href="{{ include.project.details }}" target="_blank"
       name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}">
       <{{ project_title_element }} class="mt0 mb0">{{ include.project.name }}</{{ project_title_element }}>
     </a>
+    {% else %}
+    <span name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}">
+      <{{ project_title_element }} class="mt0 mb0">{{ include.project.name }}</{{ project_title_element }}>
+    </span>
+    {% endif %}
     <!-- <a href="{{ include.project.details }}" target="_blank" class="block h6 mb2">{{ include.project.details }}</a> -->
     <!-- <p class="left-align  mb0">{{ include.project.description }}</p> -->
     {%if include.project.authors %}
@@ -35,7 +40,7 @@
       {% endfor %} -->
 
       {% for item in include.project.attach %}
-      <a href="{{item.url}}" target="_blank" class="black hint--top h6" data-hint="{{ item.label }}">
+      <a href="{{item.url}}" target="_blank" class="black hint--top h5" data-hint="{{ item.label }}">
         <i class="fa fa-fw fa-lg fa-{{ item.icon }}"></i>
         {{item.label | upcase }}
       </a>
