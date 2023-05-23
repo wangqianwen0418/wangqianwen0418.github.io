@@ -131,7 +131,7 @@ td { vertical-align: top }
 
 body {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  line-height: 1.5;
+  line-height: 1.1;
   font-size: 100%;
 }
 
@@ -235,6 +235,7 @@ h6, .h6 { font-size: .75rem; line-height: .9rem; }
 .center       { text-align: center }
 .right-align  { text-align: right }
 .justify      { text-align: justify }
+.small-line-height { line-height: 1.3 }
 
 .nowrap { white-space: nowrap }
 
