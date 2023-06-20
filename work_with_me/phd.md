@@ -11,6 +11,7 @@ nav_item: Work with Me
 
 <!-- FAQ for Prospect PhD students -->
 ### For Prospective PhD Students
+
 - **My Research Interest and Publication Venues:**
   
     My research group primarily focuses on <b>human-AI collaboration via interactive visualizations</b>, <b>interactive AI explanations</b>,
@@ -49,7 +50,7 @@ nav_item: Work with Me
     detailed records of meeting notes and agendas, and ensuring steady weekly progress (no matter how small it may be).
     These are the primary expectations I would have of you.
 
-    Even you have done all the right things, being a PhD student still involves a lot of rejections (e.g., paper rejected, interview failed).
+    Even you have done all the right things, being a PhD student still involves a fair share of rejections (e.g., paper rejected, interview failed).
     Learning to <b>cope with rejections</b> and not internalize them as personal failures is crucial, 
     particularly as many PhD students have been top performers in their undergraduate classes and aren't used to facing such setbacks. 
     I will be there with you to help you tackle these tough spots, and yes, complain together about some unfair paper reviews.
@@ -110,7 +111,7 @@ nav_item: Work with Me
     I recommend you start by networking with industry researchers at conferences and then follow up in January to express your interest and check for available opportunities. 
     I can definitely help you through my personal network, but taking the initiative to reach out yourself leaves a more positive impression.
 
-  - It is common that you choose to stay at UMN during the summer and make some research progress. If that is the case, we should discuss whether you want to be funded by me or a summer TA in advance.
+  - It is common that you choose to stay at UMN during the summer and make some research progress. If that is the case, we should discuss in advance whether you want to be funded by me or a summer TA.
   
   - Another option, although less common, is to simply take the summer off if you feel it's really necessary. You wouldn’t be paid though.
 

@@ -43,7 +43,7 @@ yourself and why you are interested in working with me.
 <!-- It is not uncommon to find a PhD advisor after admission, so please don't hesitate to get in touch if that is the case. -->
 <!-- We can schedule a zoom meeting if needed. -->
 
-For prospective PhD students, [a research internship](#if-you-are-not-a-umn-student) can also be a good opportunity for us to understand each other's working style and expectations.
+For prospective PhD students, engaging in [a research internship](#if-you-are-not-a-umn-student) beforehand can be a good opportunity for us to better understand each other's working style and expectations.
 
 <!-- University of Minnesota graduate school admissions are decided by a committee of faculty holistically based on many
 factors including:
@@ -52,20 +52,22 @@ grades, research experience, quality of other applicants, recommendation letters
 
 #### if you are a current UMN undergraduate student
 
-If you are undergraduate student at UMN, I highly recommend you apply for [the university UROP program](https://ugresearch.umn.edu/opportunities/urop), 
-which provides a stipend ($1,800 for 120 hours of research).
-I will help with your proposal and fill out a recommendation form for the UROP application.
+I usually recommend undergraduate students to engage in research projects after their second year, as this allows them to take relevant courses (such as data visualization, machine learning) and practice programming skills (particularly python and javascript).
+But I am open to making exceptions for highly-motivated students.
+<!-- Typically, you will join a research project lead by a senior student and the first several months will be unpaid. -->
 
-I would prefer if we could work together for a bit before putting together a UROP proposal - we'll understand each other's style and expectations better.
+I am more than willing to assist you with your application to [the university UROP program](https://ugresearch.umn.edu/opportunities/urop), which provides a stipend ($1,800 for 120 hours of research).
+However, I would prefer that we have worked together for a period of time before putting together the UROP proposal.
+<!-- We'll understand each other's style and expectations better and see whether there is continued mutual interest in working together. -->
 
-Although you are welcome to drop me an email, the most effective way to get in touch is to fill [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
+While you are welcome to drop me an email, the most effective way to get in touch is to fill [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
 
 #### If you are a current UMN master student
 
 If you're a Master student at the UMN CSE department and interested in working with me, I recommend that you reach out early on (can be as early as your first semester). 
 Given the brevity of a Master's program, it's beneficial to allocate ample time to understand each other, collaborate effectively, and make progress in research.
 
-Although you are welcome to drop me an email, the most effective way to get in touch is to fill [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
+While you are welcome to drop me an email, the most effective way to get in touch is to fill [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
 
 #### if you are not a UMN student
 
