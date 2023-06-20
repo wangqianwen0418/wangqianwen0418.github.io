@@ -10,45 +10,46 @@ nav_item: Work with Me
 
 
 I am always looking to work with enthusiastic students!
-My research group primarily focuses on <b>human-AI collaboration via interactive visualizations</b>, <b>interactive AI explanations</b>,
-<b>visualization for biomedical AI</b>, and <b>AI-empowered visualization</b>. 
+
+**Research Interest:** My research group primarily focuses on `human-AI collaboration via interactive visualizations`, `interactive AI explanations`, `visualization for biomedical AI`, and `AI-empowered visualization`. 
 If you find alignment with at least two of these areas, we are likely to have a matched research synergy.
 
-While good GPAs and strong programming skills are certainly important, 
+**Requirements**: While good GPAs and strong programming skills are certainly important and highly appreciate, 
 I believe that a person's true potential often extends beyond these quantifiable metrics. 
 I value students who demonstrate dedication, curiostiy, and communication skills.
 I also warmly welcome students from the underrepresented groups in Computer Science to talk to me about
 potential projects.
 
-When contacting me via email for the first time, I would appreciate if you can kindly structure your subject line as follows: 
-`[Type of Research Opportunities] - Your Name - Current Degree Program - Institute`.
+**How to contact**: When contacting me via email for the first time, 
+I would appreciate if you can kindly structure your subject line as 
+`[Type of Research Opportunities] - Your Name - Current Degree Program - Institute` .
+Please also provide a description of your research interests and programming skills,
+and attach your CV, transcripts, & any other relevant supporting materials.
+Below you can find more information according to your current status:
+- [If you are considering applying for a phd at UMN](#if-you-are-considering-applying-for-a-phd-at-umn)
+- [if you are a current UMN undergraduate student](#if-you-are-a-current-umn-undergraduate-student)
+- [If you are a current UMN master student](#if-you-are-a-current-umn-master-student)
+- [if you are not a UMN student](#if-you-are-not-a-umn-student)
 
 ---
-### Current/Prospective UMN Students
 
-#### PhD Students
+#### If you are considering applying for a phd at UMN
 I have openings for at least two PhD students.
 
-I have compiled [some FAQs](#for-prospective-phd-students) to help you decide whether I could be the right fit as your PhD advisor.
+I have compiled [some FAQs](/work_with_me/phd) to help you decide whether I could be the right fit as your PhD advisor.
 If it feels like a good match, you should [apply to the CSE department at UMN](https://cse.umn.edu/cs/phd-overview), specifying an interest to work with me in the application and the essay. 
 Apart from submitting your application, I also encourage you to reach out to me via email to tell me more about
-yourself and why you are interested in working with me. Please attach your CV, transcripts, and any other relevant supporting materials.
+yourself and why you are interested in working with me. 
 <!-- We can schedule a zoom meeting if needed. -->
+
+[A research internship](#if-you-are-not-a-umn-student) can also be a good opportunity for us to understand each other's working style and expectations if you are considering applying for my PhD.
 
 <!-- University of Minnesota graduate school admissions are decided by a committee of faculty holistically based on many
 factors including:
 grades, research experience, quality of other applicants, recommendation letters, etc. -->
 
-#### Masters Students
 
-If you're a Master student at the UMN CSE department and interested in working with me, I recommend that you reach out early on (e.g., your first semester). 
-Given the brevity of a Master's program, it's beneficial to allocate ample time to understand each other, collaborate effectively, and make progress in research.
-
-Rather than reaching out via email, the most effective way to get in touch is to submit your application 
-through [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
-
-
-####  Undergraduate Students
+#### if you are a current UMN undergraduate student
 
 If you are undergraduate student at UMN, I highly recommend you apply for [the university UROP program](https://ugresearch.umn.edu/opportunities/urop), 
 which provides a stipend ($1,800 for 120 hours of research).
@@ -56,146 +57,37 @@ I will help with your proposal and fill out a recommendation form for the UROP a
 
 I would prefer if we could work together for a bit before putting together a UROP proposal - we'll understand each other's style and expectations better.
 
-Rather than reaching out via email, the most effective way to get in touch is to fill [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
+Although you are welcome to drop me an email, the most effective way to get in touch is to fill [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
+
+#### If you are a current UMN master student
+
+If you're a Master student at the UMN CSE department and interested in working with me, I recommend that you reach out early on (can be as early as your first semester). 
+Given the brevity of a Master's program, it's beneficial to allocate ample time to understand each other, collaborate effectively, and make progress in research.
+
+Although you are welcome to drop me an email, the most effective way to get in touch is to fill [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
+
+#### if you are not a UMN student
+
+Even if you are not a current/prospective UMN student, I always welcome motivated and enthusistaic students to visit our group and work with us.
+Get in touch with us via email to learn about possible projects or propose your own project within the realm of our [research interests](/research/).
+RA-ships are possible for long-term visits (longer than 4 months).
+
+A visit can also be a good opportunity for us to understand each other's working style if you are considering applying for my PhD.
+
+<!-- At the same time, if you happen to be nearby and would like to drop by for a chat, please don’t hesitate to drop me an email. -->
 
 ---
-### Collaboration, Internships, and Visiting Students
 
-I always welcome motivated and enthusistaic students to visit our group and work with us.
-Get in touch with us to learn about possible projects or propose your own project within the realm of our [research interests](/research/).
-RA-ships are possible for long-term visits (longer than 4 months) based on my funding situation.
 
-At the same time, if you happen to be nearby and would like to drop by for a chat, please don’t hesitate to drop me an email.
-
----
-<!-- FAQ for Prospect PhD students -->
-### For Prospective PhD Students
-
-- **Why UMN?**
+**Why UMN?**
   
-    UMN is a top 10 U.S. public research university with world-class academics, award-winning faculty, state-of-the-art facilities, 
-    and an esteemed alumni network that includes 29 Nobel Laureates and 3 Pulitzer Prize winners.
-    In the 2022 Academic Ranking of World Universities, UMN held the 44th spot, showing its commitment to excellence and innovation in academia. 
-    Find more at [Why study computer science at the University of Minnesota?](https://cse.umn.edu/cs/why-study-umn)
+The Univeristy of Minnesota Twin Cities (UMN) is a top 10 U.S. public research university with world-class academics, award-winning faculty, state-of-the-art facilities, 
+and an esteemed alumni network that includes 29 Nobel Laureates and 3 Pulitzer Prize winners.
+In the 2022 [Academic Ranking of World Universities](https://www.shanghairanking.com/rankings/arwu/2022), UMN held the 44th spot, showing its commitment to excellence in academia. 
+Find more at [Why study computer science at the University of Minnesota?](https://cse.umn.edu/cs/why-study-umn)
 
-    Particularly relevant to my research area, UMN CSE has a strong vis/graphics/VR group, under the umbrella of [Human-Centered Computing](https://cse.umn.edu/cs/human-centered-computing).
-    The medical school is just cross the stree from the CSE building, presenting an ideal environment for interdisciplinary research endeavors.
+Particularly relevant to my research area, UMN CSE has a strong vis/graphics/VR group, under the umbrella of [Human-Centered Computing](https://cse.umn.edu/cs/human-centered-computing).
+The medical school is just cross the stree from the CSE building, presenting an ideal environment for interdisciplinary research endeavors.
 
-- **My Research Interest and Publication Venues:**
-  
-    My research group primarily focuses on <b>human-AI collaboration via interactive visualizations</b>, <b>interactive AI explanations</b>,
-    <b>visualization for biomedical AI</b>, and <b>AI-empowered visualization</b>. 
-    If you find alignment with at least two of these areas, we are likely to have a matched research interest.
-    More details can be found at my [research](/research/) and [google scholar](https://scholar.google.com/citations?hl=en&user=jtSR4hoAAAAJ) page.
-
-    As a visualizaiton researcher, I mainly publish my work in the top venues in the VIS community, including IEEE Transactions on Visualization and Computer Graphics (TVCG), IEEE VIS Conference, and ACM CHI Conference.
-    I would also expect my students to shoot for one of those top venues.
-
-    At the same time, a significant portion of my research intersects with other disciplines and I have a few papers published at bio/ML venues. 
-    I am open to discussions about alternative publication venues beyond visualization, such as ACM CSCW, Oxford Bioinformatics, ICML, some Nature family journals, etc.
-
-
-- **What is a good PhD student** (in my mind)
-
-    What follows is merely my personal view, based on my own experiences and years of observation. 
-    These thoughts capture my expectations from a PhD student and hopefully can serve as a guide to your PhD journey.
-
-    The most crucial aspect, in my mind, is finding <b>joy and excitement</b> in your research.
-    While you may dislike or even hate certain elements of your PhD journey, there should be moments where you find
-    yourself fully immersed in the sheer thrill of knowledge discovery,
-    whether that's through reading papers, brainstorming ideas, or delving into coding.
-    As your PhD mentor, I'm here with you to unearth these bursts of joy and excitement, as we push the boundaries of research to deliver impactful and high-quality research.
-
-    <b>Good communication skills</b> are another key factor. 
-    This isn't about being extroverted (I can personally vouch for this, as I'm not particularly outgoing myself), 
-    but about being able to articulate your thoughts, present your ideas, and share your progress with clarity. 
-    It's also about the willingness and ability to listen actively and empathize with others.
-    These skills not only boost your individual research endeavors but also enhance teamwork and collaborative projects.
-    If you also appreciate the value of effective communication, I'm more than willing to guide you on enhancing this skill set.
-
-    Often, success in academia is just “showing up” <b>persistently and consistently</b>, even for difficult or
-    unpleasant tasks.
-    Consistency matters, be it in establishing a regular schedule, dedicating consistent time in the lab, keeping
-    detailed records of meeting notes and agendas, and ensuring steady weekly progress (no matter how small it may be).
-    These are the primary expectations I would have of you.
-
-    Even you have done all the right things, being a PhD student still involves a lot of rejections (e.g., paper rejected, interview failed).
-    Learning to <b>cope with rejections</b> and not internalize them as personal failures is crucial, 
-    particularly as many PhD students have been top performers in their undergraduate classes and aren't used to facing such setbacks. 
-    I will be there with you to help you tackle these tough spots, and yes, complain together about some unfair paper reviews.
-    Remember, these are valuable learning opportunities and stepping stones on your academic journey.
-
-    Finnally, having a strong GPA, excellent programming skills, and a CS-related background (either at the bachelor's or master's level) are indeed valuable.
-    But it's the qualities I've mentioned above that truly shape your PhD journey. 
-    I've witnessed students (myself included) from non-typical backgrounds succeed in their research because of these traits. 
-    So, even if you feel like you don't 'tick every box', don't be discouraged. 
-
-
-- **My suggestion for a PhD Journey:**
-  
-    - Year 1: Dedicate time to coursework, reviewing literature, and identifying research interests. Contribute to a
-    senior researcher's project and submit a co-author a paper.
-    
-    - Year 2: Complete PhD coursework.
-    Undertake an TA duty in the first two years.
-    Mentor undergraduate students.
-    Initiate and lead your own research projects.
-    Preliminary Oral and Written Examinations.
-
-    - Year 3:
-    Conduct an industry internship.
-    Mentor undergraduate/master students.
-    Thesis Proposal Examination.
-    Persist in leading your research projects, aiming for at least one first-author paper submission annually.
-
-    - Year 4:
-    Continue leading your own research projects/papers.
-    Undertake another TA duty in either the 3rd or 4th year.
-    Start helping with junior PhD students.
-    Complete the proposal defense.
-
-    - Year 5:
-    Wrap up your research projects.
-    Help mentor students.
-    Write and defend your dissertation.
-    Apply for jobs.
-
-    The above timeline outlines a potential PhD trajectory and is commonly adopted across many respected academic labs.
-    It is possible that students' journeys will
-    naturally diverge from this path (e.g., more TAs if you are aiming for a faculty job after graduation).
-    However, this suggested pathway helps illustrate a balanced progression of responsibilities and milestones during your doctoral studies. 
-    I strongly encourage you to consider adhering to it when feasible.
-
-<!-- - **Where to seek for help?**
-  
-    As your PhD advisor, of course I am always here to help you.
-    But I am not the only person you can seek for help and 
-    You can also reach out to other faculty members in UMN CS, your peers, and the graduate program coordinators. -->
-
-
-- **What to expect during the summer?**
-
-  - The best thing to do during the summer is to conduct a research internship in industry, which will usually lead to a paper submission. 
-    The internship allows you to do get new recommendation letters and higher salaries.
-    I recommend you start by networking with industry researchers at conferences and then follow up in January to express your interest and check for available opportunities. 
-    I can definitely help you through my personal network, but taking the initiative to reach out yourself leaves a more positive impression.
-
-  - It is common that you choose to stay at UMN during the summer and make some research progress. If that is the case, we should discuss whether you want to be funded by me or a summer TA in advance.
-  
-  - Another option, although less common, is to simply take the summer off if you feel it's really necessary. You wouldn’t be paid though.
-
-- **Academic lineage?**
-
-  Academic lineage relates researchers based on advisor-advisee relationships. You can think of your advisor as the
-  “parent” and their other advisees as your “siblings.”
-
-  My advisor is [Huamin Qu](http://www.huamin.org) (your grand-advisor), and his advisor is [Arie E.
-  Kaufman](https://www3.cs.stonybrook.edu/~ari/).
-  Within this lineage, you'll find a network of academic "grand-aunts/uncles," "aunts/uncles," and "cousins" you might
-  encounter at conferences,
-  such as [Hanspeter Pfister](https://vcg.seas.harvard.edu/), [Claudio
-  Silva](https://engineering.nyu.edu/faculty/claudio-silva), [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/), [Yingcai
-  Wu](http://www.ycwu.org), [Nan Cao](https://tjdi.tongji.edu.cn/NewsDetail.do?ID=4171&lang=en), etc.
-
-  However, research is not about having prestigious names in your academic lineage, but about the quality
-  and impact of the work you produce.
+In terms of live, the campus is located in the heart of the Minneapolis-Saint Paul (twin cities) metropolitan area, which are incredibly diverse cities with vibrant neighborhoods, award-winning parks and recreation opportunities, exciting professional sports teams, renowned restaurants, and top-notch entertainment options.  
+In addition, Minnesota has a strong business climate — with 16 Fortune 500 companies and many of the nation’s largest companies (e.g., Target, 3M, UnitedHealthGroup, Mayor Clinic) headquartered here. 
