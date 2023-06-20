@@ -92,7 +92,7 @@ nav_item: Work with Me
 
     The above timeline outlines a potential PhD trajectory and is commonly adopted across many respected academic labs.
     It is possible that students' journeys will
-    naturally diverge from this path (e.g., more TAs if you are aiming for a faculty job after graduation).
+    naturally diverge from this path (e.g., more TAs if you are aiming for a faculty job after graduation, shorter than 5 years if you make great progress).
     However, this suggested pathway helps illustrate a balanced progression of responsibilities and milestones during your doctoral studies. 
     I strongly encourage you to consider adhering to it when feasible.
 

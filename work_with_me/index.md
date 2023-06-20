@@ -26,23 +26,24 @@ I would appreciate if you can kindly structure your subject line as
 Please also provide a description of your research interests and programming skills,
 and attach your CV, transcripts, & any other relevant supporting materials.
 Below you can find more information according to your current status:
-- [If you are considering applying for a phd at UMN](#if-you-are-considering-applying-for-a-phd-at-umn)
+- [If you are considering applying for PhD](#if-you-are-considering-applying-for-phd)
 - [if you are a current UMN undergraduate student](#if-you-are-a-current-umn-undergraduate-student)
 - [If you are a current UMN master student](#if-you-are-a-current-umn-master-student)
 - [if you are not a UMN student](#if-you-are-not-a-umn-student)
 
 ---
 
-#### If you are considering applying for a phd at UMN
+#### If you are considering applying for PhD
 I have openings for at least two PhD students.
 
 I have compiled [some FAQs](/work_with_me/phd) to help you decide whether I could be the right fit as your PhD advisor.
-If it feels like a good match, you should [apply to the CSE department at UMN](https://cse.umn.edu/cs/phd-overview), specifying an interest to work with me in the application and the essay. 
+If it feels like a good match, you should [apply to the CSE department at UMN](https://cse.umn.edu/cs/phd-overview), specifying an interest to work with me in the application.  
 Apart from submitting your application, I also encourage you to reach out to me via email to tell me more about
 yourself and why you are interested in working with me. 
+<!-- It is not uncommon to find a PhD advisor after admission, so please don't hesitate to get in touch if that is the case. -->
 <!-- We can schedule a zoom meeting if needed. -->
 
-[A research internship](#if-you-are-not-a-umn-student) can also be a good opportunity for us to understand each other's working style and expectations if you are considering applying for my PhD.
+For prospective PhD students, [a research internship](#if-you-are-not-a-umn-student) can also be a good opportunity for us to understand each other's working style and expectations.
 
 <!-- University of Minnesota graduate school admissions are decided by a committee of faculty holistically based on many
 factors including:
