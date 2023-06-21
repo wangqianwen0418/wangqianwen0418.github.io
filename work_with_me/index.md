@@ -93,4 +93,4 @@ Particularly relevant to my research area, UMN CSE has a strong vis/graphics/VR 
 The medical school is just cross the stree from the CSE building, presenting an ideal environment for interdisciplinary research endeavors.
 
 In terms of live, the campus is located in the heart of the Minneapolis-Saint Paul (twin cities) metropolitan area, which are incredibly diverse cities with vibrant neighborhoods, award-winning parks and recreation opportunities, exciting professional sports teams, renowned restaurants, and top-notch entertainment options.  
-In addition, Minnesota has a strong business climate — with 16 Fortune 500 companies and many of the nation’s largest companies (e.g., Target, 3M, UnitedHealthGroup, Mayor Clinic) headquartered here. 
+In addition, Minnesota has a strong business climate — with 16 Fortune 500 companies and many of the nation’s largest companies (e.g., Target, 3M, UnitedHealthGroup, Mayo Clinic) headquartered here. 
