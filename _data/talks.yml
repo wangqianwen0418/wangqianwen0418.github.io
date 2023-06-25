@@ -1,6 +1,19 @@
 invited_talks:
   subtitle: ""
   talks:
+  - name: Interpreting and Steering AI Explanations Via Interactive Visualizations
+    locations: 
+    - Job Talk
+    date: 'Feb-Apr 2023'
+    embed_url: https://www.slideshare.net/slideshow/embed_code/key/pDdqzguxvml8Ni?hostedIn=slideshare&page=upload
+    image_url: ""
+    description: 
+    links:
+    - label: "Slides"
+      url: https://drive.google.com/file/d/1qRAU4hsLijDp8B74owWZBJGvr6QiqDxR/view?usp=sharing
+    - label: "Video"
+      url: https://youtu.be/oRPhSAS-GYI
+
   - name: 'Interactive Visualizations for Usable AI: Bridge the Capabilities of AI with the Needs of Human Users'
     locations: 
     - '<b>Panel Presentation</b> at ChinaVis2022 AI+VIS'
@@ -27,7 +40,7 @@ invited_talks:
 
   - name: 'From Data to Decisions, a Mixed Path of Data Visualization and Machine Learning'
     locations: 
-    - '<b>Keynote Presentation</b> PacificVIS22 VIS Meets AI Workshop'
+    - '<b>Invited Talk</b> PacificVIS22 VIS Meets AI Workshop'
     embed_url: "https://www.slideshare.net/slideshow/embed_code/key/CAfBJvyxJHWXmM?hostedIn=slideshare&page=upload"
     links:
     - label: "Video"
