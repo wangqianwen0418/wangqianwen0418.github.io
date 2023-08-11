@@ -46,9 +46,10 @@ contact_urls:
   #   value: "qwangbb@connect.ust.hk"
   #   icon: "envelope-square"
   email:
-    url: "mailto: qianwen_wang@hms.harvard.edu"
+    # url: "mailto: qianwen_wang@hms.harvard.edu"
+    url: "mailto: qianwen@umn.edu"
     label: "Email"
-    value: "qianwen_wang@hms.harvard.edu"
+    value: "qianwen@umn.edu"
     icon: "envelope-square"
   # homepage:
   #   url: "https://qianwen.info"
