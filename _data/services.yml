@@ -1,4 +1,10 @@
 - cate: Organizing Committee
+
+- conferences:
+  - position: "VisNote Chair"
+    conference: "IEEE PacificVis"
+    date: "2024"
+
 - conferences:
   - position: "Poster Chair"
     conference: "IEEE PacificVis"
@@ -22,13 +28,13 @@
     date: "2023"
   
   - conference: "ACM Conference on Intelligent User Interfaces"
-    date: "2023"
+    date: "2023-2024"
 
   - conference: "IEEE Pacific Vis 2022 Visualization Meets AI Workshop"
     date: "2022"
 
   - conference: "ChinaVis Conference"
-    date: "2022"
+    date: "2022-2023"
 
 - cate: Conference Paper Review
 - conferences:
