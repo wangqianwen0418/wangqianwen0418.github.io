@@ -86,7 +86,7 @@ A visit can also be a good opportunity for us to understand each other's working
   
 The Univeristy of Minnesota Twin Cities (UMN) is a top 10 U.S. public research university with world-class academics, award-winning faculty, state-of-the-art facilities, 
 and an esteemed alumni network that includes 29 Nobel Laureates and 3 Pulitzer Prize winners.
-In the 2022 [Academic Ranking of World Universities](https://www.shanghairanking.com/rankings/arwu/2022), UMN held the 44th spot, showing its commitment to excellence in academia. 
+UMN held the 44th spot in the 2022 [Academic Ranking of World Universities](https://www.shanghairanking.com/rankings/arwu/2022) and 57th spot on [US News Best Global Universities](https://www.usnews.com/education/best-global-universities/rankings), showing its commitment to excellence in academia. 
 Find more at [Why study computer science at the University of Minnesota?](https://cse.umn.edu/cs/why-study-umn)
 
 Particularly relevant to my research area, UMN CSE has a strong vis/graphics/VR group, under the umbrella of [Human-Centered Computing](https://cse.umn.edu/cs/human-centered-computing).
