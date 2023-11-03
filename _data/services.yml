@@ -24,6 +24,9 @@
     
 - cate: Program Committee
 - conferences:
+  - conference: "ACM Conference on Human Factors in Computing Systems (CHI)"
+    date: "2024"
+
   - conference: "IEEE VIS Conference"
     date: "2023"
   
