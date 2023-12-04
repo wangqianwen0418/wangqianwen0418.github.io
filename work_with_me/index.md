@@ -27,9 +27,26 @@ Please also provide a description of your research interests and programming ski
 and attach your CV, transcripts, & any other relevant supporting materials.
 Below you can find more information according to your current status:
 - [If you are considering applying for PhD](#if-you-are-considering-applying-for-phd)
-- [if you are a current UMN undergraduate student](#if-you-are-a-current-umn-undergraduate-student)
+- [If you are a current UMN undergraduate student](#if-you-are-a-current-umn-undergraduate-student)
 - [If you are a current UMN master student](#if-you-are-a-current-umn-master-student)
-- [if you are not a UMN student](#if-you-are-not-a-umn-student)
+- [If you are not a UMN student](#if-you-are-not-a-umn-student)
+
+---
+
+**Why UMN?**
+  
+The Univeristy of Minnesota Twin Cities (UMN) is a top 10 U.S. public research university with world-class academics, award-winning faculty, state-of-the-art facilities, 
+and an esteemed alumni network that includes 29 Nobel Laureates and 3 Pulitzer Prize winners.
+UMN held the 44th spot in the 2022 [Academic Ranking of World Universities](https://www.shanghairanking.com/rankings/arwu/2022) and 57th spot on [US News Best Global Universities](https://www.usnews.com/education/best-global-universities/rankings), showing its commitment to excellence in academia. 
+Find more at [Why study computer science at the University of Minnesota?](https://cse.umn.edu/cs/why-study-umn)
+
+Particularly relevant to my research area, UMN CSE has a strong vis/graphics/VR group, under the umbrella of [Human-Centered Computing](https://cse.umn.edu/cs/human-centered-computing).
+The medical school is just cross the stree from the CSE building, presenting an ideal environment for interdisciplinary research endeavors.
+**UMN is ranked highly in Visualization according to [csrankings.org](https://csrankings.org/index?visualization&us#/fromyear/2019/toyear/2023/index?visualization&us).**
+
+In terms of live, the campus is located in the heart of the Minneapolis-Saint Paul (twin cities) metropolitan area, which are incredibly diverse cities with vibrant neighborhoods, award-winning parks and recreation opportunities, exciting professional sports teams, renowned restaurants, and top-notch entertainment options.  
+In addition, Minnesota has a strong business climate — with 16 Fortune 500 companies and many of the nation’s largest companies (e.g., Target, 3M, UnitedHealthGroup, Mayo Clinic) headquartered here. 
+
 
 ---
 
@@ -50,7 +67,7 @@ factors including:
 grades, research experience, quality of other applicants, recommendation letters, etc. -->
 
 
-#### if you are a current UMN undergraduate student
+#### If you are a current UMN undergraduate student
 
 I usually recommend undergraduate students to engage in research projects after their second year, as this allows them to take relevant courses (such as data visualization, machine learning) and practice programming skills (particularly python and javascript).
 But I am open to making exceptions for highly-motivated students.
@@ -69,7 +86,7 @@ Given the brevity of a Master's program, it's beneficial to allocate ample time 
 
 While you are welcome to drop me an email, the most effective way to get in touch is to fill [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
 
-#### if you are not a UMN student
+#### If you are not a UMN student
 
 Even if you are not a current/prospective UMN student, I always welcome motivated and enthusistaic students to visit our group and work with us.
 Get in touch with us via email to learn about possible projects or propose your own project within the realm of our [research interests](/research/).
@@ -82,15 +99,3 @@ A visit can also be a good opportunity for us to understand each other's working
 ---
 
 
-**Why UMN?**
-  
-The Univeristy of Minnesota Twin Cities (UMN) is a top 10 U.S. public research university with world-class academics, award-winning faculty, state-of-the-art facilities, 
-and an esteemed alumni network that includes 29 Nobel Laureates and 3 Pulitzer Prize winners.
-UMN held the 44th spot in the 2022 [Academic Ranking of World Universities](https://www.shanghairanking.com/rankings/arwu/2022) and 57th spot on [US News Best Global Universities](https://www.usnews.com/education/best-global-universities/rankings), showing its commitment to excellence in academia. 
-Find more at [Why study computer science at the University of Minnesota?](https://cse.umn.edu/cs/why-study-umn)
-
-Particularly relevant to my research area, UMN CSE has a strong vis/graphics/VR group, under the umbrella of [Human-Centered Computing](https://cse.umn.edu/cs/human-centered-computing).
-The medical school is just cross the stree from the CSE building, presenting an ideal environment for interdisciplinary research endeavors.
-
-In terms of live, the campus is located in the heart of the Minneapolis-Saint Paul (twin cities) metropolitan area, which are incredibly diverse cities with vibrant neighborhoods, award-winning parks and recreation opportunities, exciting professional sports teams, renowned restaurants, and top-notch entertainment options.  
-In addition, Minnesota has a strong business climate — with 16 Fortune 500 companies and many of the nation’s largest companies (e.g., Target, 3M, UnitedHealthGroup, Mayo Clinic) headquartered here. 
