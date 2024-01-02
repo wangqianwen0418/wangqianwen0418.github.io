@@ -1,8 +1,12 @@
 - cate: Organizing Committee
 
 - conferences:
-  - position: "VisNote Chair"
+  - position: "VisNote (Short Paper) Chair"
     conference: "IEEE PacificVis"
+    date: "2024"
+
+  - position: "General Chair"
+    conference: "Conference on Intelligent Systems for Molecular Biology (ISMB), BioVis COSI"
     date: "2024"
 
 - conferences:
