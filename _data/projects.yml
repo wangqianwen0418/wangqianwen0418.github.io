@@ -1,10 +1,30 @@
+- name: "KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration"
+  date: "2023"
+  details: https://qianwen.info/DRAVA
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2024)<br/> 🏆 <span class="orange">Best Paper Honorable Mention</span>
+  image: "knownet.png"
+  authors: Youfu Yan, Yu Hou, Yongkang Xiao, Rui Zhang, <span class='black bold'>Qianwen Wang</span>
+  attach:
+    - url: "https://arxiv.org/abs/2407.13598"
+      icon: file
+      label: PDF
+    - url: "https://visual-intelligence-umn.github.io/KNOWNET/"
+      icon: home
+      label: webpage
+  cate: 
+    - "vis4ml"
+    - "biomed"  
+
 - name: "DRAVA: Aligning Human Concepts with Machine Learning Latent Dimensions for the Visual Exploration of Small Multiples"
   date: "2023"
   details: https://qianwen.info/DRAVA
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: to appear on ACM CHI 2023
+  publish: ACM CHI 2023
   image: "drava.png"
   authors: <span class='black bold'>Qianwen Wang</span>, Sehi L'Yi, Nils Gehlenborg
   attach:
@@ -25,7 +45,7 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: 
+  publish: to appear in Nature Medicine
   image: "txgnn.png"
   authors: Kexin Huang, Payal Chandak, <span class='black bold'>Qianwen Wang</span>, Shreyas Havaldar, Akhil Vaid, Jure Leskovec, Girish Nadkarni, Benjamin S. Glicksberg, Nils Gehlenborg, Marinka Zitnik
   attach:
