@@ -11,7 +11,7 @@ nav_item: Work with Me
 
 I am always looking to work with enthusiastic students!
 
-**Research Interest:** My research group primarily focuses on `human-AI collaboration via interactive visualizations`, `interactive AI explanations`, `visualization for biomedical AI`, and `AI-empowered visualization`. 
+**Research Interest:** My research group primarily focuses on `human-AI collaboration`, `interactive AI explanations`, `visualization for biomedical AI`, and `AI-empowered visualization`. 
 If you find alignment with at least two of these areas, we are likely to have a matched research synergy.
 
 **Requirements**: While good GPAs and strong programming skills are certainly important and highly appreciate, 
@@ -77,7 +77,8 @@ I am more than willing to assist you with your application to [the university UR
 However, I would prefer that we have worked together for a period of time before putting together the UROP proposal.
 <!-- We'll understand each other's style and expectations better and see whether there is continued mutual interest in working together. -->
 
-While you are welcome to drop me an email, the most effective way to get in touch is to fill [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
+I believe the best way for a UMN student and me to get to know each other is by enrolling in my class. 
+Alternatively, an effective way to reach out is by filling out [this google form](https://forms.gle/EvNTxPU5Neuvd9tS7).
 
 #### If you are a current UMN master student
 

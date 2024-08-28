@@ -14,7 +14,7 @@ nav_item: Work with Me
 
 - **My Research Interest and Publication Venues:**
   
-    My research group primarily focuses on <b>human-AI collaboration via interactive visualizations</b>, <b>interactive AI explanations</b>,
+    My research group primarily focuses on <b>human-AI collaboration</b>, <b>interactive AI explanations</b>,
     <b>visualization for biomedical AI</b>, and <b>AI-empowered visualization</b>. 
     If you find alignment with at least two of these areas, we are likely to have a matched research interest.
     More details can be found at my [research](/research/) and [google scholar](https://scholar.google.com/citations?hl=en&user=jtSR4hoAAAAJ) page.

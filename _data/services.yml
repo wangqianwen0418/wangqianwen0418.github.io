@@ -43,6 +43,15 @@
   - conference: "ChinaVis Conference"
     date: "2022-2023"
 
+- cate: Proposal Reviewer
+- conferences:
+  - conference: "NSF Panel Reviewer: Information Integration and Informatics (III)"
+    date: " "
+
+  - conference: "NSF Panel Reviewer: Human-Centered Computing (HCC)"
+    date: " "
+
+
 - cate: Conference Paper Review
 - conferences:
   - conference: "IEEE VIS Conference"

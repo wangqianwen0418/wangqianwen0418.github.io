@@ -8,7 +8,7 @@ nav:
   main:
     # home: "/"
     Publication: "/research"
-    Awards and Services: "/awards"
+    # Awards and Services: '/awards'
     Talks: "/talks"
     # experiences: "/experiences"
     CV: "/CV"
