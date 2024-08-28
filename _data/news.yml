@@ -1,109 +1,107 @@
-  - label: Paper
-    title: <a class='news-link' href='https://visual-intelligence-umn.github.io/KNOWNET/' target='_blank'> KnowNet</a> was accepted by IEEE VIS 2024 and won a Honorable Mention award 🏆
-    date: Aug, 2024
+- label: Paper
+  title: <a class='news-link' href='https://visual-intelligence-umn.github.io/KNOWNET/' target='_blank'> KnowNet</a> was accepted by IEEE VIS 2024 and won a Honorable Mention award 🏆
+  date: Aug, 2024
 
+- label: Paper
+  title: <a class='news-link' href='http://txgnn.org' target='_blank'> TxGNN </a> was accepted by Nature Medicine
+  date: Jun, 2024
 
-  - label: Paper
-    title: <a class='news-link' href='http://txgnn.org' target='_blank'> TxGNN </a> was accepted by Nature Medicine 
-    date: J, 2024
+- label: service
+  title: I am honored to serve as a <a class='news-link' href='http://biovis.net/2024/committee.html' target='_blank'> General Chair for BioVis@ISMB 2024</a>
+  date: Jan, 2024
 
-  - label: service
-    title: I am honored to serve as a <a class='news-link' href='http://biovis.net/2024/committee.html' target='_blank'> General Chair for BioVis@ISMB 2024</a>
-    date: Jan, 2024
-  
-  - label: paper
-    title: Two papers, one workshop paper, and one VIS4ML panel at IEEE VIS 2023. First time in Australia!
-    date: Oct, 2023
+- label: paper
+  title: Two papers, one workshop paper, and one VIS4ML panel at IEEE VIS 2023. First time in Australia!
+  date: Oct, 2023
 
-  - label: talk
-    title: I am honored to be invited as a speaker for a <a class='news-link' href='https://www.nasonline.org/programs/kavli-frontiers-of-science/' target='_blank'>Kavli Frontiers of Science Symposium</a>  🎉
-    date: Aug, 2023
-  
-  - label: service
-    title: I am honored to serve as a VisNotes chair for PacificVis 2024 🎉
-    date: Jun, 2023
+- label: talk
+  title: I am honored to be invited as a speaker for a <a class='news-link' href='https://www.nasonline.org/programs/kavli-frontiers-of-science/' target='_blank'>Kavli Frontiers of Science Symposium</a>  🎉
+  date: Aug, 2023
 
-  - label: service
-    title: I am honored to continue serving as <a class='news-link' href='https://www.iscb.org/ismbeccb2023-committees/track-abstract' target='_blank'> Abstract Chair for BioVis@ISMB 2023</a>
-    date: Jan, 2023
+- label: service
+  title: I am honored to serve as a VisNotes chair for PacificVis 2024 🎉
+  date: Jun, 2023
 
-  - label: paper
-    title: <a class='news-link' href='https://qianwen.info/DRAVA/' target='_blank'>Drava</a> are accepted by ACM CHI 2023 🎉
-    date: Jul, 2022
+- label: service
+  title: I am honored to continue serving as <a class='news-link' href='https://www.iscb.org/ismbeccb2023-committees/track-abstract' target='_blank'> Abstract Chair for BioVis@ISMB 2023</a>
+  date: Jan, 2023
 
+- label: paper
+  title: <a class='news-link' href='https://qianwen.info/DRAVA/' target='_blank'>Drava</a> are accepted by ACM CHI 2023 🎉
+  date: Jul, 2022
 
-  - label: award
-    title: <a class='news-link' href='/research/#nest_xai'>Our XAI design study</a> won a Hornorable Mention Award 🏆 at IEEE VIS 2022
-    date: Jul, 2022
+- label: award
+  title: <a class='news-link' href='/research/#nest_xai'>Our XAI design study</a> won a Hornorable Mention Award 🏆 at IEEE VIS 2022
+  date: Jul, 2022
 
-  - label: award
-    title: <a class='news-link' href='/research/#polyphony'>Polyphony</a> won the Best Abstract Award 🏆 at ISMB 2022
-    date: Jul, 2022
+- label: award
+  title: <a class='news-link' href='/research/#polyphony'>Polyphony</a> won the Best Abstract Award 🏆 at ISMB 2022
+  date: Jul, 2022
 
-  - label: service
-    title: I am honored to serve as a poster chair for PacificVis 2023 🎉
-    date: Jul, 2022
+- label: service
+  title: I am honored to serve as a poster chair for PacificVis 2023 🎉
+  date: Jul, 2022
 
-  - label: paper
-    title: Three papers (<a class='news-link' href='/research/#polyphony'>PolyPhony</a>, <a class='news-link' href='/research/#GenoREC' >GenoRec</a>, and <a class='news-link' href='/research/#nest_xai'> a design study on XAI </a>) are accepted by IEEE VIS 2022 🎉
-    date: Jul, 2022
+- label: paper
+  title: Three papers (<a class='news-link' href='/research/#polyphony'>PolyPhony</a>, <a class='news-link' href='/research/#GenoREC' >GenoRec</a>, and <a class='news-link' href='/research/#nest_xai'> a design study on XAI </a>) are accepted by IEEE VIS 2022 🎉
+  date: Jul, 2022
 
-  - label: award
-    title: I am hornored to receive the Postdoctoral Fellows Research Fund Award 🏆 from Harvard Data Science Initiative
-    date: Jun, 2022
+- label: award
+  title: I am hornored to receive the Postdoctoral Fellows Research Fund Award 🏆 from Harvard Data Science Initiative
+  date: Jun, 2022
 
-  - label: service
-    title: We will host a <a class='news-link' href="https://vis-biomed-ai.github.io/" target='_blank'>Visualization in Biomedical AI workshop</a> at IEEE VIS 2022 🎉
-    date: Apr, 2022
+- label: service
+  title: We will host a <a class='news-link' href="https://vis-biomed-ai.github.io/" target='_blank'>Visualization in Biomedical AI workshop</a> at IEEE VIS 2022 🎉
+  date: Apr, 2022
 
-  - label: paper
-    title: <a class='news-link' href='https://arxiv.org/abs/2011.11048' target='_blank'> GNNLens</a> is accepted by IEEE TVCG
-    date: Feb, 2022
+- label: paper
+  title: <a class='news-link' href='https://arxiv.org/abs/2011.11048' target='_blank'> GNNLens</a> is accepted by IEEE TVCG
+  date: Feb, 2022
 
-  - label: other
-    title: We will host a <a class='news-link' href='http://gosling-lang.org/tutorials/ismb' target='_blank'>Gosling/Gos tutorial</a> BioVis@ISMB2022 🎉
-    date: Feb, 2022
+- label: other
+  title: We will host a <a class='news-link' href='http://gosling-lang.org/tutorials/ismb' target='_blank'>Gosling/Gos tutorial</a> BioVis@ISMB2022 🎉
+  date: Feb, 2022
 
-  - label: service
-    title: I am honored to serve as <a class='news-link' href='http://biovis.net/2022/committee.html' target='_blank'> Abstract Chair for BioVis@ISMB2022</a>
-    date: Jan, 2022
+- label: service
+  title: I am honored to serve as <a class='news-link' href='http://biovis.net/2022/committee.html' target='_blank'> Abstract Chair for BioVis@ISMB2022</a>
+  date: Jan, 2022
 
-  - label: paper
-    title: <a class='news-link' href='http://gosling-lang.org' target='_blank'>Gosling</a> won the Best Abstract Award 🏆 at ISMB 2021
-    date: Jul, 2021
+- label: paper
+  title: <a class='news-link' href='http://gosling-lang.org' target='_blank'>Gosling</a> won the Best Abstract Award 🏆 at ISMB 2021
+  date: Jul, 2021
 
-  - label: paper
-    title: Two papers accepted by IEEE VIS 
-    date: Jul, 2021
+- label: paper
+  title: Two papers accepted by IEEE VIS
+  date: Jul, 2021
 
-  - label: paper
-    title: "One paper accepted by <a class='news-link' href='https://sites.google.com/view/imlh2021/program' target='_blank'>ICML workshop on Interpretable Machine Learning in Healthcare</a> (🏆  Best Paper Award) "
-    date: Jul, 2021
+- label: paper
+  title: "One paper accepted by <a class='news-link' href='https://sites.google.com/view/imlh2021/program' target='_blank'>ICML workshop on Interpretable Machine Learning in Healthcare</a> (🏆  Best Paper Award) "
+  date: Jul, 2021
 
-  - label: talk
-    title: Two long talks at ISMB 2021
-    date: Jul, 2021
-  
-  - label: paper
-    title: OncoThread is aceepted by ISMB Proceeding track
-    date: Mar, 2021
+- label: talk
+  title: Two long talks at ISMB 2021
+  date: Jul, 2021
 
-  - label: talk 
-    title: Invited talk at PacificVis 2021 <a class="news-link" href="http://vis.tju.edu.cn/pvis2021/Invited_talks.html" target='_blank'>Visualization meets AI</a>
-    date: Apr, 2021
+- label: paper
+  title: OncoThread is aceepted by ISMB Proceeding track
+  date: Mar, 2021
 
-  - label: paper
-    title: Three papers accepted by IEEE VIS 
-    date: Jul, 2020
+- label: talk
+  title: Invited talk at PacificVis 2021 <a class="news-link" href="http://vis.tju.edu.cn/pvis2021/Invited_talks.html" target='_blank'>Visualization meets AI</a>
+  date: Apr, 2021
 
-  - label: job
-    title: Started my PostDoc position at Harvard University
-    date: May, 2020
+- label: paper
+  title: Three papers accepted by IEEE VIS
+  date: Jul, 2020
 
-  - label: other
-    title: 'Passed my PhD thesis defense 🎉'
-    date: Dec, 2019
+- label: job
+  title: Started my PostDoc position at Harvard University
+  date: May, 2020
 
-  - label: travel
-    title: Visited the University of Oxford, hosted by Prof. Min Chen
-    date: Aug-Dec, 2019
+- label: other
+  title: "Passed my PhD thesis defense 🎉"
+  date: Dec, 2019
+
+- label: travel
+  title: Visited the University of Oxford, hosted by Prof. Min Chen
+  date: Aug-Dec, 2019
