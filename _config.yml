@@ -9,7 +9,7 @@ nav:
     # home: "/"
     Publication: "/research"
     # Awards and Services: '/awards'
-    Talks: '/talks'
+    Talks: "/talks"
     # experiences: "/experiences"
     CV: "/CV"
     # blogs: "/writing"
@@ -24,7 +24,7 @@ nav:
 
 # Bio settings
 name: "Qianwen Wang"
-description: "This is the home page of Qianwen Wang, a researcher in Data Visualization and Human-Machine Collaboration."
+description: "This is the home page of Qianwen Wang, a researcher in Data Visualization and Human-AI Collaboration."
 thumbnail_path: "qianwen.jpg"
 # bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
 # hello_startup_url: "http://www.hello-startup.net/"
@@ -71,7 +71,6 @@ contact_urls:
     url: assets/pdf/qianwen_cv.pdf
     label: CV
     icon: file
-  
 
 # Jekyll build settings
 paginate: 10
@@ -81,7 +80,7 @@ sass:
   sass_dir: "/assets/css"
   style: :compressed
 highlighter: rouge
-timezone: 'America/Los_Angeles'
+timezone: "America/Los_Angeles"
 
 # Plugins (GitHub Pages only support a few)
 gems:
