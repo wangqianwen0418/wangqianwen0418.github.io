@@ -1,10 +1,13 @@
 - label: Paper
-  title: <a class='news-link' href='https://visual-intelligence-umn.github.io/KNOWNET/' target='_blank'> KnowNet</a> was accepted by IEEE VIS 2024 and won a Honorable Mention award 🏆
-  date: Aug, 2024
+  title: "We will present <a class='news-link' href='https://visual-intelligence-umn.github.io/KNOWNET/' target='_blank'> KnowNet</a> (full paper) and <a class='news-link' href='https://github.com/Visual-Intelligence-UMN/GNN-101' target='_blank'> GNN101</a> (VISxAI workshop) at IEEE VIS 2024. 
+  KnowNet also won a Best Paper Honorable Mention award 🏆"
+  date: Oct, 2024
 
 - label: Paper
-  title: <a class='news-link' href='http://txgnn.org' target='_blank'> TxGNN </a> was accepted by Nature Medicine
-  date: Jun, 2024
+  title: "<a class='news-link' href='http://txgnn.org' target='_blank'> TxGNN </a> was accepted by Nature Medicine, 
+  and reported by <a class='news-link' href='https://news.harvard.edu/gazette/story/2024/09/using-ai-to-repurpose-existing-drugs-for-treatment-of-rare-diseases/'  target='_blank'> Harvard Gazette </a> and  
+  <a class='news-link' href='https://www.axios.com/2024/09/25/old-drugs-repurposed-rare-diseases'  target='_blank'>Axios</a>."
+  date: Oct, 2024
 
 - label: service
   title: I am honored to serve as a <a class='news-link' href='http://biovis.net/2024/committee.html' target='_blank'> General Chair for BioVis@ISMB 2024</a>

@@ -1,124 +1,132 @@
 <div class="clearfix mxn2">
-  <div class="col md-col-8 sm-col-12 px2">
+    <div class="col md-col-8 sm-col-12 px2">
 
-    <h3 class="mt0 mb1">About me</h3>
-    <p class="justify small-line-height">
-      <!-- I am Qianwen Wang (汪倩雯), currently a PostDoc at <a class="link about">Harvard Medical School</a>, working with <a
+        <h3 class="mt0 mb1">About me</h3>
+        <p class="justify small-line-height">
+            <!-- I am Qianwen Wang (汪倩雯), currently a PostDoc at <a class="link about">Harvard Medical School</a>, working with <a
         class="link about" href="https://scholar.google.com/citations?user=YEcBVFAAAAAJ&hl=en" target="_blank"> Prof.
         Nils Gehlenborg</a>. -->
-      <!-- I obtained my PhD degree from the Hong Kong University of Science and Technology in 2020, supervised by
+            <!-- I obtained my PhD degree from the Hong Kong University of Science and Technology in 2020, supervised by
       <a class="link about" href="http://www.huamin.org" target="_blank">Prof. Huamin Qu</a>. -->
-      <!-- I will join the CSE department at the University of Minnesota, Twin Cities (UMN) as a
+            <!-- I will join the CSE department at the University of Minnesota, Twin Cities (UMN) as a
       tenure-track Assistant Professor in 2023 fall. -->
-      I am Qianwen Wang (汪倩雯), a tenure-track Assistant Professor in the CS department at the University of Minnesota,
-      Twin Cities (UMN).
-    </p>
+            I am Qianwen Wang (汪倩雯), a tenure-track Assistant Professor in the CS department at the University of
+            Minnesota,
+            Twin Cities (UMN).
+        </p>
 
-    <div class="bg-light-yellow pre h5 px2 py1 border-left">
-      <!-- I will join the Department of Computer Science and Engineering as a tenure-track assistant professor in 2023 fall. -->
-      I am seeking highly motivated students, RAs, and
-      interns to be part of our dynamic team at UMN CS.
-      <!-- Feel free to <a class="link about" href="mailto:qianwen_wang@hms.harvard.edu" target="_blank">drop me an email</a>
+        <div class="bg-light-yellow pre h5 px2 py1 border-left">
+            <!-- I will join the Department of Computer Science and Engineering as a tenure-track assistant professor in 2023 fall. -->
+            I am seeking highly motivated students, RAs, and
+            interns to be part of our dynamic team at UMN CS.
+            <!-- Feel free to <a class="link about" href="mailto:qianwen_wang@hms.harvard.edu" target="_blank">drop me an email</a>
       if you are interested! -->
-      If you're interested, check out further details on <a class="link about" href="/work_with_me/">Work with
-        Me</a>
-    </div>
+            If you're interested, check out further details on <a class="link about" href="/work_with_me/">Work with
+                Me</a>
+        </div>
 
-    <p class="justify small-line-height">
-      <!-- My studies combine <span class="vis keyword">interactive visualization</span> with
+        <p class="justify small-line-height">
+            <!-- My studies combine <span class="vis keyword">interactive visualization</span> with
       <span class="ml keyword">interpretable machine learning</span> to help users better explore, understand, and
       generate insights from their data. -->
-      My studies combine <span class="vis keyword">interactive visualization</span> with
-      <span class="ml keyword">interpretable machine learning</span> to foster intuitive, efficient, and reliable
-      Human-AI collaboration.
-      My research contributes to innovative visualization techniques, Human-AI interfaces, and their practical
-      applications (e.g., biomedical knowledge graphs, single-cell omics).
+            My studies combine <span class="vis keyword">interactive visualization</span> with
+            <span class="ml keyword">interpretable machine learning</span> to foster intuitive, efficient, and reliable
+            Human-AI collaboration.
+            My research contributes to innovative visualization techniques, Human-AI interfaces, and their practical
+            applications (e.g., biomedical knowledge graphs, single-cell omics).
 
-    </p>
-    <p class="justify small-line-height">
-      My research has made contributions to visualization, human-computer interaction, and bioinformatics, as
-      demonstrated two <b>honorable mention</b> from IEEE VIS (2022, 2024), one <b>best paper</b> award from IMLH@ICML
-      2021, and
-      two <b> best abstract </b> awards from BioVis ISMB (2021, 2022).
-      I am an awardee of the <a class="link about" href="https://datascience.harvard.edu/postdoctoral-research-fund"
-        target="_blank">HDSI Postdoctoral Research Fund</a> and my research has been covered by MIT News and Nature
-      Technology Features.
-      I actively contribute to the academic community by serving, including as General Chair for ISMB
-      BioVis, VisNotes and Poster Chair for IEEE PacificVis, and as a Program Committee member for both IEEE VIS, ACM
-      CHI, and ACM IUI.
+        </p>
+        <p class="justify small-line-height">
+            My research has made contributions to visualization, human-computer interaction, and bioinformatics, as
+            demonstrated two <b>honorable mention</b> from IEEE VIS (2022, 2024), one <b>best paper</b> award from
+            IMLH@ICML
+            2021, and
+            two <b> best abstract </b> awards from BioVis ISMB (2021, 2022).
+            I am an awardee of the <a class="link about"
+                href="https://datascience.harvard.edu/postdoctoral-research-fund" target="_blank">HDSI Postdoctoral
+                Research Fund</a> and my research has been covered by MIT News and Nature
+            Technology Features.
+            I actively contribute to the academic community by serving, including as General Chair for ISMB
+            BioVis, VisNotes and Poster Chair for IEEE PacificVis, and as a Program Committee member for both IEEE VIS,
+            ACM
+            CHI, and ACM IUI.
 
-    </p>
-    <!-- <p>
+        </p>
+        <!-- <p>
       I have a passion for Research, Traveling, Reading and Painting.
     </p>   -->
-  </div>
-  <div class="col md-col-4 sm-col-12 px2 ">
-    <h3 class="mt0 mb0">News</h3>
-    <div class="clearfix max-height-500 overflow-scroll">
-      <ul class="dark-gray" style="padding-left: 20px;">
-        {% for new in site.data.news %}
-        <li class="h5 header-font">[<b>{{new.date}}</b>] {{ new.title }}</li>
-        {% endfor %}
-      </ul>
     </div>
-  </div>
+    <div class="col md-col-4 sm-col-12 px2 ">
+        <h3 class="mt0 mb0">News</h3>
+        <div class="clearfix max-height-400 overflow-scroll">
+            <ul class="dark-gray" style="padding-left: 20px;">
+                {% for new in site.data.news %}
+                <li class="h5 header-font">[<b>{{new.date}}</b>] {{ new.title }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
 </div>
 
 
 <!-- Research Themes -->
 <h3>Research Themes</h3>
 <div class="clearfix mxn2">
-  <div class="col md-col-4 sm-col-6 xs-col-12 px1">
-    <div style='background-image:url(/assets/img/themes/human-ai.png);width:100%; height: 200px;'
-      class="bg-contain border">
-      <div class=" bg-light-silver px1 py1 show-on-hover-container opacity-8">
-        <p class="bold center mb0">
-          <a class="dark-gray" href="/research/?tags=vis4ml">Human-AI Collaboration <i class="fa fa-external-link"></i>
-          </a>
-        </p>
-        <p class="h5 dark-gray justify show-on-hover mb0">
-          I design and develop tools to facilitate Human-AI collaboration,
-          which also drives my investigation on visualization techniques, algorithms, and design frameworks.
-        </p>
-      </div>
-    </div>
-    <!-- <img src="/assets/img/projects/nest_xai.png" class="theme"/> -->
+    <div class="col md-col-4 sm-col-6 xs-col-12 px1">
+        <div style='background-image:url(/assets/img/themes/human-ai.png);width:100%; height: 200px;'
+            class="bg-contain border">
+            <div class=" bg-light-silver px1 py1 show-on-hover-container opacity-8">
+                <p class="bold center mb0">
+                    <a class="dark-gray" href="/research/?tags=vis4ml">Human-AI Collaboration <i
+                            class="fa fa-external-link"></i>
+                    </a>
+                </p>
+                <p class="h5 dark-gray justify show-on-hover mb0">
+                    I design and develop tools to facilitate Human-AI collaboration,
+                    which also drives my investigation on visualization techniques, algorithms, and design frameworks.
+                </p>
+            </div>
+        </div>
+        <!-- <img src="/assets/img/projects/nest_xai.png" class="theme"/> -->
 
-  </div>
-
-  <div class="col md-col-4 sm-col-6 xs-col-12 px1">
-    <div style='background-image:url(/assets/img/projects/narvis.png);width:100%; height: 200px;' class="bg-contain">
-      <div class=" bg-light-silver px1 py1 show-on-hover-container opacity-8">
-        <p class="bold center mb0">
-          <a class="dark-gray" href="/research/?tags=ml4vis+design">Automatic &
-            Intelligent Visualization <i class="fa fa-external-link"></i></a>
-        </p>
-        <p class="h5 dark-gray justify show-on-hover mb0">
-          I propose techniques, authoring tools, and machine learning algorithms in pursuit of making visualizations
-          that
-          can be accurately
-          interpreted and easily used by everyone.
-        </p>
-      </div>
     </div>
-  </div>
 
-  <div class="col md-col-4 sm-col-6 xs-col-12 px1">
-    <div style='background-image:url(/assets/img/themes/drug.png);width:100%; height: 200px;' class="bg-contain">
-      <div class=" bg-light-silver px1 py1 show-on-hover-container opacity-8">
-        <p class="bold center mb0">
-          <a class="dark-gray" href="/research/?tags=biomed">VIS+(X)AI in Biomed/Healthcare
-            <i class="fa fa-external-link"></i>
-          </a>
-        </p>
-        <p class="h5 dark-gray justify show-on-hover mb0">
-          Through wide collaboration, I am studying how VIS + (X)AI can promote scientific discoveries, especially
-          in the field of biomedicine and
-          healthcare
-          (e.g., genomics, single-cell, and cohort analysis).
-        </p>
-      </div>
+    <div class="col md-col-4 sm-col-6 xs-col-12 px1">
+        <div style='background-image:url(/assets/img/projects/narvis.png);width:100%; height: 200px;'
+            class="bg-contain">
+            <div class=" bg-light-silver px1 py1 show-on-hover-container opacity-8">
+                <p class="bold center mb0">
+                    <a class="dark-gray" href="/research/?tags=ml4vis+design">Automatic &
+                        Intelligent Visualization <i class="fa fa-external-link"></i></a>
+                </p>
+                <p class="h5 dark-gray justify show-on-hover mb0">
+                    I propose techniques, authoring tools, and machine learning algorithms in pursuit of making
+                    visualizations
+                    that
+                    can be accurately
+                    interpreted and easily used by everyone.
+                </p>
+            </div>
+        </div>
     </div>
-  </div>
+
+    <div class="col md-col-4 sm-col-6 xs-col-12 px1">
+        <div style='background-image:url(/assets/img/themes/drug.png);width:100%; height: 200px;' class="bg-contain">
+            <div class=" bg-light-silver px1 py1 show-on-hover-container opacity-8">
+                <p class="bold center mb0">
+                    <a class="dark-gray" href="/research/?tags=biomed">VIS+(X)AI in Biomed/Healthcare
+                        <i class="fa fa-external-link"></i>
+                    </a>
+                </p>
+                <p class="h5 dark-gray justify show-on-hover mb0">
+                    Through wide collaboration, I am studying how VIS + (X)AI can promote scientific discoveries,
+                    especially
+                    in the field of biomedicine and
+                    healthcare
+                    (e.g., genomics, single-cell, and cohort analysis).
+                </p>
+            </div>
+        </div>
+    </div>
 
 </div>
