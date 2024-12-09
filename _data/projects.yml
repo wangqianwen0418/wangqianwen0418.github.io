@@ -1,6 +1,6 @@
 - name: "KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration"
   date: "2023"
-  details: https://qianwen.info/DRAVA
+  details: https://visual-intelligence-umn.github.io/KNOWNET/
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
@@ -14,9 +14,12 @@
     - url: "https://visual-intelligence-umn.github.io/KNOWNET/"
       icon: home
       label: webpage
-  cate: 
+    - url: https://www.youtube.com/watch?v=CCTr2oZaB-A
+      icon: video-camera
+      label: video
+  cate:
     - "vis4ml"
-    - "biomed"  
+    - "biomed"
 
 - name: "DRAVA: Aligning Human Concepts with Machine Learning Latent Dimensions for the Visual Exploration of Small Multiples"
   date: "2023"
@@ -34,10 +37,13 @@
     - url: "https://qianwen.info/DRAVA"
       icon: home
       label: webpage
-  cate: 
+    - url: https://www.youtube.com/watch?v=HsAjOQoVbaU
+      icon: video-camera
+      label: video
+  cate:
     - "vis4ml"
     - "ml4vis"
-    - "biomed"  
+    - "biomed"
 
 - name: "Zero-Shot Prediction of Therapeutic Use with Geometric Deep Learning and Clinician Centered Design"
   date: "2023"
@@ -55,9 +61,9 @@
     - url: "http://txgnn.org"
       icon: home
       label: webpage
-  cate: 
+  cate:
     - "vis4ml"
-    - "biomed"  
+    - "biomed"
 
 - name: "Extending the Nested Model for User-Centric XAI: A Design Study on GNN-based Drug Repurposing"
   date: "2022"
@@ -75,10 +81,9 @@
     - url: https://github.com/hms-dbmi/drug_explorer
       icon: github
       label: code
-  cate: 
+  cate:
     - "vis4ml"
-    - "biomed"  
-
+    - "biomed"
 
 - name: "Polyphony: an Interactive Transfer Learning Framework for Single-Cell Data Analysis"
   date: "2022"
@@ -96,9 +101,9 @@
     - url: https://github.com/scpolyphony
       icon: github
       label: code
-  cate: 
+  cate:
     - "vis4ml"
-    - "biomed"  
+    - "biomed"
 
 - name: "GenoREC: A Recommendation System for Interactive Genomics Data Visualization"
   date: "2022"
@@ -119,9 +124,9 @@
     - url: https://youtu.be/njVXRH4h6DM
       icon: film
       label: video
-  cate: 
+  cate:
     - "ml4vis"
-    - "biomed"  
+    - "biomed"
 
 - name: "GNNLens: A Visual Analytics Approach for Prediction Error Diagnosis of Graph Neural Networks"
   date: "2022"
@@ -136,7 +141,7 @@
     - url: "https://ieeexplore.ieee.org/document/9705076"
       icon: file
       label: PDF
-  cate: 
+  cate:
     - "vis4ml"
 
 - name: "Interactive Visual Explanations for Deep Drug Repurposing"
@@ -155,9 +160,9 @@
     - url: "http://drugexplorer.gehlenborglab.org"
       icon: desktop
       label: Demo
-  cate: 
+  cate:
     - "vis4ml"
-    - "biomed"  
+    - "biomed"
 
 - name: "ThreadStates: State-based Visual Analysis of Disease Progression"
   date: "2021"
@@ -178,7 +183,7 @@
     - url: https://github.com/hms-dbmi/OncoThreads/tree/ThreadStates
       icon: github
       label: code
-  cate: 
+  cate:
     - "biomed"
 
 - name: "Gosling: A Grammar-based Toolkit for Scalable and Interactive Genomics Data Visualization"
@@ -203,7 +208,7 @@
     - url: https://gosling.js.org
       icon: desktop
       label: demo
-  cate: 
+  cate:
     - "biomed"
     - "design"
 
@@ -221,7 +226,7 @@
     - url: https://github.com/hms-dbmi/OncoThreads
       icon: github
       label: code
-  cate: 
+  cate:
     - "biomed"
 
 - name: "A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization"
@@ -229,7 +234,7 @@
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
-  publish: IEEE Transactions on Visualization and Computer Graphics 
+  publish: IEEE Transactions on Visualization and Computer Graphics
   image: "ml4vis_survey.png"
   authors: <span class='black bold'>Qianwen Wang</span>, Zhutian Chen, Yong Wang, and Huamin Qu
   details: https://ml4vis.github.io
@@ -240,7 +245,7 @@
     - url: "https://ml4vis.github.io"
       icon: home
       label: webpage
-  cate: 
+  cate:
     - "ml4vis"
 
 - name: "Visual Analysis of Discrimination in Machine Learning"
@@ -251,7 +256,7 @@
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2020)
   image: "discriLens.png"
   authors: <span class='black bold'>Qianwen Wang</span>, Zhenhua Xu, Zhutian Chen, Yong Wang, <br/> Shixia Liu, and Huamin Qu
-  details:  /demos/discrilens
+  details: /demos/discrilens
   attach:
     - url: "https://arxiv.org/abs/2007.15182"
       icon: "file"
@@ -262,9 +267,8 @@
     - url: "/demos/discrilens"
       icon: desktop
       label: demo
-  cate: 
+  cate:
     - "vis4ml"
-
 
 - name: "HypoML: Visual Analysis for Hypothesis-based Evaluation ofMachine Learning Models"
   date: "2020"
@@ -279,7 +283,7 @@
     - url: https://hypoml.bitbucket.io
       icon: desktop
       label: demo
-  cate: 
+  cate:
     - "vis4ml"
 
 - name: "SineStream: Improving the Readability of Streamgraphs by Minimizing Sine Illusion Effects"
@@ -294,7 +298,7 @@
     - url: "/assets/pdf/sinestream.pdf"
       icon: "file"
       label: PDF
-  cate: 
+  cate:
     - "ml4vis"
 
 - name: "Augmenting Static Visualizations with PapARVis Designer"
@@ -314,9 +318,8 @@
     - url: https://github.com/PapARVis
       icon: github
       label: code
-  cate: 
+  cate:
     - "design"
-
 
 - name: "Towards Automated Infographic Design: <br/>Deep Learning-based Auto-Generation of Extensible Timeline"
   date: "2019"
@@ -332,11 +335,9 @@
     - url: https://auto-infog-timeline.github.io/
       icon: home
       label: webpage
-  cate: 
+  cate:
     - "ml4vis"
     - "design"
-
-
 
 - name: "Visual Genealogy of Deep Neural Networks"
   date: "2019"
@@ -353,7 +354,7 @@
     - url: "/demos/DNNGenealogy"
       icon: desktop
       label: demo
-  cate: 
+  cate:
     - "vis4ml"
 
 - name: "DeepDrawing: A Deep Learning Approach to Graph Drawing"
@@ -370,7 +371,7 @@
     - url: https://github.com/jiayouwyhit/deepdrawing
       icon: github
       label: code
-  cate: 
+  cate:
     - "ml4vis"
 
 - name: "ATMSeer: Increasing Transparency and Controllability <br/> in Automated Machine Learning"
@@ -391,7 +392,7 @@
     - url: https://github.com/HDI-Project/ATMSeer
       icon: github
       label: code
-  cate: 
+  cate:
     - "vis4ml"
 
 - name: "MARVisT: Authoring Glyph-based Visualization in Mobile Augmented Reality"
@@ -412,13 +413,13 @@
     - url: https://chenzhutian.org/marvist
       icon: home
       label: webpage
-  cate: 
+  cate:
     - "design"
 
 - name: "Narvis: Authoring Narrative Slideshows <br/> for Introducing Data Visualization Designs"
   date: "2018"
   description:
-    A semi-auto slideshow authoring tool that assists people in explaining visual designs to the non-experts. 
+    A semi-auto slideshow authoring tool that assists people in explaining visual designs to the non-experts.
     <br/>
   publish: IEEE InfoVis 2018, IEEE TVCG 25(1) 779-788, 2019
   details: /research/Narvis
@@ -434,9 +435,8 @@
     - url: /research/Narvis
       icon: home
       label: webpage
-  cate: 
+  cate:
     - "design"
-
 # - name: "Draw Your DNN"
 #   date: "2017"
 #   description:
@@ -445,7 +445,7 @@
 #     <b>The Award of Most Feasibility, Microsoft One week Hackthon, 2017, Beijing.</b>
 #   image: "draw.png"
 #   video: "https://hkustconnect-my.sharepoint.com/personal/qwangbb_connect_ust_hk/_layouts/15/guestaccess.aspx?docid=04b034f6ac9ca4cb59440c9b6357b2a38&authkey=AZySWLgTnKmZ74XSoHck-N0"
-#   cate: 
+#   cate:
 #     - "other"
 
 # - name: "Hello, Manager!"
@@ -453,16 +453,14 @@
 #   description:
 #     A web-based GPU cluster manager, developed during my internship at MSRA.
 #   image: "manager.PNG"
-#   cate: 
+#   cate:
 #     - "other"
 
 # - name: "Pulse of HKUST"
 #   date: "2016"
-#   description: 
+#   description:
 #     A platform where you can explore the data about our university
 #   image: "pulse.jpg"
-#   cate: 
+#   cate:
 #     - "other"
-  
-
 
