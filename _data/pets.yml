@@ -1,2 +1,23 @@
 - name: "Coco"
-  image: ""
+  info: "a super adorable Pomeranian Puppy"
+  image: "Rishi_Coco.jpg"
+
+- name: "Hugo"
+  info: "A pround troublemaker"
+  image: "Hugo.jpg"
+
+- name: "Avogadro"
+  info: "Chinese name is 阿伏"
+  image: "Ruizi_Avogadro.jpg"
+
+- name: "Reinhardt"
+  info: "A orange cat"
+  image: "Ruizi_Reinhardt.jpg"
+
+- name: "Yuki & Mitsuki"
+  info: "Yuki (white/orange) and Mitsuki (black) spend so much time together that there are very few pictures of them individually."
+  image: "YukiMitsuki_Nick.jpg"
+
+- name: "Euler"
+  info: "Gone but never forgotten: 2020.04.02 - 2025.05.29"
+  image: "Euler.jpg"
