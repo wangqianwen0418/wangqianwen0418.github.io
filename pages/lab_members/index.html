@@ -2,22 +2,44 @@
 layout: default
 title: "Lab Members"
 subtitle: "I say things like ‘What if…’ and these amazing people make them happen"
-redirect_from: "/pages/photos"
+redirect_from: "/pages/lab_members"
 header_title: Lab Members
 include_header: page_header.html
 nav_item: Life
 ---
 
-
-{% for photo in site.data.photos %}
-<div class="col sm-col-3 px2 mt2 mb2" style="height: 300px">
-  <a href="/assets/img/photos/{{photo.url}}" target="_blank"
-    class="block button button-transparent button-narrow border border-light-gray px1 py1">
-    <img style="image-orientation: from-image;" data-src="/assets/img/photos/{{photo.url}}" alt="{{photo.title}}"
-      class="valign-middle lazyload">
-    <div class="px1 pt1 center">
-      <span class="mt0 mb0 h6 header-font">{{photo.title}}</span>
+<div class="clearfix">
+  {% for member in site.data.lab_members %}
+  <div class="col md-col-3 sm-col-4 px2 mt1 mb1">
+    <!-- Square image container -->
+    <div
+      style="width: 200px; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+      <img style="width: 100%; height: 100%; object-fit: cover; image-orientation: from-image;"
+        data-src="/assets/img/lab_members/{{member.name}}.jpg" alt="{{photo.title}}" class="lazyload">
     </div>
-  </a>
+    <div class="px1 pt1" style="line-height: 1rem;">
+      <a href="{{member.pageURL}}" target="_blank">{{member.name}}</a>
+      <br />
+      <span class="mt0 mb0 h6 header-font">{{member.info}}</span>
+    </div>
+  </div>
+  {% endfor %}
+
+</div>
+
+<h2 class="mt0"> Non-Human Collaborators</h2>
+{% for member in site.data.pets %}
+<div class="col md-col-3 sm-col-4 px2 mt1 mb1">
+  <!-- Square image container -->
+  <div
+    style="width: 200px; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+    <img style="width: 100%; height: 100%; object-fit: cover; image-orientation: from-image;"
+      data-src="/assets/img/lab_members/{{member.name}}.jpg" alt="{{photo.title}}" class="lazyload">
+  </div>
+  <div class="px1 pt1" style="line-height: 1rem;">
+    <a href="{{member.pageURL}}" target="_blank">{{member.name}}</a>
+    <br />
+    <span class="mt0 mb0 h6 header-font">{{member.info}}</span>
+  </div>
 </div>
 {% endfor %}
