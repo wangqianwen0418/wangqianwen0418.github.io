@@ -1,10 +1,22 @@
+- title: "First Winter in Minnesota, 2024"
+  url: "hugo_winter.jpeg"
+
+- title: "VIS Faculty Summer Camp, 2023"
+  url: "summer_camp.jpeg"
+
+- title: "First in-person VIS after pandemic, 2022"
+  url: "vis_2024.jpeg"
+
+- title: "Experienced Blue Hair, 2021"
+  url: "blue_hair.jpeg"
+
 - title: "WFH with my cat, 2020"
   url: "euler.jpg"
 
 - title: "Swans at Oxford, 2019"
   url: "swan.jpg"
 
-- title: "Elephant Sanctuary, 2019"
+- title: "With Elephant, 2019"
   url: "elephant.jpg"
 
 - title: "Etosha National Park, 2018"
@@ -12,9 +24,6 @@
 
 - title: "Skydiving, 2018"
   url: "sky.jpg"
-
-
-
 
 - title: "Dead Vlei, 2018"
   url: "vlei.jpg"
@@ -36,6 +45,6 @@
 
 - title: "First Dinner at HKUST, 2015"
   url: "first_dinner.jpg"
-  
+
 - title: "Graduate from XJTU! 2015"
   url: "graduate.jpg"
