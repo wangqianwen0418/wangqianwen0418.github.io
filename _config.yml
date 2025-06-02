@@ -7,14 +7,15 @@ icon: "/assets/img/icons/cat.ico"
 nav:
   main:
     # home: "/"
-    Publication: "/research"
+    Publication: "/pages/research"
     # Awards and Services: '/awards'
-    Talks: "/talks"
+    Talks: "/pages/talks"
     # experiences: "/experiences"
-    CV: "/CV"
+    CV: "/pages/CV"
     # blogs: "/writing"
-    Life: "/photos"
-    Work with Me: "/work_with_me"
+    Life: "/pages/photos"
+    Lab Members: "/pages/lab_members"
+    Work with Me: "/pages/work_with_me"
 
   blogs:
     all: "/writing"
