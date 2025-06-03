@@ -1,5 +1,5 @@
 - name: "Coco"
-  info: "a super adorable Pomeranian Puppy"
+  info: "A super adorable Pomeranian puppy"
   image: "Rishi_Coco.jpg"
 
 - name: "Hugo"
@@ -19,5 +19,5 @@
   image: "YukiMitsuki_Nick.jpg"
 
 - name: "Euler"
-  info: "Gone but never forgotten: 2020.04.02 - 2025.05.29"
+  info: "Tuxedo cat. Feline mathematician. 2020.04.02 - 2025.05.29"
   image: "Euler.jpg"
