@@ -1,10 +1,6 @@
-- name: "Coco"
-  info: "A super adorable Pomeranian puppy"
-  image: "Rishi_Coco.jpg"
-
 - name: "Hugo"
   info: "A pround troublemaker"
-  image: "Hugo.jpg"
+  image: "Hugo2.jpg"
 
 - name: "Avogadro"
   info: "Chinese name is 阿伏"
@@ -17,6 +13,10 @@
 - name: "Yuki & Mitsuki"
   info: "Yuki (white/orange) and Mitsuki (black) spend so much time together that there are very few pictures of them individually."
   image: "YukiMitsuki_Nick.jpg"
+
+- name: "Coco"
+  info: "A super adorable Pomeranian puppy"
+  image: "Rishi_Coco.jpg"
 
 - name: "Euler"
   info: "Tuxedo cat. Feline mathematician. 2020.04.02 - 2025.05.29"

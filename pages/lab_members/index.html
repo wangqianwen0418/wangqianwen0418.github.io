@@ -8,7 +8,7 @@ include_header: page_header.html
 nav_item: Life
 ---
 
-<div class="clearfix">
+<div class="clearfix  mb2">
   {% for member in site.data.lab_members %}
   <div class="col md-col-3 sm-col-4 px2 mt1 mb1">
     <!-- Square image container -->
@@ -28,18 +28,20 @@ nav_item: Life
 </div>
 
 <h2 class="mt0"> Non-Human Collaborators</h2>
-{% for member in site.data.pets %}
-<div class="col md-col-3 sm-col-4 px2 mt1 mb1">
-  <!-- Square image container -->
-  <div
-    style="width: 200px; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-    <img style="width: 100%; height: 100%; object-fit: cover; image-orientation: from-image;"
-      data-src="/assets/img/lab_pets/{{member.image}}" alt="{{photo.title}}" class="lazyload">
+<div class="clearfix mb2">
+  {% for member in site.data.pets %}
+  <div class="col md-col-3 sm-col-4 px2 mt1 mb1">
+    <!-- Square image container -->
+    <div
+      style="width: 200px; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+      <img style="width: 100%; height: 100%; object-fit: cover; image-orientation: from-image;"
+        data-src="/assets/img/lab_pets/{{member.image}}" alt="{{photo.title}}" class="lazyload">
+    </div>
+    <div class="px1 pt1" style="line-height: 1rem;">
+      {{member.name}}
+      <br />
+      <span class="mt0 mb0 h6 header-font">{{member.info}}</span>
+    </div>
   </div>
-  <div class="px1 pt1" style="line-height: 1rem;">
-    {{member.name}}
-    <br />
-    <span class="mt0 mb0 h6 header-font">{{member.info}}</span>
-  </div>
+  {% endfor %}
 </div>
-{% endfor %}
