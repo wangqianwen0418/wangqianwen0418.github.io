@@ -18,6 +18,10 @@
   info: "A super adorable Pomeranian puppy"
   image: "Rishi_Coco.jpg"
 
+- name: "Guo Dan Pi"
+  info: "Everyone thought he was a girl due to his sweetness, until we tried to find him a boyfriend…"
+  image: "GuoDanpi.jpg"
+
 - name: "Euler"
   info: "Tuxedo cat. Feline mathematician. 2020.04.02 - 2025.05.29"
   image: "Euler.jpg"
