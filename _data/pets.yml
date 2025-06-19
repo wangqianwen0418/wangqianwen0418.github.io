@@ -2,6 +2,23 @@
   info: "A pround troublemaker"
   image: "Hugo.jpeg"
 
+- name: "Lake"
+  info: "Calmest dog ever, very zen"
+  image: "Lake.jpg"
+
+- name: "Rose"
+  info: "Likes biting people and furniture."
+  image: "Rose.jpg"
+
+- name: "Coco"
+  info: "A super adorable Pomeranian puppy"
+  image: "Rishi_Coco.jpg"
+
+
+- name: "Guo Dan Pi"
+  info: "Everyone thought he was a girl due to his sweetness, until we tried to find him a boyfriend…"
+  image: "GuoDanpi.jpg"
+
 - name: "Avogadro"
   info: "Chinese name is 阿伏"
   image: "Ruizi_Avogadro.jpg"
@@ -14,14 +31,8 @@
   info: "Yuki (white/orange) and Mitsuki (black) spend so much time together that there are very few pictures of them individually."
   image: "YukiMitsuki_Nick.jpg"
 
-- name: "Coco"
-  info: "A super adorable Pomeranian puppy"
-  image: "Rishi_Coco.jpg"
 
-- name: "Guo Dan Pi"
-  info: "Everyone thought he was a girl due to his sweetness, until we tried to find him a boyfriend…"
-  image: "GuoDanpi.jpg"
 
-- name: "Euler"
-  info: "Tuxedo cat. Feline mathematician. 2020.04.02 - 2025.05.29"
-  image: "Euler.jpg"
+# - name: "Euler"
+#   info: "Tuxedo cat. Feline mathematician. 2020.04.02 - 2025.05.29"
+#   image: "Euler.jpg"

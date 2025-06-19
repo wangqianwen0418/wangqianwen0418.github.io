@@ -14,13 +14,16 @@
   info: "Master Student, UMN CS&E"
   pageURL: "https://rishiselvakumaran98.github.io/React-Portfolio-website/"
 
-- name: "Ruizi Wang"
-  info: "Master Student, UMN CS&E Robotics"
+- name: "Rishi Selvakumaran"
+  info: "Master Student, UMN CS&E"
+  pageURL: "https://rishiselvakumaran98.github.io/React-Portfolio-website/"
+
+
+- name: "Mauricio Villavicencio"
+  info: "Master Student, UMN CS&E"
   pageURL: "https://ether9t.github.io/"
 
-- name: "Yilin(Harry) Lu"
-  info: "Undergraduate Student, UMN CS, Math, Econ"
-  pageURL: "https://sites.google.com/umn.edu/yilinharry-lu/bio"
+
 
 - name: "Nick Hinds"
   info: "Undergraduate Student, UMN CS"
@@ -29,3 +32,12 @@
 - name: "Shurui Du"
   info: "Undergraduate Student, UMN CS"
   pageURL: ""
+
+- name: "Yilin(Harry) Lu"
+  info: "Undergraduate Student, UMN CS, Math, Econ"
+  pageURL: "https://sites.google.com/umn.edu/yilinharry-lu/bio"
+
+
+- name: "Yuxin Chen"
+  info: "Undergraduate Student, UMN CS"
+  pageURL: "https://richsomeday222.github.io/PersonalWeb/"
