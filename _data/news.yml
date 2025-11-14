@@ -1,3 +1,38 @@
+- label: service
+  title: "Receive a subaward from <a class='news-link' href='https://datascience.nih.gov/artificial-intelligence/aim-ahead' target='_blank'> NIH AIM-AHEAD </a> as a mentor for the Research Fellowship Program"
+  date: Nov, 2025
+
+- label: Paper
+  title: "Our paper <a class='news-link' href='https://github.com/Visual-Intelligence-UMN/GNN-101' target='_blank'> GNN101</a> got accepted by IEEE TVCG!"
+  date: Nov, 2025
+
+- label: service
+  title: Co-organize the 1st <a class="news-link" href="https://visxgenai.github.io" target="_blank"> VISxGenAI workshop </a> at IEEE VIS 2025 🎉 and hosted the 1st <a class="news-link" href="https://amplify.dvsuyr25l38y1.amplifyapp.com/" target="_blank"> Agentic VIS Challenge </a>
+  date: Oct, 2025
+
+- label: service
+  title: "I am honored to continue serving as a Tutorial & Panel Chair for VIS 2026</a>"
+  date: Oct, 2025
+
+- label: Paper
+  title: We will present two full papers (
+    <a class="news-link" href="https://github.com/Visual-Intelligence-UMN/FlowForge" target="_blank"> FlowForge </a>, 
+    <a class="news-link" href="https://osf.io/qtsak_v2/" target="_blank"> Can LLM bridge Domain and VIS </a>), 
+    two short papers (
+    <a class="news-link" href="https://arxiv.org/abs/2508.18640" target="_blank">ReverseXAI</a>, 
+    <a class="news-link" href="https://github.com/Visual-Intelligence-UMN/The-Agentopia-Times" target="_blank"> Agentopia Times </a>), 
+    <a class="news-link" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10992274" target="_blank"> one TVCG paper </a> at VIS 2025. 
+    See you at Vienna!
+  date: Jun, 2025
+
+- label: service
+  title: I am honored to serve as a <a class='news-link' href='http://biovis.net/2024/committee.html' target='_blank'> General Chair for BioVis@ISMB 2025</a>
+  date: Jan, 2025
+
+- label: service
+  title: "I am honored to serve as a <a class='news-link' href='https://ieeevis.org/year/2025/info/committees/conference-committee' target='_blank'> Tutorial & Panel Chair for VIS 2025</a>"
+  date: Nov, 2024
+
 - label: Paper
   title: "We will present <a class='news-link' href='https://visual-intelligence-umn.github.io/KNOWNET/' target='_blank'> KnowNet</a> (full paper) and <a class='news-link' href='https://github.com/Visual-Intelligence-UMN/GNN-101' target='_blank'> GNN101</a> (VISxAI workshop) at IEEE VIS 2024. 
   KnowNet also won a Best Paper Honorable Mention award 🏆"
