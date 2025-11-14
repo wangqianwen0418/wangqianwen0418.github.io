@@ -6,9 +6,9 @@
   info: "PhD Student, UMN CS&E"
   pageURL: "https://pstong216.github.io/"
 
-- name: "Gayathri Balaji"
-  info: "Master Student, UMN CS&E"
-  pageURL: "https://gayathribalaji98.github.io/GayathriBalaji/"
+# - name: "Gayathri Balaji"
+#   info: "Master Student, UMN CS&E"
+#   pageURL: "https://gayathribalaji98.github.io/GayathriBalaji/"
 
 - name: "Rishi Selvakumaran"
   info: "Master Student, UMN CS&E"
@@ -20,6 +20,10 @@
 
 - name: "Mauricio Villavicencio"
   info: "Master Student, UMN CS&E"
+  pageURL: ""
+
+- name: "Robert Specht"
+  info: "Master Student, UMN Statistics"
   pageURL: ""
 
 - name: "Nick Hinds"
