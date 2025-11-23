@@ -12,11 +12,11 @@
   <div class="col sm-col-8 px2">
     {% if include.project.details %}
     <a href="{{ include.project.details }}" target="_blank"
-      name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}">
-      <{{ project_title_element }} class="mt0 mb0">{{ include.project.name }}</{{ project_title_element }}>
+      name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}" >
+      <{{ project_title_element }} class="mt0 mb0 h4">{{ include.project.name }}</{{ project_title_element }}>
     </a>
     {% else %}
-    <span name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}">
+    <span name="{{ include.project.name | downcase | replace:' ','-' | remove:',' }}" >
       <{{ project_title_element }} class="mt0 mb0">{{ include.project.name }}</{{ project_title_element }}>
     </span>
     {% endif %}

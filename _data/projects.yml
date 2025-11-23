@@ -1,19 +1,140 @@
+- name: "GNN 101: Visual Learning of Graph Neural Networks in Your Web Browser"
+  date: "2025"
+  details: https://doi.ieeecomputersociety.org/10.1109/TVCG.2025.3634087
+  publish: To appear in IEEE Transactions on Visualization and Computer Graphics
+  image: "gnn101.png"
+  authors: <span class="underline">Yilin Lu</span>, <span class="underline">Chongwei Chen</span>, <span class="underline">Yuxin Chen</span>, Kexin Huang, Marinka Zitnik, <span class='black bold'>Qianwen Wang</span>
+  attach:
+    - url: "https://arxiv.org/abs/2411.17849"
+      icon: file
+      label: PDF
+    - url: "https://visual-intelligence-umn.github.io/GNN-101/"
+      icon: desktop
+      label: Demo
+    - url: https://github.com/Visual-Intelligence-UMN/GNN-101
+      icon: github
+      label: Code
+  cate:
+    - "vis4ml"
+    - "AI Education"
+
+- name: "FlowForge: Guiding the creation of multi-agent workflows with design space visualization as a thinking scaffold"
+  date: "2025"
+  details: https://github.com/Visual-Intelligence-UMN/FlowForge
+  publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2025)
+  image: "flowforge.png"
+  authors: <span class="underline">Pan Hao</span>, Dongyeop Kang, <span class="underline">Nicholas Hinds</span>, <span class='black bold'>Qianwen Wang</span>
+  attach:
+    - url: "https://arxiv.org/pdf/2507.15559"
+      icon: file
+      label: PDF
+    - url: "https://github.com/Visual-Intelligence-UMN/FlowForge"
+      icon: github
+      label: Code
+    - url: https://vis-flow-forge-demo.vercel.app
+      icon: desktop
+      label: demo
+  cate:
+    - "vis4ml"
+    - "LLM agents"
+
+- name: "Enhancing XAI Interpretation through a Reverse Mapping from Insights to Visualizations"
+  date: "2025"
+  details: 
+  publish: Proc. IEEE VIS 2025 Short Paper
+  image: "reverseXAI.png"
+  authors: <span class="underline">Aniket Nuthalapati*</span>, <span class="underline">Nicholas Hinds*</span>, Brian Y. Lim, <span class='black bold'>Qianwen Wang</span>
+  attach:
+    - url: "https://arxiv.org/pdf/2508.18640"
+      icon: file
+      label: PDF
+  cate:
+    - "xai"
+    - "vis4ml"
+
+- name: "Can LLMs Bridge Domain and Visualization? A Case Study on High-Dimension Data Visualization in Single-Cell Transcriptomics"
+  date: "2025"
+  details: https://doi.org/10.1109/TVCG.2025.3633869
+  publish: IEEE Transactions on Visualization & Computer Graphics (Proc. IEEE VIS 2025)
+  image: "can_llm.png"
+  authors: <span class="black bold">Qianwen Wang</span>, <span class="underline">Xinyi Liu</span>, Nils Gehlenborg
+  attach:
+    - url: "https://osf.io/preprints/osf/qtsak_v2"
+      icon: file
+      label: PDF
+  cate:
+    - "ml4vis"
+    - "biomed"
+    - "LLM Agent"
+
+- name: "A critical analysis of the usage of dimensionality reduction in four domains"
+  date: "2024"
+  details: https://dimension-reduction-vis.github.io
+  publish: IEEE Transactions on Visualization & Computer Graphics  (2025)
+  image: "dr.png"
+  authors: Dylan Cashman, Mark Keller, Hyeon Jeon, Bum Chul Kwon, <span class='black bold'>Qianwen Wang</span>
+  attach:
+    - url: "https://arxiv.org/pdf/2503.08836"
+      icon: file
+      label: PDF
+    - url: "https://dimension-reduction-vis.github.io"
+      icon: home
+      label: Project Page
+  cate:
+    - "dimensionality_reduction"
+    - "visualization"
+
+# - name: "The State of Single-Cell Atlas Data Visualization in the Biological Literature"
+#   date: "2025"
+#   details: https://doi.org/10.1109/MCG.2025.3583979
+#   publish: IEEE Computer Graphics & Applications 45(5):18-34 (2025)
+#   image: "single_cell_atlas_data_visualization.png"
+#   authors: Mark S. Keller, Eric Mörth, Thomas C. Smits, Simon Warchol, Grace Guo, <span class='black bold'>Qianwen Wang</span>, Robert Krueger, Hanspeter Pfister, Nils Gehlenborg
+#   attach:
+#     - url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12580505/"
+#       icon: file
+#       label: PDF
+#   cate:
+#     - "biomed"
+#     - "data_visualization"
+
+
+- name: "Zero-Shot Prediction of Therapeutic Use with Geometric Deep Learning and Clinician Centered Design"
+  date: "2024"
+  details: http://txgnn.org
+  # description:
+  #   A visual summary of representative DNNs and their evolutionary relationships.
+  #   <br/>
+  publish: Nature Medicine
+  image: "txgnn.png"
+  authors: Kexin Huang, Payal Chandak, <span class='black bold'>Qianwen Wang</span>, Shreyas Havaldar, Akhil Vaid, Jure Leskovec, Girish Nadkarni, Benjamin S. Glicksberg, Nils Gehlenborg, Marinka Zitnik
+  attach:
+    - url: "https://www.medrxiv.org/content/10.1101/2023.03.19.23287458v1.full.pdf"
+      icon: file
+      label: PDF
+    - url: "http://txgnn.org"
+      icon: desktop
+      label: demo
+  cate:
+    - "vis4ml"
+    - "biomed"
+
 - name: "KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration"
-  date: "2023"
+  date: "2024"
   details: https://visual-intelligence-umn.github.io/KNOWNET/
   # description:
   #   A visual summary of representative DNNs and their evolutionary relationships.
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2024)<br/> 🏆 <span class="orange">Best Paper Honorable Mention</span>
   image: "knownet.png"
-  authors: Youfu Yan, Yu Hou, Yongkang Xiao, Rui Zhang, <span class='black bold'>Qianwen Wang</span>
+  authors: <span class="underline">Youfu Yan*</span>, <span class="underline">Yu Hou*</span>, Yongkang Xiao, Rui Zhang, <span class='black bold'>Qianwen Wang</span>
   attach:
     - url: "https://arxiv.org/abs/2407.13598"
       icon: file
       label: PDF
     - url: "https://visual-intelligence-umn.github.io/KNOWNET/"
       icon: home
-      label: webpage
+      label: Project Page
     - url: https://www.youtube.com/watch?v=CCTr2oZaB-A
       icon: video-camera
       label: video
@@ -36,7 +157,7 @@
       label: PDF
     - url: "https://qianwen.info/DRAVA"
       icon: home
-      label: webpage
+      label: Project Page
     - url: https://www.youtube.com/watch?v=HsAjOQoVbaU
       icon: video-camera
       label: video
@@ -45,25 +166,6 @@
     - "ml4vis"
     - "biomed"
 
-- name: "Zero-Shot Prediction of Therapeutic Use with Geometric Deep Learning and Clinician Centered Design"
-  date: "2023"
-  details: http://txgnn.org
-  # description:
-  #   A visual summary of representative DNNs and their evolutionary relationships.
-  #   <br/>
-  publish: to appear in Nature Medicine
-  image: "txgnn.png"
-  authors: Kexin Huang, Payal Chandak, <span class='black bold'>Qianwen Wang</span>, Shreyas Havaldar, Akhil Vaid, Jure Leskovec, Girish Nadkarni, Benjamin S. Glicksberg, Nils Gehlenborg, Marinka Zitnik
-  attach:
-    - url: "https://www.medrxiv.org/content/10.1101/2023.03.19.23287458v1.full.pdf"
-      icon: file
-      label: PDF
-    - url: "http://txgnn.org"
-      icon: home
-      label: webpage
-  cate:
-    - "vis4ml"
-    - "biomed"
 
 - name: "Extending the Nested Model for User-Centric XAI: A Design Study on GNN-based Drug Repurposing"
   date: "2022"
@@ -92,7 +194,7 @@
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)<br/> 🏆 <span class="orange">Best Abstract Award at BioVis@ISMB 2022</span>
   image: "polyphony.png"
-  authors: Furui Cheng, Mark S Keller, Huamin Qu, Nils Gehlenborg, <span class='black bold'>Qianwen Wang</span>
+  authors: <span class="underline">Furui Cheng</span>, Mark S Keller, Huamin Qu, Nils Gehlenborg, <span class='black bold'>Qianwen Wang</span>
   details: https://osf.io/b76nt
   attach:
     - url: "https://osf.io/b76nt"
@@ -112,7 +214,7 @@
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS 2022)
   image: "GenoREC.jpeg"
-  authors: Aditeya Pandey, Sehi L'Yi, <span class='black bold'>Qianwen Wang</span>, Michelle Borkin, Nils Gehlenborg
+  authors: <span class="underline">Aditeya Pandey</span>, Sehi L'Yi, <span class='black bold'>Qianwen Wang</span>, Michelle Borkin, Nils Gehlenborg
   details: https://osf.io/rscb4/
   attach:
     - url: "https://osf.io/rscb4/"
@@ -136,7 +238,7 @@
   publish: IEEE Transactions on Visualization and Computer Graphics 2022
   details: https://ieeexplore.ieee.org/document/9705076
   image: "gnnlens.png"
-  authors: Zhihua Jin, Yong Wang, <span class='black bold'>Qianwen Wang</span>, Yao Ming, Tengfei Ma, Huamin Qu
+  authors: <span class="underline">Zhihua Jin</span>, Yong Wang, <span class='black bold'>Qianwen Wang</span>, Yao Ming, Tengfei Ma, Huamin Qu
   attach:
     - url: "https://ieeexplore.ieee.org/document/9705076"
       icon: file
@@ -179,7 +281,7 @@
       label: PDF
     - url: "http://threadstates.gehlenborglab.org"
       icon: home
-      label: webpage
+      label: Project Page
     - url: https://github.com/hms-dbmi/OncoThreads/tree/ThreadStates
       icon: github
       label: code
@@ -201,7 +303,7 @@
       label: PDF
     - url: "http://gosling-lang.org"
       icon: home
-      label: webpage
+      label: Project Page
     - url: https://github.com/gosling-lang/gosling.js
       icon: github
       label: code
@@ -244,7 +346,7 @@
       label: PDF
     - url: "https://ml4vis.github.io"
       icon: home
-      label: webpage
+      label: Project Page
   cate:
     - "ml4vis"
 
@@ -255,7 +357,7 @@
   #   <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2020)
   image: "discriLens.png"
-  authors: <span class='black bold'>Qianwen Wang</span>, Zhenhua Xu, Zhutian Chen, Yong Wang, <br/> Shixia Liu, and Huamin Qu
+  authors: <span class='black bold'>Qianwen Wang</span>, <span class="underline">Zhenhua Xu</span>, Zhutian Chen, Yong Wang, <br/> Shixia Liu, and Huamin Qu
   details: /demos/discrilens
   attach:
     - url: "https://arxiv.org/abs/2007.15182"
@@ -292,7 +394,7 @@
   #   A visual summary of representative DNNs and their evolutionary relationships.
   publish: IEEE Transactions on Visualization and Computer Graphics <br/> (Proc. IEEE InfoVis 2020)
   image: "sinestream.png"
-  authors: Chuan Bu, Quanjie Zhang, <span class='black bold'>Qianwen Wang</span>, Jian Zhang, Michael Sedlmair, Oliver Deussen, Yunhai Wang.
+  authors: <span class="underline">Chuan Bu</span>, Quanjie Zhang, <span class='black bold'>Qianwen Wang</span>, Jian Zhang, Michael Sedlmair, Oliver Deussen, Yunhai Wang.
   doi: https://doi.org/10.1109/TVCG.2020.3030404
   attach:
     - url: "/assets/pdf/sinestream.pdf"
@@ -334,7 +436,7 @@
       label: PDF
     - url: https://auto-infog-timeline.github.io/
       icon: home
-      label: webpage
+      label: Project Page
   cate:
     - "ml4vis"
     - "design"
@@ -346,7 +448,7 @@
     <br/>
   publish: IEEE Transactions on Visualization and Computer Graphics 2019
   image: "dnn.png"
-  authors: <span class='black bold'>Qianwen Wang</span>, Jun Yuan, Shuxin Chen, Su Hang, Huamin Qu, Shixia Liu
+  authors: <span class='black bold'>Qianwen Wang</span>, <span class="underline">Jun Yuan</span>, <span class="underline">Shuxin Chen</span>, Su Hang, Huamin Qu, Shixia Liu
   attach:
     - url: "/assets/pdf/dnn.pdf"
       icon: "file"
@@ -412,7 +514,7 @@
       lable: video
     - url: https://chenzhutian.org/marvist
       icon: home
-      label: webpage
+      label: Project Page
   cate:
     - "design"
 
@@ -434,7 +536,7 @@
       icon: film
     - url: /research/Narvis
       icon: home
-      label: webpage
+      label: Project Page
   cate:
     - "design"
 # - name: "Draw Your DNN"
