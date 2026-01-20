@@ -42,7 +42,7 @@ Find more at [Why study computer science at the University of Minnesota?](https:
 
 Particularly relevant to my research area, UMN CSE has a strong vis/graphics/VR group, under the umbrella of [Human-Centered Computing](https://cse.umn.edu/cs/human-centered-computing).
 The medical school is just cross the stree from the CSE building, presenting an ideal environment for interdisciplinary research endeavors.
-**UMN is ranked highly in Visualization according to [csrankings.org](https://csrankings.org/index?visualization&us#/fromyear/2019/toyear/2023/index?visualization&us).**
+**UMN is ranked highly in Visualization according to [csrankings.org](https://csrankings.org/index?visualization&us#/fromyear/2021/toyear/2026/index?visualization&us).**
 
 In terms of live, the campus is located in the heart of the Minneapolis-Saint Paul (twin cities) metropolitan area, which are incredibly diverse cities with vibrant neighborhoods, award-winning parks and recreation opportunities, exciting professional sports teams, renowned restaurants, and top-notch entertainment options.  
 In addition, Minnesota has a strong business climate — with 16 Fortune 500 companies and many of the nation’s largest companies (e.g., Target, 3M, UnitedHealthGroup, Mayo Clinic) headquartered here. 
